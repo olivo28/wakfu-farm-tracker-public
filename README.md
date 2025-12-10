@@ -58,9 +58,14 @@ Medio plazo:
 
 **MIT License**
 
-Copyright (c) 2024 Antikux
+Copyright (c) 2025 Antikux
 
-... (El resto de la licencia se mantiene igual)
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: the above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Aviso legal corto
+Esta herramienta procesa y muestra información obtenida del cliente/juego y de fuentes públicas. El autor no se hace responsable de su uso ni de daños derivados del software. Usa el ejecutable bajo tu responsabilidad.
 
 ---
 
@@ -112,7 +117,12 @@ Medium term:
 
 Copyright (c) 2024 Antikux
 
-...
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: the above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Short legal notice
+This tool processes and displays information obtained from the game client and public sources. The author is not liable for any misuse or damages. Use the executable at your own risk.
 
 ---
 
@@ -163,7 +173,11 @@ Moyen terme :
 
 Copyright (c) 2024 Antikux
 
-...
+Ce logiciel est fourni « tel quel », sans garantie d'aucune sorte, expresse ou implicite, y compris, mais sans s'y limiter, les garanties de qualité marchande, d'adéquation à un usage particulier et d'absence de contrefaçon. En aucun cas, les auteurs ou titulaires du droit d'auteur ne seront responsables de toute réclamation, dommage ou autre responsabilité, que ce soit dans une action contractuelle, délictuelle ou autre, découlant de, hors de ou en connexion avec le logiciel ou l'utilisation ou d'autres transactions dans le logiciel.
+
+**Avis Légal Court :**
+Cet outil traite et affiche des informations obtenues à partir du client du jeu et de sources publiques. L'auteur n'est pas responsable de toute mauvaise utilisation ou de tout dommage. Utilisez l'exécutable à vos risques et périls.
+
 
 ---
 
@@ -214,4 +228,8 @@ Médio prazo:
 
 Copyright (c) 2024 Antikux
 
-...
+Este software é fornecido "no estado em que se encontra", sem garantia de qualquer tipo, expressa ou implícita, incluindo, mas não se limitando às garantias de comercialização, adequação a uma finalidade específica e não violação. Em hipótese alguma os autores ou detentores de direitos autorais serão responsáveis por qualquer reclamação, danos ou outra responsabilidade, seja em uma ação de contrato, ato ilícito ou de outra forma, decorrente de, fora de ou em conexão com o software ou o uso ou outras negociações no software.
+
+**Aviso Legal Curto:**
+Esta ferramenta processa e exibe informações obtidas no cliente do jogo e em fontes públicas. O autor não se responsabiliza por qualquer uso indevido ou danos. Utilize o executável por sua conta e risco.
+   
