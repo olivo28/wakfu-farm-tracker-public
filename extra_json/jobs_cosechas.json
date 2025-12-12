@@ -1,0 +1,2744 @@
+{
+    "64": {
+        "nombre": {
+            "es": "Campesino",
+            "en": "Farmer",
+            "fr": "Paysan",
+            "pt": "Fazendeiro"
+        },
+        "cosechas": {
+            "1889": {
+                "nombre": {
+                    "es": "Topinambo",
+                    "en": "Artichoke",
+                    "fr": "Topinambour",
+                    "pt": "Alcachofra"
+                },
+                "items": [
+                    "1889",
+                    "32725",
+                    "32723",
+                    "4335",
+                    "20590"
+                ],
+                "nivel": 5,
+                "imgUrl": "https://wakfu.wiki.gg/images/Artichoke_%28crop%29.png"
+            },
+            "1902": {
+                "nombre": {
+                    "es": "Planta de enchalada",
+                    "en": "Babbage Plant",
+                    "fr": "Plant de Salace",
+                    "pt": "Pepolho"
+                },
+                "items": [
+                    "1902",
+                    "32725",
+                    "32723",
+                    "1886",
+                    "23831"
+                ],
+                "nivel": 25,
+                "imgUrl": "https://wakfu.wiki.gg/images/Babbage_Plant.png"
+            },
+            "4278": {
+                "nombre": {
+                    "es": "Trigo",
+                    "en": "Wheat",
+                    "fr": "Blé",
+                    "pt": "Trigo"
+                },
+                "items": [
+                    "4278",
+                    "32725",
+                    "32723",
+                    "1752",
+                    "7932"
+                ],
+                "nivel": 0,
+                "imgUrl": "https://wakfu.wiki.gg/images/Wheat.png"
+            },
+            "4279": {
+                "nombre": {
+                    "es": "Cebada",
+                    "en": "Barley",
+                    "fr": "Orge",
+                    "pt": "Cevada"
+                },
+                "items": [
+                    "4279",
+                    "32725",
+                    "32723",
+                    "1750",
+                    "20685"
+                ],
+                "nivel": 15,
+                "imgUrl": "https://wakfu.wiki.gg/images/Barley.png"
+            },
+            "5443": {
+                "nombre": {
+                    "es": "Maíz",
+                    "en": "Corn",
+                    "fr": "Maïs",
+                    "pt": "Milho"
+                },
+                "items": [
+                    "5443",
+                    "32725",
+                    "32723",
+                    "1786",
+                    "13168"
+                ],
+                "nivel": 65,
+                "imgUrl": "https://wakfu.wiki.gg/images/Corn_%28crop%29.png"
+            },
+            "6948": {
+                "nombre": {
+                    "es": "Zanahowia",
+                    "en": "Cawwot Plant",
+                    "fr": "Plant d'Cawotte",
+                    "pt": "Cenouwa"
+                },
+                "items": [
+                    "6948",
+                    "32725",
+                    "32723",
+                    "7314",
+                    "23830"
+                ],
+                "nivel": 20,
+                "imgUrl": "https://wakfu.wiki.gg/images/Cawwot_Plant.png"
+            },
+            "9268": {
+                "nombre": {
+                    "es": "Tuberbulbo",
+                    "en": "Tuberbulb",
+                    "fr": "Tuberbulbe",
+                    "pt": "Nabulbo"
+                },
+                "items": [
+                    "9268",
+                    "32725",
+                    "32723",
+                    "9269",
+                    "18790"
+                ],
+                "nivel": 10,
+                "imgUrl": "https://wakfu.wiki.gg/images/Tuberbulb_%28crop%29.png"
+            },
+            "9805": {
+                "nombre": {
+                    "es": "Judía",
+                    "en": "Beans",
+                    "fr": "Fayot",
+                    "pt": "Feijão"
+                },
+                "items": [
+                    "9805",
+                    "32725",
+                    "32723",
+                    "13172",
+                    "9777"
+                ],
+                "nivel": 70,
+                "imgUrl": "https://wakfu.wiki.gg/images/Beans_%28crop%29.png"
+            },
+            "11462": {
+                "nombre": {
+                    "es": "Avena",
+                    "en": "Oats",
+                    "fr": "Avoine",
+                    "pt": "Aveias"
+                },
+                "items": [
+                    "11462",
+                    "32725",
+                    "32723",
+                    "11461",
+                    "23682"
+                ],
+                "nivel": 30,
+                "imgUrl": "https://wakfu.wiki.gg/images/Oats.png"
+            },
+            "11464": {
+                "nombre": {
+                    "es": "Melón",
+                    "en": "Melon",
+                    "fr": "Melon",
+                    "pt": "Melão"
+                },
+                "items": [
+                    "11464",
+                    "32725",
+                    "32723",
+                    "11463",
+                    "22499"
+                ],
+                "nivel": 35,
+                "imgUrl": "https://wakfu.wiki.gg/images/Melon_%28crop%29.png"
+            },
+            "11467": {
+                "nombre": {
+                    "es": "Centeno",
+                    "en": "Magic Beanstalk",
+                    "fr": "Plant de fayot magique",
+                    "pt": "Centeio"
+                },
+                "items": [
+                    "11467",
+                    "32725",
+                    "32723",
+                    "11466",
+                    "23478"
+                ],
+                "nivel": 40,
+                "imgUrl": "https://wakfu.wiki.gg/images/Rye.png"
+            },
+            "11469": {
+                "nombre": {
+                    "es": "Champiñón veteado",
+                    "en": "Mottled Mushroom",
+                    "fr": "Champignon Marbré",
+                    "pt": "Cogumelo Marmóreo"
+                },
+                "items": [
+                    "11469",
+                    "32725",
+                    "32723",
+                    "11468",
+                    "22145"
+                ],
+                "nivel": 45,
+                "imgUrl": "https://wakfu.wiki.gg/images/Mottled_Mushroom_%28crop%29.png"
+            },
+            "11472": {
+                "nombre": {
+                    "es": "Arroz Legión",
+                    "en": "Vanilla Rice",
+                    "fr": "Riz-Légion",
+                    "pt": "Arroz de Festa"
+                },
+                "items": [
+                    "11472",
+                    "32725",
+                    "32723",
+                    "11474",
+                    "23470"
+                ],
+                "nivel": 50,
+                "imgUrl": "https://wakfu.wiki.gg/images/Vanilla_Rice_%28crop%29.png"
+            },
+            "13163": {
+                "nombre": {
+                    "es": "Makafé dorado",
+                    "en": "Golden Makoffee",
+                    "fr": "Makafé d'or",
+                    "pt": "Makafé Dourado"
+                },
+                "items": [
+                    "13163",
+                    "32725",
+                    "32723",
+                    "13162",
+                    "13164"
+                ],
+                "nivel": 55,
+                "imgUrl": "https://wakfu.wiki.gg/images/Golden_Makoffe_%28crop%29.png"
+            },
+            "13166": {
+                "nombre": {
+                    "es": "Sandía",
+                    "en": "Watermelon",
+                    "fr": "Pastèque",
+                    "pt": "Melancia"
+                },
+                "items": [
+                    "13166",
+                    "32725",
+                    "32723",
+                    "13165",
+                    "13167"
+                ],
+                "nivel": 60,
+                "imgUrl": "https://wakfu.wiki.gg/images/Watermelon_%28crop%29.png"
+            },
+            "17369": {
+                "nombre": {
+                    "es": "Zanahowia negwa",
+                    "en": "Black Cawwot Plant",
+                    "fr": "Plant d'Cawotte noiwe",
+                    "pt": "Cenouwa Pweta"
+                },
+                "items": [
+                    "17369",
+                    "32725",
+                    "32723",
+                    "17368",
+                    "22962"
+                ],
+                "nivel": 85,
+                "imgUrl": "https://wakfu.wiki.gg/images/Black_Cawwot_Plant.png"
+            },
+            "18115": {
+                "nombre": {
+                    "es": "Trufa del desierto",
+                    "en": "Desert Truffle",
+                    "fr": "Truffe du Désert",
+                    "pt": "Trufa do Deserto"
+                },
+                "items": [
+                    "18115",
+                    "32725",
+                    "32723",
+                    "18114",
+                    "23166"
+                ],
+                "nivel": 75,
+                "imgUrl": "https://wakfu.wiki.gg/images/Desert_Truffle_%28crop%29.png"
+            },
+            "18117": {
+                "nombre": {
+                    "es": "Luciseta",
+                    "en": "Mushray",
+                    "fr": "Champoule",
+                    "pt": "Coguvela"
+                },
+                "items": [
+                    "18117",
+                    "32725",
+                    "32723",
+                    "18116",
+                    "22961"
+                ],
+                "nivel": 80,
+                "imgUrl": "https://wakfu.wiki.gg/images/Mushray_%28crop%29.png"
+            },
+            "18477": {
+                "nombre": {
+                    "es": "Col",
+                    "en": "Jollyflower",
+                    "fr": "Chou-Chou",
+                    "pt": "Couve-Florriso"
+                },
+                "items": [
+                    "18477",
+                    "32725",
+                    "32723",
+                    "18479",
+                    "18480"
+                ],
+                "nivel": 90,
+                "imgUrl": "https://wakfu.wiki.gg/images/Jollyflower_%28crop%29.png"
+            },
+            "18481": {
+                "nombre": {
+                    "es": "Girasol",
+                    "en": "Sunflower",
+                    "fr": "Tournesol",
+                    "pt": "Girassol"
+                },
+                "items": [
+                    "18481",
+                    "32725",
+                    "32723",
+                    "18478",
+                    "18482"
+                ],
+                "nivel": 95,
+                "imgUrl": "https://wakfu.wiki.gg/images/Sunflower_%28crop%29.png"
+            },
+            "19174": {
+                "nombre": {
+                    "es": "Fresa",
+                    "en": "Strawberry",
+                    "fr": "Fraise",
+                    "pt": "Morango"
+                },
+                "items": [
+                    "19174",
+                    "32725",
+                    "32723",
+                    "19173",
+                    "19175"
+                ],
+                "nivel": 100,
+                "imgUrl": "https://wakfu.wiki.gg/images/Strawberry_%28crop%29.png"
+            },
+            "19764": {
+                "nombre": {
+                    "es": "Caña de palma",
+                    "en": "Palm Rod",
+                    "fr": "Canne à Palme",
+                    "pt": "Bastão da palma"
+                },
+                "items": [
+                    "19764",
+                    "32725",
+                    "32723",
+                    "19763",
+                    "19765"
+                ],
+                "nivel": 115,
+                "imgUrl": "https://wakfu.wiki.gg/images/Palm_Rod.png"
+            },
+            "19768": {
+                "nombre": {
+                    "es": "Yuka",
+                    "en": "Maniok",
+                    "fr": "Maniok",
+                    "pt": "Uaipim"
+                },
+                "items": [
+                    "19768",
+                    "32725",
+                    "32723",
+                    "19767",
+                    "19769"
+                ],
+                "nivel": 110,
+                "imgUrl": "https://wakfu.wiki.gg/images/Maniok.png"
+            },
+            "20187": {
+                "nombre": {
+                    "es": "Calabaza",
+                    "en": "Pumpkin",
+                    "fr": "Citrouille",
+                    "pt": "Abóbora"
+                },
+                "items": [
+                    "20187",
+                    "32725",
+                    "32723",
+                    "20186",
+                    "22127"
+                ],
+                "nivel": 105,
+                "imgUrl": "https://wakfu.wiki.gg/images/Pumpkin_%28crop%29.png"
+            },
+            "22060": {
+                "nombre": {
+                    "es": "Miniyute",
+                    "en": "Sweat Jute",
+                    "fr": "Mini-jute",
+                    "pt": "Juta Suarda"
+                },
+                "items": [
+                    "22060",
+                    "32725",
+                    "32723",
+                    "22061",
+                    "22062"
+                ],
+                "nivel": 120,
+                "imgUrl": "https://wakfu.wiki.gg/images/Sweat_Jute.png"
+            },
+            "22063": {
+                "nombre": {
+                    "es": "Pimiento",
+                    "en": "Chili",
+                    "fr": "Piment",
+                    "pt": "Pimenta"
+                },
+                "items": [
+                    "22063",
+                    "32725",
+                    "32723",
+                    "22065",
+                    "22128"
+                ],
+                "nivel": 125,
+                "imgUrl": "https://wakfu.wiki.gg/images/Chili.png"
+            },
+            "27852": {
+                "nombre": {
+                    "es": "Arándano helado",
+                    "en": "Iced Cranberry",
+                    "fr": "Canneberge glacée",
+                    "pt": "Arando Gelado"
+                },
+                "items": [
+                    "27852",
+                    "32725",
+                    "32723",
+                    "27851",
+                    "27853"
+                ],
+                "nivel": 130,
+                "imgUrl": "https://wakfu.wiki.gg/images/Iced_Cranberry_%28crop%29.png"
+            },
+            "27855": {
+                "nombre": {
+                    "es": "Cactoso",
+                    "en": "Hactus",
+                    "fr": "Cactousse",
+                    "pt": "Cactosse"
+                },
+                "items": [
+                    "27855",
+                    "32725",
+                    "32723",
+                    "27854",
+                    "27856"
+                ],
+                "nivel": 135,
+                "imgUrl": "https://wakfu.wiki.gg/images/Hactus_%28crop%29.png"
+            },
+            "28745": {
+                "nombre": {
+                    "es": "Fruta del demonio",
+                    "en": "Bloodiflower",
+                    "fr": "Fruit du démon",
+                    "pt": "Fruto do Demônio"
+                },
+                "items": [
+                    "28745",
+                    "32725",
+                    "32723",
+                    "28744",
+                    "28746"
+                ],
+                "nivel": 140,
+                "imgUrl": "https://wakfu.wiki.gg/images/Demon_Fruit_%28crop%29.png"
+            },
+            "28748": {
+                "nombre": {
+                    "es": "Frijol maléfico",
+                    "en": "Evil Bean",
+                    "fr": "Haricot maléfique",
+                    "pt": "Feijão Maligno"
+                },
+                "items": [
+                    "28748",
+                    "32725",
+                    "32723",
+                    "28747",
+                    "28749"
+                ],
+                "nivel": 145,
+                "imgUrl": "https://wakfu.wiki.gg/images/Evil_Bean_%28crop%29.png"
+            },
+            "31814": {
+                "nombre": {
+                    "es": "Sanguiflor",
+                    "en": "Demon Fruit",
+                    "fr": "Sanguiflore",
+                    "pt": "Sanguiflor"
+                },
+                "items": [
+                    "31814",
+                    "32725",
+                    "32723",
+                    "31813",
+                    "31815"
+                ],
+                "nivel": 140,
+                "imgUrl": "https://wakfu.wiki.gg/images/Demon_Fruit_%28crop%29.png"
+            },
+            "31817": {
+                "nombre": {
+                    "es": "Raíz esbirria",
+                    "en": "Grambo Root",
+                    "fr": "Racine grouilleuse",
+                    "pt": "Raiz Gramba"
+                },
+                "items": [
+                    "31817",
+                    "32725",
+                    "32723",
+                    "31816",
+                    "31818"
+                ],
+                "nivel": 145,
+                "imgUrl": "https://wakfu.wiki.gg/images/Evil_Bean_%28crop%29.png"
+            },
+            "unk_2o9uq": {
+                "nombre": {
+                    "es": "Astracacia",
+                    "en": "Astracacia",
+                    "fr": "Astracacia",
+                    "pt": "Astracácia"
+                },
+                "items": [],
+                "nivel": 0,
+                "imgUrl": "https://wakfu.wiki.gg/images/Wheat.png"
+            },
+            "unk_mpkty": {
+                "nombre": {
+                    "es": "Planta de judías mágicas",
+                    "en": "Rye",
+                    "fr": "Seigle",
+                    "pt": "Pé de Feijão Mágico"
+                },
+                "items": [],
+                "nivel": 40,
+                "imgUrl": "https://wakfu.wiki.gg/images/Rye.png"
+            }
+        }
+    },
+    "71": {
+        "nombre": {
+            "es": "Leñador",
+            "en": "Lumberjack",
+            "fr": "Forestier",
+            "pt": "Lenhador"
+        },
+        "cosechas": {
+            "1718": {
+                "nombre": {
+                    "es": "Ñiamzamo",
+                    "en": "Api Tree",
+                    "fr": "Pommier",
+                    "pt": "Árvore de Api"
+                },
+                "items": [
+                    "1718",
+                    "32725",
+                    "32723",
+                    "8065",
+                    "1734",
+                    "20684"
+                ],
+                "nivel": 15,
+                "imgUrl": "https://wakfu.wiki.gg/images/Api_Tree.png"
+            },
+            "1719": {
+                "nombre": {
+                    "es": "Abedul",
+                    "en": "Birch",
+                    "fr": "Bouleau",
+                    "pt": "Bétula"
+                },
+                "items": [
+                    "1719",
+                    "32725",
+                    "32723",
+                    "8066",
+                    "23829"
+                ],
+                "nivel": 20,
+                "imgUrl": "https://wakfu.wiki.gg/images/Birch.png"
+            },
+            "1723": {
+                "nombre": {
+                    "es": "Fresno",
+                    "en": "Neo Tree",
+                    "fr": "Frêne",
+                    "pt": "Freixo"
+                },
+                "items": [
+                    "1723",
+                    "32725",
+                    "32723",
+                    "8063",
+                    "11438"
+                ],
+                "nivel": 0,
+                "imgUrl": "https://wakfu.wiki.gg/images/Ash.png"
+            },
+            "1732": {
+                "nombre": {
+                    "es": "Avellano",
+                    "en": "Hazel Tree",
+                    "fr": "Noisetier",
+                    "pt": "Avelaneira"
+                },
+                "items": [
+                    "1732",
+                    "32725",
+                    "32723",
+                    "8064",
+                    "1746",
+                    "20589"
+                ],
+                "nivel": 5,
+                "imgUrl": "https://wakfu.wiki.gg/images/Hazel_Tree.png"
+            },
+            "5426": {
+                "nombre": {
+                    "es": "Álamo",
+                    "en": "Pooplar",
+                    "fr": "Pouplier",
+                    "pt": "Pop'lar"
+                },
+                "items": [
+                    "5426",
+                    "32725",
+                    "32723",
+                    "8068",
+                    "22144"
+                ],
+                "nivel": 45,
+                "imgUrl": "https://wakfu.wiki.gg/images/Pooplar.png"
+            },
+            "8069": {
+                "nombre": {
+                    "es": "Carpe",
+                    "en": "Charm",
+                    "fr": "Charme",
+                    "pt": "Cárpino"
+                },
+                "items": [
+                    "8069",
+                    "32725",
+                    "32723",
+                    "6162",
+                    "23469"
+                ],
+                "nivel": 50,
+                "imgUrl": "https://wakfu.wiki.gg/images/Charm_Tree.png"
+            },
+            "8171": {
+                "nombre": {
+                    "es": "Sauce llorón",
+                    "en": "Weeping Willow",
+                    "fr": "Saule pleureur",
+                    "pt": "Salgueiro Chorão"
+                },
+                "items": [
+                    "8171",
+                    "32725",
+                    "32723",
+                    "8172",
+                    "23681"
+                ],
+                "nivel": 30,
+                "imgUrl": "https://wakfu.wiki.gg/images/Weeping_Willow.png"
+            },
+            "8399": {
+                "nombre": {
+                    "es": "Pino ancestral",
+                    "en": "Ancestral Pine",
+                    "fr": "Pin Ancestral",
+                    "pt": "Pau-brasil Jovem"
+                },
+                "items": [
+                    "8399",
+                    "32725",
+                    "32723"
+                ],
+                "nivel": 40,
+                "imgUrl": "https://wakfu.wiki.gg/images/Baby_Redwood.png"
+            },
+            "10008": {
+                "nombre": {
+                    "es": "Boabob",
+                    "en": "Boabob",
+                    "fr": "Boabob",
+                    "pt": "Boabob"
+                },
+                "items": [
+                    "10008",
+                    "32725",
+                    "32723",
+                    "10009",
+                    "22152"
+                ],
+                "nivel": 25,
+                "imgUrl": "https://wakfu.wiki.gg/images/Boabob_Tree.png"
+            },
+            "10430": {
+                "nombre": {
+                    "es": "Bananaranjo",
+                    "en": "Citronana Tree",
+                    "fr": "Bananagrumier",
+                    "pt": "Árvore de Bananagrume"
+                },
+                "items": [
+                    "10430",
+                    "32725",
+                    "32723",
+                    "10431",
+                    "22143",
+                    "5409"
+                ],
+                "nivel": 35,
+                "imgUrl": "https://wakfu.wiki.gg/images/Citronana_Tree.png"
+            },
+            "10736": {
+                "nombre": {
+                    "es": "Secuoygan",
+                    "en": "Baby Redwood",
+                    "fr": "Sequoiu",
+                    "pt": "Pinho Ancestral"
+                },
+                "items": [
+                    "10736",
+                    "32725",
+                    "32723",
+                    "10737",
+                    "23477"
+                ],
+                "nivel": 40,
+                "imgUrl": "https://wakfu.wiki.gg/images/Baby_Redwood.png"
+            },
+            "11439": {
+                "nombre": {
+                    "es": "Castaño",
+                    "en": "Chestnut Tree",
+                    "fr": "Châtaignier",
+                    "pt": "Castanheiro"
+                },
+                "items": [
+                    "11439",
+                    "32725",
+                    "32723",
+                    "11440",
+                    "11441",
+                    "20588"
+                ],
+                "nivel": 10,
+                "imgUrl": "https://wakfu.wiki.gg/images/Chestnut_Tree.png"
+            },
+            "13093": {
+                "nombre": {
+                    "es": "Desmochado",
+                    "en": "Tadbole",
+                    "fr": "Têtard",
+                    "pt": "Girino"
+                },
+                "items": [
+                    "13093",
+                    "32725",
+                    "32723",
+                    "12004",
+                    "13094"
+                ],
+                "nivel": 55,
+                "imgUrl": "https://wakfu.wiki.gg/images/Tadbole.png"
+            },
+            "13095": {
+                "nombre": {
+                    "es": "Liana trepadora",
+                    "en": "Creeping Vine",
+                    "fr": "Liane grimpante",
+                    "pt": "Trepadeira"
+                },
+                "items": [
+                    "13095",
+                    "32725",
+                    "32723",
+                    "13096",
+                    "13097"
+                ],
+                "nivel": 60,
+                "imgUrl": "https://wakfu.wiki.gg/images/Creeping_Vine_Tree.png"
+            },
+            "13100": {
+                "nombre": {
+                    "es": "Madera helada",
+                    "en": "Frozen Wood",
+                    "fr": "Bois gelé",
+                    "pt": "Madeira Congelada"
+                },
+                "items": [
+                    "13100",
+                    "32725",
+                    "32723",
+                    "13098",
+                    "16031",
+                    "23328"
+                ],
+                "nivel": 65,
+                "imgUrl": "https://wakfu.wiki.gg/images/Frozen_Tree.png"
+            },
+            "13109": {
+                "nombre": {
+                    "es": "Tejo",
+                    "en": "Yew",
+                    "fr": "If",
+                    "pt": "Teixo"
+                },
+                "items": [
+                    "13109",
+                    "32725",
+                    "32723",
+                    "13110",
+                    "13111"
+                ],
+                "nivel": 70,
+                "imgUrl": "https://wakfu.wiki.gg/images/Yew.png"
+            },
+            "13113": {
+                "nombre": {
+                    "es": "Belgameta",
+                    "en": "Marmalot",
+                    "fr": "Belgamète",
+                    "pt": "Marmelote"
+                },
+                "items": [
+                    "13113",
+                    "32725",
+                    "32723",
+                    "13114",
+                    "22960"
+                ],
+                "nivel": 85,
+                "imgUrl": "https://wakfu.wiki.gg/images/Marmalot_Tree.png"
+            },
+            "18106": {
+                "nombre": {
+                    "es": "Cactus",
+                    "en": "Cactus",
+                    "fr": "Cactus",
+                    "pt": "Cactos"
+                },
+                "items": [
+                    "18106",
+                    "32725",
+                    "32723",
+                    "18107",
+                    "18108",
+                    "23151"
+                ],
+                "nivel": 75,
+                "imgUrl": "https://wakfu.wiki.gg/images/Cactus_Tree.png"
+            },
+            "18110": {
+                "nombre": {
+                    "es": "Champivela",
+                    "en": "Mosscandel",
+                    "fr": "Myscandelle",
+                    "pt": "Musgovela"
+                },
+                "items": [
+                    "18110",
+                    "32725",
+                    "32723",
+                    "18111",
+                    "18113",
+                    "22959"
+                ],
+                "nivel": 80,
+                "imgUrl": "https://wakfu.wiki.gg/images/Mosscandel_Tree.png"
+            },
+            "18465": {
+                "nombre": {
+                    "es": "Saúco sanguíneo",
+                    "en": "Blood Elderberry",
+                    "fr": "Sureau sanguin",
+                    "pt": "Sabugueiro Sangrento"
+                },
+                "items": [
+                    "18465",
+                    "32725",
+                    "32723",
+                    "18467",
+                    "22785"
+                ],
+                "nivel": 90,
+                "imgUrl": "https://wakfu.wiki.gg/images/Blood_Elderberry_Tree.png"
+            },
+            "18466": {
+                "nombre": {
+                    "es": "Pino Silvestre",
+                    "en": "Sylvan Pine",
+                    "fr": "Pin Sylvestre",
+                    "pt": "Pinho Silvestre"
+                },
+                "items": [
+                    "18466",
+                    "32725",
+                    "32723",
+                    "18469",
+                    "22786"
+                ],
+                "nivel": 95,
+                "imgUrl": "https://wakfu.wiki.gg/images/Sylvan_Pine_Tree.png"
+            },
+            "19169": {
+                "nombre": {
+                    "es": "Pino seco",
+                    "en": "Dry Pine",
+                    "fr": "Pin sec",
+                    "pt": "Pinho Seco"
+                },
+                "items": [
+                    "19169",
+                    "32725",
+                    "32723",
+                    "19167",
+                    "19168"
+                ],
+                "nivel": 100,
+                "imgUrl": "https://wakfu.wiki.gg/images/Dry_Pine_Tree.png"
+            },
+            "19753": {
+                "nombre": {
+                    "es": "Kokotero",
+                    "en": "Kokonut",
+                    "fr": "Kokotier",
+                    "pt": "Koko"
+                },
+                "items": [
+                    "19753",
+                    "32725",
+                    "32723",
+                    "19754",
+                    "19755"
+                ],
+                "nivel": 115,
+                "imgUrl": "https://wakfu.wiki.gg/images/Kokonut_Tree.png"
+            },
+            "19756": {
+                "nombre": {
+                    "es": "Divi divi",
+                    "en": "Divi Divi",
+                    "fr": "Divi Divi",
+                    "pt": "Divi Divi"
+                },
+                "items": [
+                    "19756",
+                    "32725",
+                    "32723",
+                    "19757",
+                    "19758"
+                ],
+                "nivel": 110,
+                "imgUrl": "https://wakfu.wiki.gg/images/Divi_Divi_Tree.png"
+            },
+            "20180": {
+                "nombre": {
+                    "es": "Cerezo",
+                    "en": "Cherry Tree",
+                    "fr": "Cerisier",
+                    "pt": "Cerejeira"
+                },
+                "items": [
+                    "20180",
+                    "32725",
+                    "32723",
+                    "20181",
+                    "20182"
+                ],
+                "nivel": 105,
+                "imgUrl": "https://wakfu.wiki.gg/images/Cherry_Tree.png"
+            },
+            "22053": {
+                "nombre": {
+                    "es": "Maracajú",
+                    "en": "Mahogany",
+                    "fr": "Acajou",
+                    "pt": "Acaju"
+                },
+                "items": [
+                    "22053",
+                    "32725",
+                    "32723",
+                    "22054",
+                    "22055",
+                    "13107"
+                ],
+                "nivel": 120,
+                "imgUrl": "https://wakfu.wiki.gg/images/Mahogany_Tree.png"
+            },
+            "22056": {
+                "nombre": {
+                    "es": "Zarza",
+                    "en": "Bramble",
+                    "fr": "Ronce",
+                    "pt": "Sarça"
+                },
+                "items": [
+                    "22056",
+                    "32725",
+                    "32723",
+                    "22057",
+                    "22058",
+                    "22059"
+                ],
+                "nivel": 125,
+                "imgUrl": "https://wakfu.wiki.gg/images/Bramble_%28tree%29.png"
+            },
+            "27845": {
+                "nombre": {
+                    "es": "Carya",
+                    "en": "Carya",
+                    "fr": "Carya",
+                    "pt": "Carya"
+                },
+                "items": [
+                    "27845",
+                    "32725",
+                    "32723",
+                    "27846",
+                    "27847"
+                ],
+                "nivel": 130,
+                "imgUrl": "https://wakfu.wiki.gg/images/Carya_Tree.png"
+            },
+            "27848": {
+                "nombre": {
+                    "es": "Algatrenza",
+                    "en": "Twisted Seaweed",
+                    "fr": "Algue torsade",
+                    "pt": "Alga Trançada"
+                },
+                "items": [
+                    "27848",
+                    "32725",
+                    "32723",
+                    "27849",
+                    "27850"
+                ],
+                "nivel": 135,
+                "imgUrl": "https://wakfu.wiki.gg/images/Twisted_Seaweed_Tree.png"
+            },
+            "28738": {
+                "nombre": {
+                    "es": "Desesperárbol",
+                    "en": "Despair Tree",
+                    "fr": "Désespoirbre",
+                    "pt": "Desesperárvore"
+                },
+                "items": [
+                    "28738",
+                    "32725",
+                    "32723",
+                    "28739",
+                    "28740"
+                ],
+                "nivel": 140,
+                "imgUrl": "https://wakfu.wiki.gg/images/Despair_Tree.png"
+            },
+            "28741": {
+                "nombre": {
+                    "es": "Noaya",
+                    "en": "Nonbeeching",
+                    "fr": "Non-hêtre",
+                    "pt": "Nadaucária"
+                },
+                "items": [
+                    "28741",
+                    "32725",
+                    "32723",
+                    "28742",
+                    "28743"
+                ],
+                "nivel": 145,
+                "imgUrl": "https://wakfu.wiki.gg/images/Nonbeeching_Tree.png"
+            },
+            "30939": {
+                "nombre": {
+                    "es": "Árbol de Wakfu",
+                    "en": "Ash",
+                    "fr": "Arbre de Wakfu",
+                    "pt": "Árvore de Wakfu"
+                },
+                "items": [
+                    "30939"
+                ],
+                "nivel": 0,
+                "imgUrl": "https://wakfu.wiki.gg/images/Ash.png"
+            },
+            "31829": {
+                "nombre": {
+                    "es": "Astracacia",
+                    "en": "Astracacia",
+                    "fr": "Astracacia",
+                    "pt": "Astracácia"
+                },
+                "items": [
+                    "31829",
+                    "32725",
+                    "32723",
+                    "31830",
+                    "31831"
+                ],
+                "nivel": 140,
+                "imgUrl": "https://wakfu.wiki.gg/images/Despair_Tree.png"
+            },
+            "31832": {
+                "nombre": {
+                    "es": "Lucil",
+                    "en": "Luzyl",
+                    "fr": "Luzyl",
+                    "pt": "Luzyl"
+                },
+                "items": [
+                    "31832",
+                    "32725",
+                    "32723",
+                    "31833",
+                    "31834"
+                ],
+                "nivel": 145,
+                "imgUrl": "https://wakfu.wiki.gg/images/Nonbeeching_Tree.png"
+            },
+            "32726": {
+                "nombre": {
+                    "es": "Neoárbol",
+                    "en": "Wakfu Tree",
+                    "fr": "Néo-Arbre",
+                    "pt": "Neo-Árvore"
+                },
+                "items": [
+                    "32726"
+                ],
+                "nivel": 0,
+                "imgUrl": "https://wakfu.wiki.gg/images/Ash.png"
+            },
+            "unk_s7yvy": {
+                "nombre": {
+                    "es": "Árbol de Haluín",
+                    "en": "Al Howin Tree",
+                    "fr": "Arbre d'Halouine",
+                    "pt": "Árvore de Relouin"
+                },
+                "items": [],
+                "nivel": 0,
+                "imgUrl": "https://wakfu.wiki.gg/images/Ash.png"
+            },
+            "unk_jmt30": {
+                "nombre": {
+                    "es": "Árbol Wakfu",
+                    "en": "Mystical Sakura",
+                    "fr": "Arbre Wakfu",
+                    "pt": "Árvore Wakfu"
+                },
+                "items": [],
+                "nivel": 0,
+                "imgUrl": "https://wakfu.wiki.gg/images/Ash.png"
+            },
+            "unk_jlecn": {
+                "nombre": {
+                    "es": "Sakura mística",
+                    "en": "Wakfu Tree",
+                    "fr": "Sakoura Mystique",
+                    "pt": "Sacura Mística"
+                },
+                "items": [],
+                "nivel": 0,
+                "imgUrl": "https://wakfu.wiki.gg/images/Ash.png"
+            }
+        }
+    },
+    "72": {
+        "nombre": {
+            "es": "Herbolario",
+            "en": "Herbalist",
+            "fr": "Herboriste",
+            "pt": "Herborista"
+        },
+        "cosechas": {
+            "1783": {
+                "nombre": {
+                    "es": "Booleto",
+                    "en": "Puffball",
+                    "fr": "Boolet",
+                    "pt": "Explosinho"
+                },
+                "items": [
+                    "1783",
+                    "32725",
+                    "32723",
+                    "5453",
+                    "13149"
+                ],
+                "nivel": 70,
+                "imgUrl": "https://wakfu.wiki.gg/images/Puffball_%28plant%29.png"
+            },
+            "4273": {
+                "nombre": {
+                    "es": "Gárgolo",
+                    "en": "Gorsegoyle",
+                    "fr": "Gargousier",
+                    "pt": "Fruta de Enjuá"
+                },
+                "items": [
+                    "4273",
+                    "32725",
+                    "32723",
+                    "1832",
+                    "22142"
+                ],
+                "nivel": 40,
+                "imgUrl": "https://wakfu.wiki.gg/images/Gorsegoyle.png"
+            },
+            "4275": {
+                "nombre": {
+                    "es": "Cardo borriquero",
+                    "en": "Celestial Flower",
+                    "fr": "Chardon couronné",
+                    "pt": "Cardo Coroado"
+                },
+                "items": [
+                    "4275",
+                    "32725",
+                    "32723",
+                    "2504",
+                    "11447"
+                ],
+                "nivel": 0,
+                "imgUrl": "https://wakfu.wiki.gg/images/Celestial_Flower_%28plant%29.png"
+            },
+            "4441": {
+                "nombre": {
+                    "es": "Lino de las llanuras",
+                    "en": "Plain Flax",
+                    "fr": "Lin des Plaines",
+                    "pt": "Linho Comum"
+                },
+                "items": [
+                    "4441",
+                    "32725",
+                    "32723",
+                    "4440",
+                    "13159"
+                ],
+                "nivel": 10,
+                "imgUrl": "https://wakfu.wiki.gg/images/Plain_Flax.png"
+            },
+            "4443": {
+                "nombre": {
+                    "es": "Ayahloveras",
+                    "en": "Cotton",
+                    "fr": "Croton",
+                    "pt": "Samambaiaçu"
+                },
+                "items": [
+                    "4443",
+                    "32725",
+                    "32723"
+                ],
+                "nivel": 60,
+                "imgUrl": "https://wakfu.wiki.gg/images/Cotton.png"
+            },
+            "5440": {
+                "nombre": {
+                    "es": "Trébol perfumado",
+                    "en": "Scented Clover",
+                    "fr": "Trèfle parfumé",
+                    "pt": "Trevo de Cheiro"
+                },
+                "items": [
+                    "5440",
+                    "32725",
+                    "32723",
+                    "4444",
+                    "23832"
+                ],
+                "nivel": 20,
+                "imgUrl": "https://wakfu.wiki.gg/images/Scented_Clover_%28plant%29.png"
+            },
+            "9270": {
+                "nombre": {
+                    "es": "Orquídea",
+                    "en": "Orchid",
+                    "fr": "Orchidée",
+                    "pt": "Orquídea"
+                },
+                "items": [
+                    "9270",
+                    "32725",
+                    "32723",
+                    "9271",
+                    "23833"
+                ],
+                "nivel": 25,
+                "imgUrl": "https://wakfu.wiki.gg/images/Orchid.png"
+            },
+            "10958": {
+                "nombre": {
+                    "es": "Rododendro",
+                    "en": "Dendron",
+                    "fr": "Rhodon",
+                    "pt": "Dendro"
+                },
+                "items": [
+                    "10958",
+                    "32725",
+                    "32723",
+                    "10957",
+                    "23472"
+                ],
+                "nivel": 50,
+                "imgUrl": "https://wakfu.wiki.gg/images/Dendron.png"
+            },
+            "11451": {
+                "nombre": {
+                    "es": "Irys",
+                    "en": "Iriss",
+                    "fr": "Irisse",
+                    "pt": "Íriche"
+                },
+                "items": [
+                    "11451",
+                    "32725",
+                    "32723",
+                    "11452",
+                    "20587"
+                ],
+                "nivel": 5,
+                "imgUrl": "https://wakfu.wiki.gg/images/Iriss.png"
+            },
+            "11454": {
+                "nombre": {
+                    "es": "Menta salvaje",
+                    "en": "Wild Mint",
+                    "fr": "Menthe Sauvage",
+                    "pt": "Menta Selvagem"
+                },
+                "items": [
+                    "11454",
+                    "32725",
+                    "32723",
+                    "11453",
+                    "20683"
+                ],
+                "nivel": 15,
+                "imgUrl": "https://wakfu.wiki.gg/images/Wild_Mint.png"
+            },
+            "11455": {
+                "nombre": {
+                    "es": "Helecho lecho",
+                    "en": "Fuzzy Fern",
+                    "fr": "Fougère duvet",
+                    "pt": "Samambaia Felpuda"
+                },
+                "items": [
+                    "11455",
+                    "32725",
+                    "32723",
+                    "11456",
+                    "23683"
+                ],
+                "nivel": 30,
+                "imgUrl": "https://wakfu.wiki.gg/images/Fuzzy_Fern.png"
+            },
+            "11458": {
+                "nombre": {
+                    "es": "Alga narina",
+                    "en": "Nostril Algae",
+                    "fr": "Algue Narine",
+                    "pt": "Alga Narina"
+                },
+                "items": [
+                    "11458",
+                    "32725",
+                    "32723",
+                    "11457",
+                    "23684"
+                ],
+                "nivel": 35,
+                "imgUrl": "https://wakfu.wiki.gg/images/Nostril_Algae_%28plant%29.png"
+            },
+            "13140": {
+                "nombre": {
+                    "es": "Lengua de muuugresa",
+                    "en": "Funkus",
+                    "fr": "Pied de Boufton",
+                    "pt": "Pé de Paparneiro"
+                },
+                "items": [
+                    "13140",
+                    "32725",
+                    "32723",
+                    "13139",
+                    "23471"
+                ],
+                "nivel": 55,
+                "imgUrl": "https://wakfu.wiki.gg/images/Funkus_%28plant%29.png"
+            },
+            "13144": {
+                "nombre": {
+                    "es": "Edelweiss",
+                    "en": "Edelweiss",
+                    "fr": "Edelweiss",
+                    "pt": "Edelvais"
+                },
+                "items": [
+                    "13144",
+                    "32725",
+                    "32723",
+                    "13143",
+                    "13145"
+                ],
+                "nivel": 65,
+                "imgUrl": "https://wakfu.wiki.gg/images/Edelweiss_%28plant%29.png"
+            },
+            "13147": {
+                "nombre": {
+                    "es": "Algodonudo",
+                    "en": "Ayawilsea",
+                    "fr": "Awéhonvera",
+                    "pt": "Algodão"
+                },
+                "items": [
+                    "13147",
+                    "32725",
+                    "32723",
+                    "13146",
+                    "13148"
+                ],
+                "nivel": 60,
+                "imgUrl": "https://wakfu.wiki.gg/images/Cotton.png"
+            },
+            "13151": {
+                "nombre": {
+                    "es": "Nyunduro",
+                    "en": "Nodincludid",
+                    "fr": "Pazinclou",
+                    "pt": "Neimagino"
+                },
+                "items": [
+                    "13151",
+                    "32725",
+                    "32723",
+                    "13150",
+                    "13152"
+                ],
+                "nivel": 85,
+                "imgUrl": "https://wakfu.wiki.gg/images/Nodincludid.png"
+            },
+            "18121": {
+                "nombre": {
+                    "es": "Aloa vero",
+                    "en": "Aloa Vera",
+                    "fr": "Aloa Vero",
+                    "pt": "Aloa Vera"
+                },
+                "items": [
+                    "18121",
+                    "32725",
+                    "32723",
+                    "18120",
+                    "23168"
+                ],
+                "nivel": 75,
+                "imgUrl": "https://wakfu.wiki.gg/images/Aloa_Vera.png"
+            },
+            "18122": {
+                "nombre": {
+                    "es": "Dionea",
+                    "en": "Venutian",
+                    "fr": "Dionée",
+                    "pt": "Dionéia"
+                },
+                "items": [
+                    "18122",
+                    "32725",
+                    "32723",
+                    "18123",
+                    "22964"
+                ],
+                "nivel": 80,
+                "imgUrl": "https://wakfu.wiki.gg/images/Venutian.png"
+            },
+            "18471": {
+                "nombre": {
+                    "es": "Éter",
+                    "en": "Eterny",
+                    "fr": "Eter",
+                    "pt": "Eterni"
+                },
+                "items": [
+                    "18471",
+                    "32725",
+                    "32723",
+                    "18473",
+                    "18475"
+                ],
+                "nivel": 100,
+                "imgUrl": "https://wakfu.wiki.gg/images/Eterny.png"
+            },
+            "18474": {
+                "nombre": {
+                    "es": "Kamamila",
+                    "en": "Kamamile",
+                    "fr": "Kamamille",
+                    "pt": "Kamamila"
+                },
+                "items": [
+                    "18474",
+                    "32725",
+                    "32723",
+                    "18472",
+                    "18476"
+                ],
+                "nivel": 90,
+                "imgUrl": "https://wakfu.wiki.gg/images/Kamamile.png"
+            },
+            "19171": {
+                "nombre": {
+                    "es": "Pulsatila azufrada",
+                    "en": "Volcanic Plant",
+                    "fr": "Pulsatile Soufrée",
+                    "pt": "Planta Vulcânica"
+                },
+                "items": [
+                    "19171",
+                    "32725",
+                    "32723",
+                    "19170",
+                    "19172"
+                ],
+                "nivel": 95,
+                "imgUrl": "https://wakfu.wiki.gg/images/Volcanic_Plant_%28plant%29.png"
+            },
+            "19771": {
+                "nombre": {
+                    "es": "Tahitariana",
+                    "en": "Tahitiare",
+                    "fr": "Tahitiarée",
+                    "pt": "Tahitiare"
+                },
+                "items": [
+                    "19771",
+                    "32725",
+                    "32723",
+                    "19770",
+                    "19772"
+                ],
+                "nivel": 110,
+                "imgUrl": "https://wakfu.wiki.gg/images/Tahitiare.png"
+            },
+            "19774": {
+                "nombre": {
+                    "es": "Gracia",
+                    "en": "Grace",
+                    "fr": "Grâce",
+                    "pt": "Graça"
+                },
+                "items": [
+                    "19774",
+                    "32725",
+                    "32723",
+                    "19773",
+                    "19775"
+                ],
+                "nivel": 115,
+                "imgUrl": "https://wakfu.wiki.gg/images/Grace.png"
+            },
+            "20184": {
+                "nombre": {
+                    "es": "Amanita",
+                    "en": "Death Cap",
+                    "fr": "Amanite",
+                    "pt": "Píleo Mortal"
+                },
+                "items": [
+                    "20184",
+                    "32725",
+                    "32723",
+                    "20183",
+                    "20185"
+                ],
+                "nivel": 105,
+                "imgUrl": "https://wakfu.wiki.gg/images/Death_Cap_%28plant%29.png"
+            },
+            "22066": {
+                "nombre": {
+                    "es": "Mumusgo",
+                    "en": "Momoss",
+                    "fr": "Moumousse",
+                    "pt": "Mumusgo"
+                },
+                "items": [
+                    "22066",
+                    "32725",
+                    "32723",
+                    "22067",
+                    "22068"
+                ],
+                "nivel": 125,
+                "imgUrl": "https://wakfu.wiki.gg/images/Momoss_%28plant%29.png"
+            },
+            "22069": {
+                "nombre": {
+                    "es": "Ortiga",
+                    "en": "Nettles",
+                    "fr": "Ortie",
+                    "pt": "Urtiga"
+                },
+                "items": [
+                    "22069",
+                    "32725",
+                    "32723",
+                    "22071",
+                    "22070"
+                ],
+                "nivel": 120,
+                "imgUrl": "https://wakfu.wiki.gg/images/Nettles.png"
+            },
+            "27858": {
+                "nombre": {
+                    "es": "Delfhiniom",
+                    "en": "Delphes Inium",
+                    "fr": "Delphes Hiniom",
+                    "pt": "Violácea"
+                },
+                "items": [
+                    "27858",
+                    "32725",
+                    "32723",
+                    "27857",
+                    "27859"
+                ],
+                "nivel": 130,
+                "imgUrl": "https://wakfu.wiki.gg/images/Delphes_Inium_%28plant%29.png"
+            },
+            "27861": {
+                "nombre": {
+                    "es": "Flor-copo",
+                    "en": "Flowerflake",
+                    "fr": "Fleur-flocon",
+                    "pt": "Flocoflor"
+                },
+                "items": [
+                    "27861",
+                    "32725",
+                    "32723",
+                    "27860",
+                    "27862"
+                ],
+                "nivel": 135,
+                "imgUrl": "https://wakfu.wiki.gg/images/Flowerflake_%28plant%29.png"
+            },
+            "28751": {
+                "nombre": {
+                    "es": "Galinsoga demoníaca",
+                    "en": "Demonic Galinsoga",
+                    "fr": "Galinsoga démoniaque",
+                    "pt": "Galinsoga do Mal"
+                },
+                "items": [
+                    "28751",
+                    "32725",
+                    "32723",
+                    "28750",
+                    "28752"
+                ],
+                "nivel": 140,
+                "imgUrl": "https://wakfu.wiki.gg/images/Demonic_Galinsoga_%28plant%29.png"
+            },
+            "28754": {
+                "nombre": {
+                    "es": "Cardominador",
+                    "en": "Neo Thistle",
+                    "fr": "Chardominateur",
+                    "pt": "Cardominador"
+                },
+                "items": [
+                    "28754",
+                    "32725",
+                    "32723",
+                    "28753",
+                    "28755"
+                ],
+                "nivel": 145,
+                "imgUrl": "https://wakfu.wiki.gg/images/Thistlominator_%28plant%29.png"
+            },
+            "31006": {
+                "nombre": {
+                    "es": "Flor celestial",
+                    "en": "Crowned Thistle",
+                    "fr": "Fleur céleste",
+                    "pt": "Flor Celeste"
+                },
+                "items": [
+                    "31006",
+                    "32725",
+                    "32723",
+                    "31007"
+                ],
+                "nivel": 0,
+                "imgUrl": "https://wakfu.wiki.gg/images/Celestial_Flower_%28plant%29.png"
+            },
+            "31824": {
+                "nombre": {
+                    "es": "Primaniola",
+                    "en": "Primaniola",
+                    "fr": "Primaniola",
+                    "pt": "Primaniola"
+                },
+                "items": [
+                    "31824",
+                    "32725",
+                    "32723",
+                    "31823",
+                    "31825"
+                ],
+                "nivel": 140,
+                "imgUrl": "https://wakfu.wiki.gg/images/Demonic_Galinsoga_%28plant%29.png"
+            },
+            "31827": {
+                "nombre": {
+                    "es": "Rosen",
+                    "en": "Thistlominator",
+                    "fr": "Rozen",
+                    "pt": "Rozen"
+                },
+                "items": [
+                    "31827",
+                    "32725",
+                    "32723",
+                    "31826",
+                    "31828"
+                ],
+                "nivel": 145,
+                "imgUrl": "https://wakfu.wiki.gg/images/Thistlominator_%28plant%29.png"
+            },
+            "32722": {
+                "nombre": {
+                    "es": "Neocardo",
+                    "en": "Rozen",
+                    "fr": "Néo-Chardon",
+                    "pt": "Neo-Cardo"
+                },
+                "items": [
+                    "32722"
+                ],
+                "nivel": 145,
+                "imgUrl": "https://wakfu.wiki.gg/images/Thistlominator_%28plant%29.png"
+            },
+            "unk_1335o": {
+                "nombre": {
+                    "es": "San Algodonudo",
+                    "en": "Saintly Cotton",
+                    "fr": "Saint Croton",
+                    "pt": "Algodão Santo"
+                },
+                "items": [],
+                "nivel": 200,
+                "imgUrl": ""
+            }
+        }
+    },
+    "73": {
+        "nombre": {
+            "es": "Minero",
+            "en": "Miner",
+            "fr": "Mineur",
+            "pt": "Mineiro"
+        },
+        "cosechas": {
+            "1848": {
+                "nombre": {
+                    "es": "Cuarzo tallado",
+                    "en": "Rugged Quartz",
+                    "fr": "Quartz Détouré",
+                    "pt": "Quartzo Irregular"
+                },
+                "items": [
+                    "1848",
+                    "32725",
+                    "32723",
+                    "23686"
+                ],
+                "nivel": 35,
+                "imgUrl": "https://wakfu.wiki.gg/images/Rugged_Quartz_%28rock%29.png"
+            },
+            "1851": {
+                "nombre": {
+                    "es": "Cobre brillante",
+                    "en": "Bright Copper",
+                    "fr": "Cuivre éclatant",
+                    "pt": "Cobre Brilhante"
+                },
+                "items": [
+                    "1851",
+                    "32725",
+                    "32723",
+                    "20686"
+                ],
+                "nivel": 15,
+                "imgUrl": "https://wakfu.wiki.gg/images/Bright_Copper.png"
+            },
+            "2355": {
+                "nombre": {
+                    "es": "Flor de sal",
+                    "en": "Finest Sea Salt",
+                    "fr": "Fleur de Sel",
+                    "pt": "Sal Marinho Puríssimo"
+                },
+                "items": [
+                    "2355",
+                    "32725",
+                    "32723",
+                    "20584"
+                ],
+                "nivel": 5,
+                "imgUrl": "https://wakfu.wiki.gg/images/Finest_Sea_Salt_%28rock%29.png"
+            },
+            "9797": {
+                "nombre": {
+                    "es": "Piedras preciosas",
+                    "en": "Shard of Flint",
+                    "fr": "Pierres Précieuses",
+                    "pt": "Pedras Preciosas"
+                },
+                "items": [
+                    "9797",
+                    "9787",
+                    "9792",
+                    "9781",
+                    "9796",
+                    "9786",
+                    "1863",
+                    "9783",
+                    "9800",
+                    "9790",
+                    "9795",
+                    "9785",
+                    "9798",
+                    "9788"
+                ],
+                "nivel": 30,
+                "imgUrl": "https://wakfu.wiki.gg/images/Shard_of_Flint_%28rock%29.png"
+            },
+            "11478": {
+                "nombre": {
+                    "es": "Hierro primitivo",
+                    "en": "Primitive Iron",
+                    "fr": "Fer primitif",
+                    "pt": "Ferro Primitivo"
+                },
+                "items": [
+                    "11478",
+                    "1846",
+                    "32725",
+                    "32723"
+                ],
+                "nivel": 0,
+                "imgUrl": "https://wakfu.wiki.gg/images/Primitive_Iron.png"
+            },
+            "11479": {
+                "nombre": {
+                    "es": "Carbón antiguo",
+                    "en": "Classic Carbon",
+                    "fr": "Charbon antique",
+                    "pt": "Carvão Clássico"
+                },
+                "items": [
+                    "11479",
+                    "32725",
+                    "32723",
+                    "20585"
+                ],
+                "nivel": 10,
+                "imgUrl": "https://wakfu.wiki.gg/images/Classic_Carbon_%28rock%29.png"
+            },
+            "11480": {
+                "nombre": {
+                    "es": "Cobalto oscuro",
+                    "en": "Shadowy Cobalt",
+                    "fr": "Cobalt ombreux",
+                    "pt": "Cobalto Sombrio"
+                },
+                "items": [
+                    "11480",
+                    "32725",
+                    "32723",
+                    "23834"
+                ],
+                "nivel": 20,
+                "imgUrl": "https://wakfu.wiki.gg/images/Shadowy_Cobalt_%28rock%29.png"
+            },
+            "11481": {
+                "nombre": {
+                    "es": "Pepita de bronce",
+                    "en": "Bronze Nugget",
+                    "fr": "Pépite de Bronze",
+                    "pt": "Pepita de Bronze"
+                },
+                "items": [
+                    "11481",
+                    "32725",
+                    "32723",
+                    "23835"
+                ],
+                "nivel": 25,
+                "imgUrl": "https://wakfu.wiki.gg/images/Bronze_Nugget_%28rock%29.png"
+            },
+            "11482": {
+                "nombre": {
+                    "es": "Esquirla de sílex",
+                    "en": "Precious Stones",
+                    "fr": "Eclat de Silex",
+                    "pt": "Caco de Sílex"
+                },
+                "items": [
+                    "11482",
+                    "32725",
+                    "32723",
+                    "23685"
+                ],
+                "nivel": 30,
+                "imgUrl": "https://wakfu.wiki.gg/images/Shard_of_Flint_%28rock%29.png"
+            },
+            "11484": {
+                "nombre": {
+                    "es": "Zinc entero",
+                    "en": "Wholesome Zinc",
+                    "fr": "Zinc entier",
+                    "pt": "Zinco Integral"
+                },
+                "items": [
+                    "11484",
+                    "32725",
+                    "32723",
+                    "23480"
+                ],
+                "nivel": 45,
+                "imgUrl": "https://wakfu.wiki.gg/images/Wholesome_Zinc_%28rock%29.png"
+            },
+            "11485": {
+                "nombre": {
+                    "es": "Kromo funesto",
+                    "en": "Grievous Kroomium",
+                    "fr": "Kroum Funeste",
+                    "pt": "Kromo Funesto"
+                },
+                "items": [
+                    "11485",
+                    "32725",
+                    "32723",
+                    "11486"
+                ],
+                "nivel": 40,
+                "imgUrl": "https://wakfu.wiki.gg/images/Grievous_Kroomium_%28rock%29.png"
+            },
+            "13181": {
+                "nombre": {
+                    "es": "Koral",
+                    "en": "Koral",
+                    "fr": "Korail",
+                    "pt": "Koral"
+                },
+                "items": [
+                    "13181",
+                    "13180",
+                    "32725",
+                    "32723"
+                ],
+                "nivel": 60,
+                "imgUrl": "https://wakfu.wiki.gg/images/Koral_%28rock%29.png"
+            },
+            "13185": {
+                "nombre": {
+                    "es": "Plomo brumoso",
+                    "en": "Hazy Lead",
+                    "fr": "Plomb brumeux",
+                    "pt": "Chumbo Turvo"
+                },
+                "items": [
+                    "13185",
+                    "5474",
+                    "32725",
+                    "32723"
+                ],
+                "nivel": 70,
+                "imgUrl": "https://wakfu.wiki.gg/images/Hazy_Lead.png"
+            },
+            "17220": {
+                "nombre": {
+                    "es": "Mineral de bauxita real",
+                    "en": "Royal Bauxite Ore",
+                    "fr": "Minerai de Bauxit Royal",
+                    "pt": "Minério de Bauxita Real"
+                },
+                "items": [
+                    "17220",
+                    "1856",
+                    "32725",
+                    "32723"
+                ],
+                "nivel": 50,
+                "imgUrl": "https://wakfu.wiki.gg/images/Royal_Bauxite_Ore.png"
+            },
+            "17221": {
+                "nombre": {
+                    "es": "Amatista sanguina",
+                    "en": "Blood Red Amethyst",
+                    "fr": "Améthyste sanguine",
+                    "pt": "Ametista Vermelho-Sangue"
+                },
+                "items": [
+                    "17221",
+                    "13178",
+                    "32725",
+                    "32723"
+                ],
+                "nivel": 55,
+                "imgUrl": "https://wakfu.wiki.gg/images/Blood_Red_Amethyst_%28rock%29.png"
+            },
+            "17490": {
+                "nombre": {
+                    "es": "Mithwil",
+                    "en": "Mythwil",
+                    "fr": "Mythwil",
+                    "pt": "Mithwil"
+                },
+                "items": [
+                    "17490",
+                    "32725",
+                    "32723",
+                    "22958"
+                ],
+                "nivel": 85,
+                "imgUrl": "https://wakfu.wiki.gg/images/Mythwil.png"
+            },
+            "18126": {
+                "nombre": {
+                    "es": "Mineral del desierto",
+                    "en": "Sandy Ore",
+                    "fr": "Minerai des Sables",
+                    "pt": "Minério do Deserto"
+                },
+                "items": [
+                    "18126",
+                    "32725",
+                    "32723",
+                    "23167"
+                ],
+                "nivel": 75,
+                "imgUrl": "https://wakfu.wiki.gg/images/Sandy_Ore_%28rock%29.png"
+            },
+            "18128": {
+                "nombre": {
+                    "es": "Mineral de oro negro",
+                    "en": "Black Gold Ore",
+                    "fr": "Minerai d'Or Noir",
+                    "pt": "Minério de Ouro Negro"
+                },
+                "items": [
+                    "18128",
+                    "32725",
+                    "32723",
+                    "22957"
+                ],
+                "nivel": 80,
+                "imgUrl": "https://wakfu.wiki.gg/images/Black_Gold_Ore.png"
+            },
+            "18484": {
+                "nombre": {
+                    "es": "Zafiro de doble brillo",
+                    "en": "Double Carat Sapphire",
+                    "fr": "Saphir double-éclat",
+                    "pt": "Safira de Quilate Duplo"
+                },
+                "items": [
+                    "18484",
+                    "18483",
+                    "32725",
+                    "32723"
+                ],
+                "nivel": 90,
+                "imgUrl": "https://wakfu.wiki.gg/images/Double_Carat_Sapphire.png"
+            },
+            "18486": {
+                "nombre": {
+                    "es": "Mineral de titanio soberano",
+                    "en": "Sovereign Titanium Ore",
+                    "fr": "Minerai de Titan Souverain",
+                    "pt": "Minério de Titânio Soberano"
+                },
+                "items": [
+                    "18486",
+                    "18485",
+                    "32725",
+                    "32723"
+                ],
+                "nivel": 95,
+                "imgUrl": "https://wakfu.wiki.gg/images/Sovereign_Titanium_Ore.png"
+            },
+            "19176": {
+                "nombre": {
+                    "es": "Mineral de sryanuro",
+                    "en": "Sryanide Ore",
+                    "fr": "Minerai de Sryanur",
+                    "pt": "Minério de Sranureto"
+                },
+                "items": [
+                    "19176",
+                    "19177",
+                    "32725",
+                    "32723"
+                ],
+                "nivel": 100,
+                "imgUrl": "https://wakfu.wiki.gg/images/Sryanide_Ore_%28rock%29.png"
+            },
+            "19752": {
+                "nombre": {
+                    "es": "Ámbar",
+                    "en": "Amber",
+                    "fr": "Ambre",
+                    "pt": "Âmbar"
+                },
+                "items": [
+                    "19752",
+                    "32725",
+                    "32723",
+                    "19751"
+                ],
+                "nivel": 110,
+                "imgUrl": "https://wakfu.wiki.gg/images/Amber_%28rock%29.png"
+            },
+            "20177": {
+                "nombre": {
+                    "es": "Mercurio",
+                    "en": "Mercury",
+                    "fr": "Mercure",
+                    "pt": "Mercúrio"
+                },
+                "items": [
+                    "20177",
+                    "20176",
+                    "32725",
+                    "32723"
+                ],
+                "nivel": 115,
+                "imgUrl": "https://wakfu.wiki.gg/images/Mercury_%28rock%29.png"
+            },
+            "22072": {
+                "nombre": {
+                    "es": "Plata vieja",
+                    "en": "Silver",
+                    "fr": "Veuf-argent",
+                    "pt": "Mercurioso"
+                },
+                "items": [
+                    "22072",
+                    "32725",
+                    "32723",
+                    "22073"
+                ],
+                "nivel": 120,
+                "imgUrl": "https://wakfu.wiki.gg/images/Silver.png"
+            },
+            "22074": {
+                "nombre": {
+                    "es": "Obsidiana",
+                    "en": "Obsidian",
+                    "fr": "Obsidienne",
+                    "pt": "Obsidiana"
+                },
+                "items": [
+                    "22074",
+                    "32725",
+                    "32723",
+                    "22075"
+                ],
+                "nivel": 125,
+                "imgUrl": "https://wakfu.wiki.gg/images/Obsidian.png"
+            },
+            "22147": {
+                "nombre": {
+                    "es": "Carbono oscuro",
+                    "en": "Dark Carbon",
+                    "fr": "Carbone obscur",
+                    "pt": "Carbono Negro"
+                },
+                "items": [
+                    "22147",
+                    "19749",
+                    "32725",
+                    "32723"
+                ],
+                "nivel": 105,
+                "imgUrl": "https://wakfu.wiki.gg/images/Dark_Carbon_%28rock%29.png"
+            },
+            "23325": {
+                "nombre": {
+                    "es": "Tarudio",
+                    "en": "Taroudium",
+                    "fr": "Taroudium",
+                    "pt": "Tarúdio"
+                },
+                "items": [
+                    "23325",
+                    "13182",
+                    "32725",
+                    "32723"
+                ],
+                "nivel": 65,
+                "imgUrl": "https://wakfu.wiki.gg/images/Taroudium.png"
+            },
+            "27863": {
+                "nombre": {
+                    "es": "Granate helado",
+                    "en": "Frozen Garnet",
+                    "fr": "Grenat glacé",
+                    "pt": "Granada Congelada"
+                },
+                "items": [
+                    "27863",
+                    "32725",
+                    "32723",
+                    "27864"
+                ],
+                "nivel": 130,
+                "imgUrl": "https://wakfu.wiki.gg/images/Frozen_Garnet_%28rock%29.png"
+            },
+            "27865": {
+                "nombre": {
+                    "es": "Zircón",
+                    "en": "Zircon",
+                    "fr": "Zircon",
+                    "pt": "Zirconita"
+                },
+                "items": [
+                    "27865",
+                    "32725",
+                    "32723",
+                    "27866"
+                ],
+                "nivel": 135,
+                "imgUrl": "https://wakfu.wiki.gg/images/Zircon_%28rock%29.png"
+            },
+            "28756": {
+                "nombre": {
+                    "es": "Piedra de vacío",
+                    "en": "Void Stone",
+                    "fr": "Pierre de Vide",
+                    "pt": "Pedra de Vazio"
+                },
+                "items": [
+                    "28756",
+                    "32725",
+                    "32723",
+                    "28757"
+                ],
+                "nivel": 140,
+                "imgUrl": "https://wakfu.wiki.gg/images/Void_Stone_%28rock%29.png"
+            },
+            "28758": {
+                "nombre": {
+                    "es": "Piedra simbiótica",
+                    "en": "Symbiotic Stone",
+                    "fr": "Pierre symbiotique",
+                    "pt": "Pedra Simbiótica"
+                },
+                "items": [
+                    "28758",
+                    "32725",
+                    "32723",
+                    "28759"
+                ],
+                "nivel": 145,
+                "imgUrl": "https://wakfu.wiki.gg/images/Symbiotic_Stone_%28rock%29.png"
+            },
+            "31819": {
+                "nombre": {
+                    "es": "Zircometa",
+                    "en": "Zircomet",
+                    "fr": "Zircomète",
+                    "pt": "Zircometa"
+                },
+                "items": [
+                    "31819",
+                    "32725",
+                    "32723",
+                    "31820"
+                ],
+                "nivel": 150,
+                "imgUrl": "https://wakfu.wiki.gg/images/Zircomet_%28rock%29.png"
+            },
+            "31821": {
+                "nombre": {
+                    "es": "Fragmonita",
+                    "en": "Fragmonnite",
+                    "fr": "Fragmonnite",
+                    "pt": "Fragmonita"
+                },
+                "items": [
+                    "31821",
+                    "32725",
+                    "32723",
+                    "31822"
+                ],
+                "nivel": 155,
+                "imgUrl": ""
+            }
+        }
+    },
+    "75": {
+        "nombre": {
+            "es": "Pescador",
+            "en": "Fisherman",
+            "fr": "Pêcheur",
+            "pt": "Pescador"
+        },
+        "cosechas": {
+            "8106": {
+                "nombre": {
+                    "es": "Banco de peces miaumiau",
+                    "en": "Shoal of Bow Meow Fish",
+                    "fr": "Banc de Poissons Chachas",
+                    "pt": "Cardume de Miaws"
+                },
+                "items": [
+                    "8106",
+                    "8187",
+                    "32725",
+                    "32723",
+                    "20583"
+                ],
+                "nivel": 5,
+                "imgUrl": "https://wakfu.wiki.gg/images/Bow_Meow_Fish.png"
+            },
+            "8107": {
+                "nombre": {
+                    "es": "Banco de boquerones gruñidores",
+                    "en": "Shoal of Crabby Anchovies",
+                    "fr": "Banc d'Anchois grogneur",
+                    "pt": "Cardume de Caranchovas"
+                },
+                "items": [
+                    "8107",
+                    "8187",
+                    "32725",
+                    "32723",
+                    "20682"
+                ],
+                "nivel": 15,
+                "imgUrl": "https://wakfu.wiki.gg/images/Crabby_Anchovies.png"
+            },
+            "8108": {
+                "nombre": {
+                    "es": "Banco de rayas velludas",
+                    "en": "Shoal of Hairy Rays",
+                    "fr": "Banc de Raies velues",
+                    "pt": "Cardume de Arraias Peludas"
+                },
+                "items": [
+                    "8108",
+                    "8187",
+                    "32725",
+                    "32723",
+                    "23687"
+                ],
+                "nivel": 30,
+                "imgUrl": "https://wakfu.wiki.gg/images/Hairy_Ray.png"
+            },
+            "8110": {
+                "nombre": {
+                    "es": "Banco de salamones",
+                    "en": "Shoal of Salamon",
+                    "fr": "Banc de Salamons",
+                    "pt": "Cardume de Salamões"
+                },
+                "items": [
+                    "8110",
+                    "8187",
+                    "32725",
+                    "32723",
+                    "23688"
+                ],
+                "nivel": 35,
+                "imgUrl": "https://wakfu.wiki.gg/images/Salamon.png"
+            },
+            "8111": {
+                "nombre": {
+                    "es": "Pececitos",
+                    "en": "Shoal of Grawfish",
+                    "fr": "Petits poissons",
+                    "pt": "Peixinhos"
+                },
+                "items": [
+                    "8111"
+                ],
+                "nivel": 60,
+                "imgUrl": "https://wakfu.wiki.gg/images/Grawfish.png"
+            },
+            "8112": {
+                "nombre": {
+                    "es": "Banco de dragocarpas",
+                    "en": "Shoal of Dragocarp",
+                    "fr": "Banc de Dragocarpes",
+                    "pt": "Cardume de Dragocarpas"
+                },
+                "items": [
+                    "8112",
+                    "8187",
+                    "32725",
+                    "32723",
+                    "11491"
+                ],
+                "nivel": 50,
+                "imgUrl": "https://wakfu.wiki.gg/images/Dragocarp.png"
+            },
+            "8187": {
+                "nombre": {
+                    "es": "Banco de milubos marinos",
+                    "en": "Shoal of Sea Boowolves",
+                    "fr": "Banc de Mulous de mer",
+                    "pt": "Cardume de Milobos Marinhos"
+                },
+                "items": [
+                    "8187",
+                    "20178",
+                    "32725",
+                    "32723",
+                    "22149"
+                ],
+                "nivel": 105,
+                "imgUrl": "https://wakfu.wiki.gg/images/Sea_Boowolf.png"
+            },
+            "18130": {
+                "nombre": {
+                    "es": "Banco de peces de arena",
+                    "en": "Shoal of Scincus",
+                    "fr": "Banc de Scincus",
+                    "pt": "Banco de Scincus"
+                },
+                "items": [
+                    "18130",
+                    "8187",
+                    "32725",
+                    "32723",
+                    "23169"
+                ],
+                "nivel": 75,
+                "imgUrl": "https://wakfu.wiki.gg/images/Scincus.png"
+            },
+            "18132": {
+                "nombre": {
+                    "es": "Banco de planctones",
+                    "en": "Shoal of Hydawheys",
+                    "fr": "Banc de Planctois",
+                    "pt": "Banco de Planktons"
+                },
+                "items": [
+                    "18132",
+                    "8187",
+                    "32725",
+                    "32723",
+                    "22963"
+                ],
+                "nivel": 80,
+                "imgUrl": "https://wakfu.wiki.gg/images/Hydawhey.png"
+            },
+            "18487": {
+                "nombre": {
+                    "es": "Banco de truchatunes",
+                    "en": "Shoal of Troutuna",
+                    "fr": "Banc de Truithons",
+                    "pt": "Cardume de Trutatuns"
+                },
+                "items": [
+                    "18487",
+                    "8187",
+                    "32725",
+                    "32723",
+                    "22787"
+                ],
+                "nivel": 90,
+                "imgUrl": "https://wakfu.wiki.gg/images/Troutuna.png"
+            },
+            "18489": {
+                "nombre": {
+                    "es": "Tiburón martillo",
+                    "en": "Hammer Shark",
+                    "fr": "Requin Marteau",
+                    "pt": "Tubarão-Martelo"
+                },
+                "items": [
+                    "18489",
+                    "8187",
+                    "32725",
+                    "32723",
+                    "18490"
+                ],
+                "nivel": 95,
+                "imgUrl": "https://wakfu.wiki.gg/images/Hammer_Shark.png"
+            },
+            "18788": {
+                "nombre": {
+                    "es": "Banco de pescados empanados",
+                    "en": "Shoal of Breaded Fish",
+                    "fr": "Banc de poissons panés",
+                    "pt": "Cardume de Jagrudas"
+                },
+                "items": [
+                    "18788",
+                    "8105",
+                    "8187",
+                    "32725",
+                    "32723"
+                ],
+                "nivel": 0,
+                "imgUrl": "https://wakfu.wiki.gg/images/Breaded_Fish.png"
+            },
+            "19178": {
+                "nombre": {
+                    "es": "Vandam",
+                    "en": "Vandame",
+                    "fr": "Vandame",
+                    "pt": "Vandame"
+                },
+                "items": [
+                    "19178",
+                    "8187",
+                    "32725",
+                    "32723",
+                    "19179"
+                ],
+                "nivel": 100,
+                "imgUrl": ""
+            },
+            "19759": {
+                "nombre": {
+                    "es": "Banco de namos",
+                    "en": "Shoal of Knemo",
+                    "fr": "Banc de Namo",
+                    "pt": "Cardume de Knemos"
+                },
+                "items": [
+                    "19759",
+                    "8187",
+                    "32725",
+                    "32723",
+                    "19760"
+                ],
+                "nivel": 110,
+                "imgUrl": "https://wakfu.wiki.gg/images/Knemo.png"
+            },
+            "19761": {
+                "nombre": {
+                    "es": "Aguas turbias",
+                    "en": "Troubled Waters",
+                    "fr": "Eaux Troubles",
+                    "pt": "Águas turbulentas"
+                },
+                "items": [
+                    "19761",
+                    "8187",
+                    "32725",
+                    "32723",
+                    "19762"
+                ],
+                "nivel": 115,
+                "imgUrl": "https://wakfu.wiki.gg/images/Dwarf_Caiman.png"
+            },
+            "22077": {
+                "nombre": {
+                    "es": "Salamandra",
+                    "en": "Salamander",
+                    "fr": "Salamandre",
+                    "pt": "Salamandra"
+                },
+                "items": [
+                    "22077",
+                    "32725",
+                    "32723",
+                    "22078"
+                ],
+                "nivel": 125,
+                "imgUrl": "https://wakfu.wiki.gg/images/Salamander.png"
+            },
+            "22079": {
+                "nombre": {
+                    "es": "Espina de pescado",
+                    "en": "Fish Bone",
+                    "fr": "Arête de Poisson",
+                    "pt": "Espinha de Peixe"
+                },
+                "items": [
+                    "22079",
+                    "32725",
+                    "32723",
+                    "22080"
+                ],
+                "nivel": 120,
+                "imgUrl": "https://wakfu.wiki.gg/images/Fish_Bone.png"
+            },
+            "27867": {
+                "nombre": {
+                    "es": "Ganva",
+                    "en": "Schrymp",
+                    "fr": "Kraivette",
+                    "pt": "Kamarón"
+                },
+                "items": [
+                    "27867",
+                    "32725",
+                    "32723",
+                    "27868"
+                ],
+                "nivel": 130,
+                "imgUrl": "https://wakfu.wiki.gg/images/Schyrmp.png"
+            },
+            "27869": {
+                "nombre": {
+                    "es": "Ostra",
+                    "en": "Oyster",
+                    "fr": "Huître",
+                    "pt": "Ostra"
+                },
+                "items": [
+                    "27869",
+                    "32725",
+                    "32723",
+                    "27870"
+                ],
+                "nivel": 135,
+                "imgUrl": "https://wakfu.wiki.gg/images/Oyster.png"
+            },
+            "28760": {
+                "nombre": {
+                    "es": "Pezostil",
+                    "en": "Spitefish",
+                    "fr": "Poiss'Hostile",
+                    "pt": "Peixostil"
+                },
+                "items": [
+                    "28760",
+                    "32725",
+                    "32723",
+                    "28761"
+                ],
+                "nivel": 140,
+                "imgUrl": "https://wakfu.wiki.gg/images/Spitefish.png"
+            },
+            "28762": {
+                "nombre": {
+                    "es": "Trompembustero",
+                    "en": "Deceptifish",
+                    "fr": "Trompeur",
+                    "pt": "Ilusório"
+                },
+                "items": [
+                    "28762",
+                    "32725",
+                    "32723",
+                    "28763"
+                ],
+                "nivel": 145,
+                "imgUrl": "https://wakfu.wiki.gg/images/Deceptifish.png"
+            },
+            "31809": {
+                "nombre": {
+                    "es": "Jefesú",
+                    "en": "Sea Boss",
+                    "fr": "Beaussu",
+                    "pt": "Anchefsu"
+                },
+                "items": [
+                    "31809",
+                    "32725",
+                    "32723",
+                    "31810"
+                ],
+                "nivel": 150,
+                "imgUrl": "https://wakfu.wiki.gg/images/Sea_Boss.png"
+            },
+            "31811": {
+                "nombre": {
+                    "es": "Pecelenio",
+                    "en": "Lunafish",
+                    "fr": "Poissélène",
+                    "pt": "Peixelênico"
+                },
+                "items": [
+                    "31811",
+                    "32725",
+                    "32723",
+                    "31812"
+                ],
+                "nivel": 155,
+                "imgUrl": "https://wakfu.wiki.gg/images/Lunafish.png"
+            }
+        }
+    }
+}
