@@ -1,6 +1,71 @@
 {
+    "17929": {
+        "gfxid": "68717929",
+        "nivel": 1,
+        "tipo": 687,
+        "drops": [
+            [
+                "1345",
+                "10%"
+            ],
+            [
+                "2469",
+                "10%"
+            ],
+            [
+                "1358",
+                "1%"
+            ],
+            [
+                "2467",
+                "1%"
+            ],
+            [
+                "2465",
+                "1%"
+            ],
+            [
+                "2468",
+                "1%"
+            ],
+            [
+                "2466",
+                "1%"
+            ],
+            [
+                "1341",
+                "1%"
+            ],
+            [
+                "1339",
+                "1%"
+            ],
+            [
+                "1340",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de gelanillo",
+            "en": "Gelano Fragment",
+            "fr": "Fragment de Gelano",
+            "pt": "Fragmento de Gelanel"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un gelanillo.",
+            "en": "Collect 100 of these fragments to create a Gelano.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer un Gelano.",
+            "pt": "Reúna 100 destes fragmentos para criar um Gelanel."
+        }
+    },
     "18000": {
         "gfxid": "68718000",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "2343",
@@ -40,8 +105,57 @@
             "pt": "Reúna 100 destes fragmentos para criar um Amuleto do Glurseleste."
         }
     },
+    "18001": {
+        "gfxid": "68718001",
+        "nivel": 1,
+        "tipo": 687,
+        "drops": [
+            [
+                "2348",
+                "10%"
+            ],
+            [
+                "5799",
+                "10%"
+            ],
+            [
+                "2346",
+                "1%"
+            ],
+            [
+                "2344",
+                "1%"
+            ],
+            [
+                "2347",
+                "1%"
+            ],
+            [
+                "2345",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de Solomonk",
+            "en": "Solomonk Fragment",
+            "fr": "Fragment de Solomonk",
+            "pt": "Fragmento de Solomonk"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un Solomonk.",
+            "en": "Collect 100 of these fragments to create a Solomonk.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer un Solomonk.",
+            "pt": "Reúna 100 fragmentos como este para criar um Solomonk."
+        }
+    },
     "18002": {
         "gfxid": "68718002",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "2972",
@@ -85,8 +199,57 @@
             "pt": "Reúna 100 fragmentos como este para criar um Poderoso Cinto Deslumbrante."
         }
     },
+    "18003": {
+        "gfxid": "68718003",
+        "nivel": 1,
+        "tipo": 687,
+        "drops": [
+            [
+                "2570",
+                "10%"
+            ],
+            [
+                "2570",
+                "10%"
+            ],
+            [
+                "2568",
+                "1%"
+            ],
+            [
+                "2565",
+                "1%"
+            ],
+            [
+                "2566",
+                "1%"
+            ],
+            [
+                "2567",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de Ortiz",
+            "en": "Nettlez Fragment",
+            "fr": "Fragment d'Ortiz",
+            "pt": "Fragmento de Urticosa"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear una capa Ortiz.",
+            "en": "Collect 100 of these fragments to create a Nettlez cape.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Cape Ortiz.",
+            "pt": "Reúna 100 fragmentos como este para criar uma Capa Urticosa."
+        }
+    },
     "18382": {
         "gfxid": "68718002",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "2556",
@@ -148,6 +311,8 @@
     },
     "18383": {
         "gfxid": "68718002",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "2977",
@@ -191,8 +356,37 @@
             "pt": "Reúna 100 fragmentos como este para criar um par de dragonas do Dark Vlad."
         }
     },
+    "18400": {
+        "gfxid": "68718001",
+        "nivel": 1,
+        "tipo": 687,
+        "drops": [
+            [
+                "2827",
+                "10%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento del escudo Rano",
+            "en": "Asse Shield Fragment",
+            "fr": "Fragment de Bouclier d'Asse",
+            "pt": "Fragmentos de Escudo de Mota"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un escudo Rano.",
+            "en": "Collect 100 of these fragments to create an Asse Shield.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer un Bouclier d'Asse.",
+            "pt": "Colete 100 desses fragmentos para criar um Escudo de Mota."
+        }
+    },
     "18647": {
         "gfxid": "68718000",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "3080",
@@ -238,6 +432,8 @@
     },
     "18666": {
         "gfxid": "68717929",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "3094",
@@ -279,6 +475,8 @@
     },
     "18688": {
         "gfxid": "68720153",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "3048",
@@ -316,6 +514,8 @@
     },
     "19162": {
         "gfxid": "68721821",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "3399",
@@ -357,6 +557,8 @@
     },
     "19163": {
         "gfxid": "68722086",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "3398",
@@ -398,6 +600,8 @@
     },
     "19853": {
         "gfxid": "68722032",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "3864",
@@ -459,6 +663,8 @@
     },
     "20153": {
         "gfxid": "68722577",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "3866",
@@ -518,8 +724,49 @@
             "pt": "Reúna 100 fragmentos como este para criar Adagas Crivas."
         }
     },
+    "21370": {
+        "gfxid": "68721370",
+        "nivel": 1,
+        "tipo": 687,
+        "drops": [
+            [
+                "4217",
+                "10%"
+            ],
+            [
+                "4214",
+                "1%"
+            ],
+            [
+                "4216",
+                "1%"
+            ],
+            [
+                "4215",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de correas sangrientas",
+            "en": "Wounded Straps Fragment",
+            "fr": "Fragment des Sangles Sanglantes",
+            "pt": "Fragmento de Correias Sangrentas"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear las correas sangrientas.",
+            "en": "Collect 100 of these fragments to create Wounded Straps.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer des Sangles Sanglantes.",
+            "pt": "Reúna 100 fragmentos como este para criar Correias Sangrentas."
+        }
+    },
     "21696": {
         "gfxid": "68721696",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "4231",
@@ -561,6 +808,8 @@
     },
     "21821": {
         "gfxid": "68728324",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "4260",
@@ -602,6 +851,8 @@
     },
     "22032": {
         "gfxid": "68727986",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "4318",
@@ -643,6 +894,8 @@
     },
     "22086": {
         "gfxid": "68727985",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "4327",
@@ -684,6 +937,8 @@
     },
     "22577": {
         "gfxid": "68727984",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "4400",
@@ -725,6 +980,8 @@
     },
     "23964": {
         "gfxid": "68718001",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "4060",
@@ -748,8 +1005,33 @@
             "pt": "Reúna 100 fragmentos como este para criar um par de Botas Cerimoniais do Senhor dos Ratos."
         }
     },
+    "24789": {
+        "gfxid": "68720153",
+        "nivel": 1,
+        "tipo": 687,
+        "drops": [
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de Poup Korn",
+            "en": "Cornpop Fragments",
+            "fr": "Fragment de Poup Korn",
+            "pt": "Fragmento de Pip Oca"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear una Poup Korn.",
+            "en": "Collect 100 of these fragments to create a Cornpop.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Poup Korn.",
+            "pt": "Reúna 100 fragmentos como este para criar Pip Oca."
+        }
+    },
     "24838": {
         "gfxid": "68718000",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "4651",
@@ -775,6 +1057,8 @@
     },
     "24839": {
         "gfxid": "68718001",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "4651",
@@ -800,6 +1084,8 @@
     },
     "24840": {
         "gfxid": "68720153",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "4651",
@@ -823,8 +1109,103 @@
             "pt": "Reúna 100 fragmentos como este para criar um par de Dragonas V-Tudo."
         }
     },
+    "24841": {
+        "gfxid": "68728327",
+        "nivel": 1,
+        "tipo": 687,
+        "drops": [
+            [
+                "4664",
+                "10%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de Sulik",
+            "en": "Sulik Fragment",
+            "fr": "Fragment de Sulik",
+            "pt": "Fragmento de Sulik"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un Sulik.",
+            "en": "Collect 100 of these fragments to create a Sulik.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer un Sulik.",
+            "pt": "Reúna 100 fragmentos como este para criar um Sulik."
+        }
+    },
+    "24842": {
+        "gfxid": "68728324",
+        "nivel": 1,
+        "tipo": 687,
+        "drops": [
+            [
+                "4664",
+                "10%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de Rod Gers",
+            "en": "Thrusty Staff Fragment",
+            "fr": "Fragment de Rod Gerse",
+            "pt": "Fragmento de Rod Gers"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un Rod Gers.",
+            "en": "Collect 100 of these fragments to create a Thrusty Staff.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer un Rod Gerse.",
+            "pt": "Reúna 100 fragmentos como este para criar um Rod Gers."
+        }
+    },
+    "25093": {
+        "gfxid": "68718003",
+        "nivel": 1,
+        "tipo": 687,
+        "drops": [
+            [
+                "2368",
+                "10%"
+            ],
+            [
+                "2367",
+                "1%"
+            ],
+            [
+                "2366",
+                "1%"
+            ],
+            [
+                "2365",
+                "1%"
+            ],
+            [
+                "2364",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de memento mori",
+            "en": "Mori Memento Fragment",
+            "fr": "Fragment de Memento Mori",
+            "pt": "Fragmento de Memento Mori"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un par de memento mori. Atención: igualmente, necesitarás el documento: Memento mori para fabricarlo.",
+            "en": "Collect 100 of these fragments to create a pair of Mori Memento. But be aware that you'll need a \"Mori Memento\" Blueprint before you can craft the item.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une paire de Memento Mori. Attention toutefois : il vous faudra encore le Plan « Memento Mori » pour fabriquer l'objet.",
+            "pt": "Reúna 100 fragmentos como este para criar um par de Memento Mori. Mas atenção: você ainda precisa do Projeto de \"Memento Mori\" para fabricar o item."
+        }
+    },
     "25094": {
         "gfxid": "68721821",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [],
         "nombre": {
             "es": "Fragmento de ugahlureta",
@@ -841,6 +1222,8 @@
     },
     "26588": {
         "gfxid": "68718000",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "4871",
@@ -900,8 +1283,53 @@
             "pt": "Reúna 100 fragmentos como este para criar um Cinto Rasgabolar do Rasgabola."
         }
     },
+    "26589": {
+        "gfxid": "68718001",
+        "nivel": 1,
+        "tipo": 687,
+        "drops": [
+            [
+                "4520",
+                "10%"
+            ],
+            [
+                "1166",
+                "1%"
+            ],
+            [
+                "1167",
+                "1%"
+            ],
+            [
+                "1169",
+                "1%"
+            ],
+            [
+                "1168",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de Pastosa",
+            "en": "Grazor Fragment",
+            "fr": "Fragment de Brouteuse",
+            "pt": "Fragmento de Grazor"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear una capa Pastosa.",
+            "en": "Collect 100 of these fragments to create a Grazor cape.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une cape Brouteuse.",
+            "pt": "Reúna 100 fragmentos como este para criar uma capa Grazor."
+        }
+    },
     "26590": {
         "gfxid": "68718003",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "4874",
@@ -949,8 +1377,147 @@
             "pt": "Reúna 100 fragmentos como este para criar um Chapéu do Carvalho Mole."
         }
     },
+    "26591": {
+        "gfxid": "68722086",
+        "nivel": 1,
+        "tipo": 687,
+        "drops": [
+            [
+                "4538",
+                "10%"
+            ],
+            [
+                "2018",
+                "10%"
+            ],
+            [
+                "5804",
+                "10%"
+            ],
+            [
+                "4536",
+                "1%"
+            ],
+            [
+                "4534",
+                "1%"
+            ],
+            [
+                "4535",
+                "1%"
+            ],
+            [
+                "4537",
+                "1%"
+            ],
+            [
+                "2013",
+                "1%"
+            ],
+            [
+                "2015",
+                "1%"
+            ],
+            [
+                "2014",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de sello fulgurante",
+            "en": "Dazzling Signet Fragment",
+            "fr": "Fragment de Sceau Fulgurant",
+            "pt": "Fragmento de Sinete Deslumbrante"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un sello fulgurante.",
+            "en": "Collect 100 of these fragments to create a Dazzling Signet ring.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer un anneau Sceau Fulgurant.",
+            "pt": "Reúna 100 fragmentos como este para criar um anel Sinete Deslumbrante."
+        }
+    },
+    "26592": {
+        "gfxid": "68722032",
+        "nivel": 1,
+        "tipo": 687,
+        "drops": [
+            [
+                "4923",
+                "10%"
+            ],
+            [
+                "4924",
+                "10%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de amuleto de Kam Asutrak",
+            "en": "Mak Assutra Amulet Fragment",
+            "fr": "Fragment d'Amulette du Mak Assutra",
+            "pt": "Fragmento de Amuleto do Mak Assutra"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un amuleto de Kam Asutra.",
+            "en": "Collect 100 of these fragments to create a Mak Assutra amulet.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Amulette du Mak Assutra.",
+            "pt": "Reúna 100 fragmentos como este para criar um Amuleto do Mak Assutra."
+        }
+    },
+    "26678": {
+        "gfxid": "68718002",
+        "nivel": 1,
+        "tipo": 687,
+        "drops": [
+            [
+                "4780",
+                "10%"
+            ],
+            [
+                "4780",
+                "10%"
+            ],
+            [
+                "4778",
+                "1%"
+            ],
+            [
+                "4779",
+                "1%"
+            ],
+            [
+                "4777",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de tocado de Gúltar",
+            "en": "Goultard's Headgear Fragment",
+            "fr": "Fragment de Coiffe de Goultard",
+            "pt": "Fragmento de Chapéu de Gultar"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un tocado de Gúltar.",
+            "en": "Collect 100 of these fragments to create Goultard's Headgear.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Coiffe de Goultard.",
+            "pt": "Reúna 100 fragmentos como este para criar um Chapéu de Gultar."
+        }
+    },
     "27078": {
         "gfxid": "68718002",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5040",
@@ -992,6 +1559,8 @@
     },
     "27079": {
         "gfxid": "68722577",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5046",
@@ -1033,6 +1602,8 @@
     },
     "27080": {
         "gfxid": "68727987",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5052",
@@ -1074,6 +1645,8 @@
     },
     "27081": {
         "gfxid": "68727986",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5059",
@@ -1117,8 +1690,104 @@
             "pt": "Reúna 100 fragmentos como este para criar Casco Keluche."
         }
     },
+    "27526": {
+        "gfxid": "68720153",
+        "nivel": 1,
+        "tipo": 687,
+        "drops": [
+            [
+                "5114",
+                "10%"
+            ],
+            [
+                "5107",
+                "10%"
+            ],
+            [
+                "5112",
+                "1%"
+            ],
+            [
+                "5111",
+                "1%"
+            ],
+            [
+                "5113",
+                "1%"
+            ],
+            [
+                "5105",
+                "1%"
+            ],
+            [
+                "5106",
+                "1%"
+            ],
+            [
+                "5104",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de galones Fred",
+            "en": "Fredalon Stripes Fragment",
+            "fr": "Fragment de Galons Fred",
+            "pt": "Fragmento de Dragonfred"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un par de galones Fred.",
+            "en": "Collect 100 of these fragments to create a pair of Fredalon Stripes.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une paire de Galons Fred.",
+            "pt": "Reúna 100 fragmentos como este para criar um par de Dragonfred."
+        }
+    },
+    "27527": {
+        "gfxid": "68721696",
+        "nivel": 1,
+        "tipo": 687,
+        "drops": [
+            [
+                "5131",
+                "10%"
+            ],
+            [
+                "5128",
+                "1%"
+            ],
+            [
+                "5129",
+                "1%"
+            ],
+            [
+                "5130",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de botas de persecución",
+            "en": "Chase Boots Fragment",
+            "fr": "Fragment de Bottes de Poursuite",
+            "pt": "Fragmento de Botas de Perseguição"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos de estos para crear un par de botas de persecución.",
+            "en": "Collect 100 of these fragments to create a pair of Chase Boots.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une paire de Bottes de Poursuite",
+            "pt": "Reúna 100 fragmentos como este para criar um par de Botas de Perseguição."
+        }
+    },
     "27528": {
         "gfxid": "68727985",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5137",
@@ -1154,8 +1823,53 @@
             "pt": "Reúna 100 fragmentos como este para criar uma Capa Chee."
         }
     },
+    "27984": {
+        "gfxid": "68727984",
+        "nivel": 1,
+        "tipo": 687,
+        "drops": [
+            [
+                "5176",
+                "10%"
+            ],
+            [
+                "5176",
+                "10%"
+            ],
+            [
+                "5175",
+                "1%"
+            ],
+            [
+                "5173",
+                "1%"
+            ],
+            [
+                "5174",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de escudo del capitán Amakna",
+            "en": "Captain Amakna Shield Fragment",
+            "fr": "Fragment de Bouclier du Capitaine Amakna",
+            "pt": "Fragmento de Escudo do Capitão Amakna"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un escudo del capitán Amakna.",
+            "en": "Collect 100 of these fragments to create a Captain Amakna Shield.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer un Bouclier du Capitaine Amakna.",
+            "pt": "Reúna 100 fragmentos como este para criar um Escudo do Capitão Amakna."
+        }
+    },
     "27985": {
         "gfxid": "68727985",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5182",
@@ -1195,8 +1909,53 @@
             "pt": "Reúna 100 fragmentos como este para criar Botas de Kovak."
         }
     },
+    "27986": {
+        "gfxid": "68727986",
+        "nivel": 1,
+        "tipo": 687,
+        "drops": [
+            [
+                "5188",
+                "10%"
+            ],
+            [
+                "5188",
+                "10%"
+            ],
+            [
+                "5186",
+                "1%"
+            ],
+            [
+                "5187",
+                "1%"
+            ],
+            [
+                "5185",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de hombreras de liquen",
+            "en": "Lichen's Epaulettes Fragment",
+            "fr": "Fragment d'Epaulettes de lichen",
+            "pt": "Fragmento de Dragonas de Líquen"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear unas hombreras de liquen.",
+            "en": "Collect 100 of these fragments to create Lichen's Epaulettes.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer des Epaulettes de lichen.",
+            "pt": "Reúna 100 fragmentos como este para criar Dragonas de Líquen."
+        }
+    },
     "27987": {
         "gfxid": "68727987",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5170",
@@ -1236,8 +1995,37 @@
             "pt": "Reúna 100 fragmentos como este para criar um Capacete do Guerreiro Zoth."
         }
     },
+    "28098": {
+        "gfxid": "68727987",
+        "nivel": 1,
+        "tipo": 687,
+        "drops": [
+            [
+                "5229",
+                "10%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de chaqueta bonita",
+            "en": "Rest Vest Fragment",
+            "fr": "Fragment de Veston Beau",
+            "pt": "Fragmento de Jaqueta Sim"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear una chaqueta bonita.",
+            "en": "Collect 100 of these fragments to create a Rest Vest.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer un Veston Beau.",
+            "pt": "Reúna 100 fragmentos como este para criar uma Jaqueta Sim."
+        }
+    },
     "28099": {
         "gfxid": "68728327",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5229",
@@ -1261,8 +2049,53 @@
             "pt": "Reúna 100 fragmentos como este para criar um Verdadeiro Cinto de Poder."
         }
     },
+    "28324": {
+        "gfxid": "68728324",
+        "nivel": 1,
+        "tipo": 687,
+        "drops": [
+            [
+                "5235",
+                "10%"
+            ],
+            [
+                "5235",
+                "10%"
+            ],
+            [
+                "5232",
+                "1%"
+            ],
+            [
+                "5233",
+                "1%"
+            ],
+            [
+                "5234",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de sombrero de Trankitronko",
+            "en": "Koolich Headgear Fragment",
+            "fr": "Fragment de Coiffe du Koulosse",
+            "pt": "Fragmento de Chapéu do Tronkoso"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un sombrero de Trankitronko.",
+            "en": "Collect 100 of these fragments to create a Koolich Headgear.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Coiffe du Koulosse.",
+            "pt": "Reúna 100 fragmentos como este para criar um Chapéu do Tronkoso."
+        }
+    },
     "28327": {
         "gfxid": "68728327",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5241",
@@ -1304,6 +2137,8 @@
     },
     "28330": {
         "gfxid": "68727984",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5247",
@@ -1345,6 +2180,8 @@
     },
     "29044": {
         "gfxid": "68729044",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5277",
@@ -1382,6 +2219,8 @@
     },
     "29045": {
         "gfxid": "68729045",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5283",
@@ -1415,6 +2254,8 @@
     },
     "29046": {
         "gfxid": "68729046",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5289",
@@ -1452,6 +2293,8 @@
     },
     "29047": {
         "gfxid": "68729047",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5295",
@@ -1489,6 +2332,8 @@
     },
     "29048": {
         "gfxid": "68729048",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5301",
@@ -1526,6 +2371,8 @@
     },
     "30649": {
         "gfxid": "68720153",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5376",
@@ -1563,6 +2410,8 @@
     },
     "30650": {
         "gfxid": "68720153",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5382",
@@ -1598,8 +2447,53 @@
             "pt": "Reúna 100 fragmentos como este para criar Botas de Koko."
         }
     },
+    "30651": {
+        "gfxid": "68720153",
+        "nivel": 1,
+        "tipo": 687,
+        "drops": [
+            [
+                "5388",
+                "10%"
+            ],
+            [
+                "5794",
+                "10%"
+            ],
+            [
+                "5385",
+                "1%"
+            ],
+            [
+                "5386",
+                "1%"
+            ],
+            [
+                "5387",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de coraza de Sine",
+            "en": "Sine's Breastplate Fragment",
+            "fr": "Fragment de Plastron de Sine",
+            "pt": "Fragmento de Peitoral de Sine"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear una coraza de Sine.",
+            "en": "Collect 100 of these fragments to create a Sine's Breastplate.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer un Plastron de Sine.",
+            "pt": "Reúna 100 fragmentos como este para criar um Peitoral de Sine."
+        }
+    },
     "30652": {
         "gfxid": "68729047",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5394",
@@ -1635,8 +2529,49 @@
             "pt": "Reúna 100 fragmentos como este para criar Botas de Jr."
         }
     },
+    "30653": {
+        "gfxid": "68729048",
+        "nivel": 1,
+        "tipo": 687,
+        "drops": [
+            [
+                "5400",
+                "10%"
+            ],
+            [
+                "5398",
+                "1%"
+            ],
+            [
+                "5397",
+                "1%"
+            ],
+            [
+                "5399",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de cinturón de Ghast",
+            "en": "Ghast's Belt Fragment",
+            "fr": "Fragment de Ceinture de Ghast",
+            "pt": "Fragmento de Cinto de Ghast"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un cinturón de Ghast.",
+            "en": "Collect 100 of these fragments to create a Ghast's Belt.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Ceinture de Ghast.",
+            "pt": "Reúna 100 fragmentos como este para criar um Cinto de Ghast."
+        }
+    },
     "31013": {
         "gfxid": "68720153",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5445",
@@ -1660,8 +2595,53 @@
             "pt": "Reúna 100 fragmentos como este para criar uma Capa Cônica."
         }
     },
+    "31376": {
+        "gfxid": "68718000",
+        "nivel": 1,
+        "tipo": 687,
+        "drops": [
+            [
+                "5478",
+                "10%"
+            ],
+            [
+                "5478",
+                "10%"
+            ],
+            [
+                "5476",
+                "1%"
+            ],
+            [
+                "5475",
+                "1%"
+            ],
+            [
+                "5477",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de cinturón frrrito",
+            "en": "Frrried Belt Fragment",
+            "fr": "Fragment de Ceinture frrrite",
+            "pt": "Fragmento de Cinto Frrrito"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un cinturón frrrito.",
+            "en": "Collect 100 of these fragments to create a Frrried Belt.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Ceinture frrrite.",
+            "pt": "Reúna 100 fragmentos como este para criar um Cinto Frrrito."
+        }
+    },
     "31377": {
         "gfxid": "68718002",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5471",
@@ -1707,6 +2687,8 @@
     },
     "31378": {
         "gfxid": "68720153",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "2582",
@@ -1754,8 +2736,57 @@
             "pt": "Reúna 100 fragmentos como este para criar um Colar de Lolzewolf."
         }
     },
+    "31379": {
+        "gfxid": "68718000",
+        "nivel": 1,
+        "tipo": 687,
+        "drops": [
+            [
+                "2605",
+                "10%"
+            ],
+            [
+                "2605",
+                "10%"
+            ],
+            [
+                "2607",
+                "1%"
+            ],
+            [
+                "2606",
+                "1%"
+            ],
+            [
+                "2604",
+                "1%"
+            ],
+            [
+                "2608",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de capa de Charon",
+            "en": "Charon's Cloak Fragment",
+            "fr": "Fragment de Cape de Charon",
+            "pt": "Fragmento de Capa de Kharon"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear una capa de Charon.",
+            "en": "Collect 100 of these fragments to create a Charon's Cloak.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Cape de Charon.",
+            "pt": "Reúna 100 fragmentos como este para criar uma Capa de Kharon."
+        }
+    },
     "31585": {
         "gfxid": "68729047",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5589",
@@ -1785,6 +2816,8 @@
     },
     "32298": {
         "gfxid": "68732298",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5626",
@@ -1822,6 +2855,8 @@
     },
     "32299": {
         "gfxid": "68732299",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5632",
@@ -1857,8 +2892,49 @@
             "pt": "Reúna 100 fragmentos como este para criar um Peitoral de Kriss."
         }
     },
+    "32300": {
+        "gfxid": "68732300",
+        "nivel": 1,
+        "tipo": 687,
+        "drops": [
+            [
+                "5638",
+                "10%"
+            ],
+            [
+                "5635",
+                "1%"
+            ],
+            [
+                "5636",
+                "1%"
+            ],
+            [
+                "5637",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de cinturón de Akro",
+            "en": "Akro Belt Fragment",
+            "fr": "Fragment de Ceinture d'Akro",
+            "pt": "Fragmento do Cinto de Akro"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un cinturón de Akro.",
+            "en": "Collect 100 of these fragments to create an Akro Belt.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Ceinture d'Akro.",
+            "pt": "Reúna 100 fragmentos como este para criar um Cinto de Akro."
+        }
+    },
     "32301": {
         "gfxid": "68732301",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5644",
@@ -1896,6 +2972,8 @@
     },
     "32302": {
         "gfxid": "68732302",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5650",
@@ -1933,6 +3011,8 @@
     },
     "32343": {
         "gfxid": "68732300",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5718",
@@ -1962,6 +3042,8 @@
     },
     "32625": {
         "gfxid": "68732300",
+        "nivel": 1,
+        "tipo": 687,
         "drops": [
             [
                 "5664",
