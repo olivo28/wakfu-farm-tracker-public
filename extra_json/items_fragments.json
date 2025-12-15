@@ -1,0 +1,2012 @@
+{
+    "18000": {
+        "gfxid": "68718000",
+        "drops": [
+            [
+                "2343",
+                "10%"
+            ],
+            [
+                "2340",
+                "1%"
+            ],
+            [
+                "2339",
+                "1%"
+            ],
+            [
+                "2341",
+                "1%"
+            ],
+            [
+                "2342",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de Golosotrón Real",
+            "en": "Celestial Bearbarian Fragment",
+            "fr": "Fragment de Glourséleste",
+            "pt": "Fragmento de Glurseleste"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un amuleto de Golosotrón Real.",
+            "en": "Collect 100 of these fragments to create a Celestial Bearbarian Amulet.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Amulette du Glourséleste.",
+            "pt": "Reúna 100 destes fragmentos para criar um Amuleto do Glurseleste."
+        }
+    },
+    "18002": {
+        "gfxid": "68718002",
+        "drops": [
+            [
+                "2972",
+                "10%"
+            ],
+            [
+                "2971",
+                "1%"
+            ],
+            [
+                "2969",
+                "1%"
+            ],
+            [
+                "2970",
+                "1%"
+            ],
+            [
+                "2967",
+                "1%"
+            ],
+            [
+                "2968",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de poderoso cinturón fulgurante",
+            "en": "Powerful Dazzling Belt Fragment",
+            "fr": "Fragment de Puissante Ceinture Fulgurante",
+            "pt": "Fragmento de Poderoso Cinto Deslumbrante"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un poderoso cinturón fulgurante.",
+            "en": "Collect 100 of these fragments to create a Powerful Dazzling Belt.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Puissante Ceinture Fulgurante.",
+            "pt": "Reúna 100 fragmentos como este para criar um Poderoso Cinto Deslumbrante."
+        }
+    },
+    "18382": {
+        "gfxid": "68718002",
+        "drops": [
+            [
+                "2556",
+                "10%"
+            ],
+            [
+                "2556",
+                "10%"
+            ],
+            [
+                "2552",
+                "1%"
+            ],
+            [
+                "2560",
+                "1%"
+            ],
+            [
+                "2553",
+                "1%"
+            ],
+            [
+                "2562",
+                "1%"
+            ],
+            [
+                "2559",
+                "1%"
+            ],
+            [
+                "2561",
+                "1%"
+            ],
+            [
+                "2551",
+                "1%"
+            ],
+            [
+                "2550",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de botas focas",
+            "en": "Harry Boots Fragments",
+            "fr": "Fragment de Bottes Harry",
+            "pt": "Fragmento de botas de Harry"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un par de botas focas.",
+            "en": "Collect 100 of these fragments to create a pair of Harry Boots.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une paire de Bottes Harry.",
+            "pt": "Reúna 100 fragmentos como este para criar um par de botas de Harry."
+        }
+    },
+    "18383": {
+        "gfxid": "68718002",
+        "drops": [
+            [
+                "2977",
+                "10%"
+            ],
+            [
+                "2977",
+                "10%"
+            ],
+            [
+                "2974",
+                "1%"
+            ],
+            [
+                "2975",
+                "1%"
+            ],
+            [
+                "2988",
+                "1%"
+            ],
+            [
+                "2973",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de hombreras de Dark Vlad",
+            "en": "Dark Vlad's Epaulette Fragment",
+            "fr": "Fragment d'Epaulettes du Dark Vlad",
+            "pt": "Fragmento das dragonas do Dark Vlad"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un par de hombreras de Dark Vlad.",
+            "en": "Collect 100 of these fragments to create a pair of Dark Vlad's Epaulettes.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une paire d'Epaulettes du Dark Vlad.",
+            "pt": "Reúna 100 fragmentos como este para criar um par de dragonas do Dark Vlad."
+        }
+    },
+    "18647": {
+        "gfxid": "68718000",
+        "drops": [
+            [
+                "3080",
+                "10%"
+            ],
+            [
+                "3080",
+                "10%"
+            ],
+            [
+                "3078",
+                "1%"
+            ],
+            [
+                "3076",
+                "1%"
+            ],
+            [
+                "3077",
+                "1%"
+            ],
+            [
+                "3079",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de devoralmas",
+            "en": "Souleater Fragment",
+            "fr": "Fragment de Mangelâme",
+            "pt": "Fragmento de Devoralmas"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear una devoralmas.",
+            "en": "100 of these fragments must be collected to create a Souleater Breastplate.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer un plastron Mangelâme.",
+            "pt": "Reúna 100 fragmentos como este para criar um plastrão Devoralmas."
+        }
+    },
+    "18666": {
+        "gfxid": "68717929",
+        "drops": [
+            [
+                "3094",
+                "10%"
+            ],
+            [
+                "3094",
+                "10%"
+            ],
+            [
+                "3091",
+                "1%"
+            ],
+            [
+                "3092",
+                "1%"
+            ],
+            [
+                "3093",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de llavero dorado",
+            "en": "Golden Keychain Fragment",
+            "fr": "Fragment de Porte-Clef doré",
+            "pt": "Fragmentos de Chaveiro Dourado"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un llavero dorado.",
+            "en": "Collect 100 of these fragments to create a Golden Keychain.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer un Porte-Clef doré.",
+            "pt": "Colete 100 desses fragmentos para criar um Chaveiro Dourado"
+        }
+    },
+    "18688": {
+        "gfxid": "68720153",
+        "drops": [
+            [
+                "3048",
+                "10%"
+            ],
+            [
+                "3050",
+                "1%"
+            ],
+            [
+                "3051",
+                "1%"
+            ],
+            [
+                "3043",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de talismán de Mihmol",
+            "en": "Flaxhid Talisman Fragment",
+            "fr": "Fragment du Talisman de Mihmol",
+            "pt": "Fragmentos de Talismã de Meyduro"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un talismán de Mihmol.",
+            "en": "Collect 100 of these fragments to create a Flaxhid Talisman.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer le Talisman de Mihmol.",
+            "pt": "Colete 100 desses fragmentos para criar um Talismã de Meyduro"
+        }
+    },
+    "19162": {
+        "gfxid": "68721821",
+        "drops": [
+            [
+                "3399",
+                "10%"
+            ],
+            [
+                "3399",
+                "10%"
+            ],
+            [
+                "3393",
+                "1%"
+            ],
+            [
+                "3392",
+                "1%"
+            ],
+            [
+                "3394",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de aguja de más allá de los tiempos",
+            "en": "Bygone Hand Fragment",
+            "fr": "Fragment d'Aiguille d'Outre-Temps",
+            "pt": "Fragmento do Ponteiro de outros tempos"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear una aguja de más allá de los tiempos.",
+            "en": "Collect 100 of these fragments to create a Bygone Hand.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Aiguille d'Outre-Temps.",
+            "pt": "Reúna 100 fragmentos como este para criar um Ponteiro de outros tempos."
+        }
+    },
+    "19163": {
+        "gfxid": "68722086",
+        "drops": [
+            [
+                "3398",
+                "10%"
+            ],
+            [
+                "3398",
+                "10%"
+            ],
+            [
+                "3397",
+                "1%"
+            ],
+            [
+                "3396",
+                "1%"
+            ],
+            [
+                "3395",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de capazar",
+            "en": "Lucloak Fragment",
+            "fr": "Fragment de Caphasard",
+            "pt": "Fragmento de Capacaso"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear una capazar.",
+            "en": "Collect 100 of these fragments to create a Lucloak.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Caphasard.",
+            "pt": "Reúna 100 fragmentos como este para criar uma Capacaso."
+        }
+    },
+    "19853": {
+        "gfxid": "68722032",
+        "drops": [
+            [
+                "3864",
+                "10%"
+            ],
+            [
+                "3865",
+                "10%"
+            ],
+            [
+                "3865",
+                "10%"
+            ],
+            [
+                "3864",
+                "10%"
+            ],
+            [
+                "3860",
+                "1%"
+            ],
+            [
+                "3856",
+                "1%"
+            ],
+            [
+                "3859",
+                "1%"
+            ],
+            [
+                "3858",
+                "1%"
+            ],
+            [
+                "3855",
+                "1%"
+            ],
+            [
+                "3857",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de cinturón de los vientos",
+            "en": "Belt of the Winds Fragment",
+            "fr": "Fragment de Ceinture des Vents",
+            "pt": "Fragmento do cinto dos ventos"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un cinturón de los vientos.",
+            "en": "Collect 100 of these fragments to create a Belt of the Winds.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Ceinture des Vents.",
+            "pt": "Colete 100 deste fragmento para criar um cinto dos ventos."
+        }
+    },
+    "20153": {
+        "gfxid": "68722577",
+        "drops": [
+            [
+                "3866",
+                "10%"
+            ],
+            [
+                "3971",
+                "10%"
+            ],
+            [
+                "3971",
+                "10%"
+            ],
+            [
+                "3866",
+                "10%"
+            ],
+            [
+                "3862",
+                "1%"
+            ],
+            [
+                "3968",
+                "1%"
+            ],
+            [
+                "3861",
+                "1%"
+            ],
+            [
+                "3863",
+                "1%"
+            ],
+            [
+                "3970",
+                "1%"
+            ],
+            [
+                "3969",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de dagas de agresión",
+            "en": "Daggers Sives Fragment",
+            "fr": "Fragment de Dagues Réceuses",
+            "pt": "Fragmento de Adagas Crivas"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear las dagas de agresión.",
+            "en": "Collect 100 of these fragments to create a pair of Daggers Sives.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer des Dagues Réceuses.",
+            "pt": "Reúna 100 fragmentos como este para criar Adagas Crivas."
+        }
+    },
+    "21696": {
+        "gfxid": "68721696",
+        "drops": [
+            [
+                "4231",
+                "10%"
+            ],
+            [
+                "4254",
+                "10%"
+            ],
+            [
+                "4228",
+                "1%"
+            ],
+            [
+                "4229",
+                "1%"
+            ],
+            [
+                "4230",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de Kel'Dwa",
+            "en": "Kel'Dwa Fragment",
+            "fr": "Fragment de Kel'Dwa",
+            "pt": "Fragmento de Kwal Dhedo"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un Kel'Dwa.",
+            "en": "Collect 100 of these fragments to create a Kel'Dwa.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer un Kel'Dwa.",
+            "pt": "Reúna 100 fragmentos como este para criar um Kwal Dhedo."
+        }
+    },
+    "21821": {
+        "gfxid": "68728324",
+        "drops": [
+            [
+                "4260",
+                "10%"
+            ],
+            [
+                "4260",
+                "10%"
+            ],
+            [
+                "4258",
+                "1%"
+            ],
+            [
+                "4259",
+                "1%"
+            ],
+            [
+                "4257",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de amuleto Emental deluxe",
+            "en": "Ellie's Deluxe Mental Amulet Fragment",
+            "fr": "Fragment d'Amulette Ementaire Deluxe",
+            "pt": "Fragmento de Amuleto Ementar Deluxe"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un amuleto Emental deluxe.",
+            "en": "Collect 100 of these fragments to create an Ellie's Deluxe Mental Amulet.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Amulette Ementaire Deluxe.",
+            "pt": "Reúna 100 fragmentos como este para criar um Amuleto Ementar Deluxe."
+        }
+    },
+    "22032": {
+        "gfxid": "68727986",
+        "drops": [
+            [
+                "4318",
+                "10%"
+            ],
+            [
+                "4318",
+                "10%"
+            ],
+            [
+                "4204",
+                "1%"
+            ],
+            [
+                "4203",
+                "1%"
+            ],
+            [
+                "4205",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de una Mark VII",
+            "en": "Mark VII Fragment",
+            "fr": "Fragment de Mark VII",
+            "pt": "Fragmento de Mark VII"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear una Mark VII.",
+            "en": "Collect 100 of these fragments to create a Mark VII.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer un Mark VII.",
+            "pt": "Reúna 100 fragmentos como este para criar um Mark VII."
+        }
+    },
+    "22086": {
+        "gfxid": "68727985",
+        "drops": [
+            [
+                "4327",
+                "10%"
+            ],
+            [
+                "4327",
+                "10%"
+            ],
+            [
+                "4326",
+                "1%"
+            ],
+            [
+                "4324",
+                "1%"
+            ],
+            [
+                "4325",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de manto del Rey Brujo",
+            "en": "Coat of the Sorceror-King Fragment",
+            "fr": "Fragment de Manteau du Roi-Sorcier",
+            "pt": "Fragmento de Manto do Rei-Bruxo"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear manto del Rey Brujo.",
+            "en": "Collect 100 of these fragments to create a Coat of the Sorceror-King.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer un Manteau du Roi-Sorcier.",
+            "pt": "Reúna 100 fragmentos como este para criar um Manto do Rei-Bruxo."
+        }
+    },
+    "22577": {
+        "gfxid": "68727984",
+        "drops": [
+            [
+                "4400",
+                "10%"
+            ],
+            [
+                "4400",
+                "10%"
+            ],
+            [
+                "4209",
+                "1%"
+            ],
+            [
+                "4210",
+                "1%"
+            ],
+            [
+                "4208",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de escudo ventiloso",
+            "en": "Fan Shield Fragment",
+            "fr": "Fragment de Bouclier Ventaille",
+            "pt": "Fragmentos de Escudo Ventilador"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un escudo ventiloso.",
+            "en": "Collect 100 of these fragments to create a Fan Shield.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer un Bouclier Ventaille.",
+            "pt": "Colete 100 fragmentos como este para criar um Escudo Ventilador."
+        }
+    },
+    "23964": {
+        "gfxid": "68718001",
+        "drops": [
+            [
+                "4060",
+                "10%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de botas ceremoniales del Amo de las Ratas",
+            "en": "Lord of the Rats' Ceremonial Boots Fragment",
+            "fr": "Fragment de Bottes Cérémoniales du Seigneur des Rats",
+            "pt": "Fragmento de Botas Cerimoniais do Senhor dos Ratos"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un par de botas ceremoniales del Amo de las Ratas.",
+            "en": "Collect 100 of these fragments to create a pair of Lord of the Rats' Ceremonial Boots.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une paire de Bottes Cérémoniales du Seigneur des Rats",
+            "pt": "Reúna 100 fragmentos como este para criar um par de Botas Cerimoniais do Senhor dos Ratos."
+        }
+    },
+    "24838": {
+        "gfxid": "68718000",
+        "drops": [
+            [
+                "4651",
+                "10%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de cabellera de Gúltar",
+            "en": "Goultard's Wig Fragment",
+            "fr": "Fragment de Perruque de Goultard",
+            "pt": "Fragmento de Peruca de Gultar"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear una cabellera de Gúltar.",
+            "en": "Collect 100 of these fragments to create Goultard's Wig.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Perruque de Goultard.",
+            "pt": "Reúna 100 fragmentos como este para criar uma Peruca de Gultar."
+        }
+    },
+    "24839": {
+        "gfxid": "68718001",
+        "drops": [
+            [
+                "4651",
+                "10%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de vacío",
+            "en": "Hollow Fragment",
+            "fr": "Fragment de Creux",
+            "pt": "Fragmento de Invólucro"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un vacío.",
+            "en": "Collect 100 of these fragments to create a Hollow.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer un Creux.",
+            "pt": "Reúna 100 fragmentos como este para criar um Invólucro."
+        }
+    },
+    "24840": {
+        "gfxid": "68720153",
+        "drops": [
+            [
+                "4651",
+                "10%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de hombreras STIM",
+            "en": "Stimpaulette Fragment",
+            "fr": "Fragment d'Epaulettes STIM",
+            "pt": "Fragmento de Dragonas V-Tudo"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un par de hombreras STIM.",
+            "en": "Collect 100 of these fragments to create a pair of Stimpaulettes.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une paire d'Epaulettes STIM.",
+            "pt": "Reúna 100 fragmentos como este para criar um par de Dragonas V-Tudo."
+        }
+    },
+    "25094": {
+        "gfxid": "68721821",
+        "drops": [],
+        "nombre": {
+            "es": "Fragmento de ugahlureta",
+            "en": "Ougaat Fragment",
+            "fr": "Fragment d'Ougalurette",
+            "pt": "Fragmento de Ugahlureta"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear el objeto ugahlureta. Atención: igualmente, necesitarás un documento: Ugahlureta para fabricarlo.",
+            "en": "Collect 100 of these fragments to create an Ougaat. But be aware that you'll need an \"Ougaat\" Blueprint before you can craft the item.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Ougalurette . Attention toutefois : il vous faudra encore un Plan « Ougalurette » pour fabriquer l'objet.",
+            "pt": "Reúna 100 fragmentos como este para criar uma Ugahlureta. Mas atenção: você ainda precisa de um Projeto de \"Ugahlureta\" para fabricar o item."
+        }
+    },
+    "26588": {
+        "gfxid": "68718000",
+        "drops": [
+            [
+                "4871",
+                "10%"
+            ],
+            [
+                "4763",
+                "10%"
+            ],
+            [
+                "5795",
+                "10%"
+            ],
+            [
+                "4760",
+                "1%"
+            ],
+            [
+                "4761",
+                "1%"
+            ],
+            [
+                "4762",
+                "1%"
+            ],
+            [
+                "4766",
+                "1%"
+            ],
+            [
+                "4867",
+                "1%"
+            ],
+            [
+                "4868",
+                "1%"
+            ],
+            [
+                "4869",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de cinturón Rasgabolario del Rasgabola",
+            "en": "Bherbal Bherb Belt Fragment",
+            "fr": "Fragment de Ceinture Rasboulaire du Rasboul",
+            "pt": "Fragmento de Cinto Rasgabolar do Rasgabola"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un cinturón de Rasgabolario del Rasgabola.",
+            "en": "Collect 100 of these fragments to create a Bherbal Bherb belt.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Ceinture Rasboulaire du Rasboul.",
+            "pt": "Reúna 100 fragmentos como este para criar um Cinto Rasgabolar do Rasgabola."
+        }
+    },
+    "26590": {
+        "gfxid": "68718003",
+        "drops": [
+            [
+                "4874",
+                "10%"
+            ],
+            [
+                "4874",
+                "10%"
+            ],
+            [
+                "5800",
+                "10%"
+            ],
+            [
+                "5800",
+                "10%"
+            ],
+            [
+                "4886",
+                "1%"
+            ],
+            [
+                "4887",
+                "1%"
+            ],
+            [
+                "4888",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de sombrero de Roble Blando",
+            "en": "Soft Oak Hat Fragment",
+            "fr": "Fragment de Coiffe du Chêne Mou",
+            "pt": "Fragmento de Chapéu do Carvalho Mole"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un sombrero de Roble Blando.",
+            "en": "Collect 100 of these fragments to create a Soft Oak hat.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Coiffe du Chêne Mou.",
+            "pt": "Reúna 100 fragmentos como este para criar um Chapéu do Carvalho Mole."
+        }
+    },
+    "27078": {
+        "gfxid": "68718002",
+        "drops": [
+            [
+                "5040",
+                "10%"
+            ],
+            [
+                "5040",
+                "10%"
+            ],
+            [
+                "5035",
+                "1%"
+            ],
+            [
+                "5037",
+                "1%"
+            ],
+            [
+                "5036",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de cinturón Chafero",
+            "en": "Chafeerce Belt Fragment",
+            "fr": "Fragment de Ceinture Chafeuse",
+            "pt": "Fragmento do Cinto Chaferoso"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un cinturón Chafero.",
+            "en": "Collect 100 of these fragments to create a Chafeerce Belt.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Ceinture Chafeuse.",
+            "pt": "Reúna 100 fragmentos como este para criar um Cinto Chaferoso."
+        }
+    },
+    "27079": {
+        "gfxid": "68722577",
+        "drops": [
+            [
+                "5046",
+                "10%"
+            ],
+            [
+                "5805",
+                "10%"
+            ],
+            [
+                "5041",
+                "1%"
+            ],
+            [
+                "5042",
+                "1%"
+            ],
+            [
+                "5043",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de velo de tinta",
+            "en": "Inky Veil Fragment",
+            "fr": "Fragment de Voile d'encre",
+            "pt": "Fragmento de Véu de Tinta"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un velo de tinta.",
+            "en": "It takes 100 of these fragments to create an Inky Veil.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer un Voile d'encre.",
+            "pt": "Reúna 100 fragmentos como este para criar um Véu de Tinta."
+        }
+    },
+    "27080": {
+        "gfxid": "68727987",
+        "drops": [
+            [
+                "5052",
+                "10%"
+            ],
+            [
+                "5052",
+                "10%"
+            ],
+            [
+                "5048",
+                "1%"
+            ],
+            [
+                "5047",
+                "1%"
+            ],
+            [
+                "5049",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de botas Plastao",
+            "en": "Pierced Boot Fragment",
+            "fr": "Fragment de Bottes Répané",
+            "pt": "Fragmento de Botas Furadas"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear unas botas Plastao.",
+            "en": "Collect 100 of these fragments to create a pair of pierced boots.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer des Bottes Répané.",
+            "pt": "Reúna 100 fragmentos como este para criar Botas Furadas."
+        }
+    },
+    "27081": {
+        "gfxid": "68727986",
+        "drops": [
+            [
+                "5059",
+                "10%"
+            ],
+            [
+                "5059",
+                "10%"
+            ],
+            [
+                "5053",
+                "1%"
+            ],
+            [
+                "5054",
+                "1%"
+            ],
+            [
+                "5055",
+                "1%"
+            ],
+            [
+                "5056",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de preferombreras",
+            "en": "Fave O'Right Epaulette Fragment",
+            "fr": "Fragment de Coques Luche",
+            "pt": "Fragmento de Casco Keluche"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear unas hombreras de reliquia.",
+            "en": "Collect 100 of these fragments to create Fave O'Right Epaulettes.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer des Epaulettes relique.",
+            "pt": "Reúna 100 fragmentos como este para criar Casco Keluche."
+        }
+    },
+    "27528": {
+        "gfxid": "68727985",
+        "drops": [
+            [
+                "5137",
+                "10%"
+            ],
+            [
+                "5135",
+                "1%"
+            ],
+            [
+                "5134",
+                "1%"
+            ],
+            [
+                "5136",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de caperforada",
+            "en": "Chee Cape Fragment",
+            "fr": "Fragment de Cape Erforée",
+            "pt": "Fragmento de Capa Chee"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear una caperforada.",
+            "en": "Collect 100 of these fragments to create a Chee Cape.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Cape Erforée",
+            "pt": "Reúna 100 fragmentos como este para criar uma Capa Chee."
+        }
+    },
+    "27985": {
+        "gfxid": "68727985",
+        "drops": [
+            [
+                "5182",
+                "10%"
+            ],
+            [
+                "5182",
+                "10%"
+            ],
+            [
+                "5181",
+                "1%"
+            ],
+            [
+                "5180",
+                "1%"
+            ],
+            [
+                "5179",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de botas de Kovak",
+            "en": "Kovak's Boots Fragment",
+            "fr": "Fragment de Bottes de Kovak",
+            "pt": "Fragmento de Botas de Kovak"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear unas botas de Kovak.",
+            "en": "Collect 100 of these fragments to create a pair of Kovak's Boots.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer des Bottes de Kovak.",
+            "pt": "Reúna 100 fragmentos como este para criar Botas de Kovak."
+        }
+    },
+    "27987": {
+        "gfxid": "68727987",
+        "drops": [
+            [
+                "5170",
+                "10%"
+            ],
+            [
+                "5170",
+                "10%"
+            ],
+            [
+                "5169",
+                "1%"
+            ],
+            [
+                "5168",
+                "1%"
+            ],
+            [
+                "5167",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de casco de guerrero zoth",
+            "en": "Zoth Warrior Helmet Fragment",
+            "fr": "Fragment de Casque du Guerrier Zoth",
+            "pt": "Fragmento de Capacete do Guerreiro Zoth"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un casco de guerrero zoth.",
+            "en": "Collect 100 of these fragments to create a Zoth Warrior Helmet.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer un Casque du Guerrier Zoth.",
+            "pt": "Reúna 100 fragmentos como este para criar um Capacete do Guerreiro Zoth."
+        }
+    },
+    "28099": {
+        "gfxid": "68728327",
+        "drops": [
+            [
+                "5229",
+                "10%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de verdadero cinturón de potencia",
+            "en": "True Power Belt Fragment",
+            "fr": "Fragment de Véritable Ceinture de Puissance",
+            "pt": "Fragmento de Verdadeiro Cinto de Poder"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un verdadero cinturón de potencia.",
+            "en": "Collect 100 of these fragments to create a True Power Belt..",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Véritable Ceinture de Puissance.",
+            "pt": "Reúna 100 fragmentos como este para criar um Verdadeiro Cinto de Poder."
+        }
+    },
+    "28327": {
+        "gfxid": "68728327",
+        "drops": [
+            [
+                "5241",
+                "10%"
+            ],
+            [
+                "5241",
+                "10%"
+            ],
+            [
+                "5238",
+                "1%"
+            ],
+            [
+                "5239",
+                "1%"
+            ],
+            [
+                "5240",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de capa De Mirable",
+            "en": "Cherished Cloak Fragment",
+            "fr": "Fragment de Cape Réciable",
+            "pt": "Fragmento de Manto Estimado"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear una capa De Mirable.",
+            "en": "Collect 100 of these fragments to create a Cherished Cloak.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Cape Réciable.",
+            "pt": "Reúna 100 fragmentos como este para criar um Manto Estimado."
+        }
+    },
+    "28330": {
+        "gfxid": "68727984",
+        "drops": [
+            [
+                "5247",
+                "10%"
+            ],
+            [
+                "5247",
+                "10%"
+            ],
+            [
+                "5244",
+                "1%"
+            ],
+            [
+                "5245",
+                "1%"
+            ],
+            [
+                "5246",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de último anillo",
+            "en": "Last Ring Fragment",
+            "fr": "Fragment du Dernier anneau",
+            "pt": "Fragmento do Último Anel"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un último anillo.",
+            "en": "Collect 100 of these fragments to create a Last Ring.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer un Dernier anneau.",
+            "pt": "Reúna 100 fragmentos como este para criar um Último Anel."
+        }
+    },
+    "29044": {
+        "gfxid": "68729044",
+        "drops": [
+            [
+                "5277",
+                "10%"
+            ],
+            [
+                "5274",
+                "1%"
+            ],
+            [
+                "5275",
+                "1%"
+            ],
+            [
+                "5276",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de dantgul",
+            "en": "Eachure Hat Fragment",
+            "fr": "Fragment de Dantgoule",
+            "pt": "Fragmento de Dantgul"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un dantgul.",
+            "en": "Collect 100 of these fragments to create an Eachure Hat.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer un Dantgoule.",
+            "pt": "Reúna 100 fragmentos como este para criar um Dantgul."
+        }
+    },
+    "29045": {
+        "gfxid": "68729045",
+        "drops": [
+            [
+                "5283",
+                "10%"
+            ],
+            [
+                "5280",
+                "1%"
+            ],
+            [
+                "5281",
+                "1%"
+            ],
+            [
+                "5282",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de amuleto del espejismo",
+            "en": "Mirage Amulet Fragment",
+            "fr": "Fragment d'Amulette du Mirage",
+            "pt": "Fragmento de Amuleto da Miragem"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un amuleto del espejismo.",
+            "en": "Collect 100 of these fragments to create a Mirage Amulet.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Amulette du Mirage.",
+            "pt": "Reúna 100 fragmentos como este para criar um Amuleto da Miragem."
+        }
+    },
+    "29046": {
+        "gfxid": "68729046",
+        "drops": [
+            [
+                "5289",
+                "10%"
+            ],
+            [
+                "5286",
+                "1%"
+            ],
+            [
+                "5287",
+                "1%"
+            ],
+            [
+                "5288",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de coraza de Béber",
+            "en": "Beber Breastplate Fragment",
+            "fr": "Fragment de Plastron de Béber",
+            "pt": "Fragmento de Peitoral de Beber"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear una coraza de Béber.",
+            "en": "Collect 100 of these fragments to create a Beber Breastplate.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer un Plastron de Béber.",
+            "pt": "Reúna 100 fragmentos como este para criar um Peitoral de Beber."
+        }
+    },
+    "29047": {
+        "gfxid": "68729047",
+        "drops": [
+            [
+                "5295",
+                "10%"
+            ],
+            [
+                "5292",
+                "1%"
+            ],
+            [
+                "5293",
+                "1%"
+            ],
+            [
+                "5294",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de galones de Orf",
+            "en": "Galon d'Orf Epaulette Fragment",
+            "fr": "Fragment de Galons d'Orf",
+            "pt": "Fragmento de Dragon'Orf"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear unas hombreras Galones de Orf",
+            "en": "Collect 100 of these fragments to create Galon d'Orf Epaulettes.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer des épaulettes Galons d'Orf.",
+            "pt": "Reúna 100 fragmentos como este para criar as dragonas Dragon'Orf."
+        }
+    },
+    "29048": {
+        "gfxid": "68729048",
+        "drops": [
+            [
+                "5301",
+                "10%"
+            ],
+            [
+                "5298",
+                "1%"
+            ],
+            [
+                "5299",
+                "1%"
+            ],
+            [
+                "5300",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de capa nō",
+            "en": "Noh Cape Fragment",
+            "fr": "Fragment de Cape Nō",
+            "pt": "Fragmento de Capa Nô"
+        },
+        "descripcion": {
+            "es": "La capa nō es una vieja reliquia relacionada con una terrible maldición. A pesar de todo, los aventureros la equipaban porque da cierto estilo. ¡Estos doceros están locos!",
+            "en": "The Noh Cape is an ancient relic linked to a terrible curse. But adventurers put it on anyway because of its distinctive style. Twelvians are crazy!",
+            "fr": "La cape Nō est une vieille relique liée à une terrible malédiction. Les aventuriers l'équipaient malgré tout pour son style certain. Ils sont fous ces douziens !",
+            "pt": "A Capa Nô é uma antiga relíquia que carrega uma terrível maldição. Apesar disso, os aventureiros gostam dela por ser bem estilosa. Como eles são malucos!"
+        }
+    },
+    "30649": {
+        "gfxid": "68720153",
+        "drops": [
+            [
+                "5376",
+                "10%"
+            ],
+            [
+                "5373",
+                "1%"
+            ],
+            [
+                "5375",
+                "1%"
+            ],
+            [
+                "5374",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de espada de Caballero de Hielo",
+            "en": "Ice Knight Sword Fragment",
+            "fr": "Fragment d'Épée du Chevalier de Glace",
+            "pt": "Fragmento de Espada do Cavaleiro de Gelo"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear una espada de Caballero de Hielo.",
+            "en": "Collect 100 of these fragments to create an Ice Knight Sword.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Épée du Chevalier de Glace.",
+            "pt": "Reúna 100 fragmentos como este para criar uma Espada do Cavaleiro de Gelo."
+        }
+    },
+    "30650": {
+        "gfxid": "68720153",
+        "drops": [
+            [
+                "5382",
+                "10%"
+            ],
+            [
+                "5379",
+                "1%"
+            ],
+            [
+                "5381",
+                "1%"
+            ],
+            [
+                "5380",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de botas de Koko",
+            "en": "Koko's Boots Fragment",
+            "fr": "Fragment de Bottes de Koko",
+            "pt": "Fragmento de Botas de Koko"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear unas botas de Koko.",
+            "en": "Collect 100 of these fragments to create a pair of Koko's Boots.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer des Bottes de Koko.",
+            "pt": "Reúna 100 fragmentos como este para criar Botas de Koko."
+        }
+    },
+    "30652": {
+        "gfxid": "68729047",
+        "drops": [
+            [
+                "5394",
+                "10%"
+            ],
+            [
+                "5393",
+                "1%"
+            ],
+            [
+                "5392",
+                "1%"
+            ],
+            [
+                "5391",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de botas de Jr.",
+            "en": "Jr.'s Boots Fragment",
+            "fr": "Fragment de Bottes de Jr.",
+            "pt": "Fragmento de Botas de Jr."
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear unas botas de Jr.",
+            "en": "Collect 100 of these fragments to create a pair of Jr.'s Boots.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer des Bottes de Jr.",
+            "pt": "Reúna 100 fragmentos como este para criar Botas de Jr."
+        }
+    },
+    "31013": {
+        "gfxid": "68720153",
+        "drops": [
+            [
+                "5445",
+                "10%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de sábana cónica",
+            "en": "Draconicloak Fragment",
+            "fr": "Fragment de Drap Conique",
+            "pt": "Fragmento de Capa Cônica"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear una sábana cónica.",
+            "en": "Collect 100 of these fragments to create a Draconicloak.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer un Drap Conique.",
+            "pt": "Reúna 100 fragmentos como este para criar uma Capa Cônica."
+        }
+    },
+    "31377": {
+        "gfxid": "68718002",
+        "drops": [
+            [
+                "5471",
+                "10%"
+            ],
+            [
+                "5471",
+                "10%"
+            ],
+            [
+                "5474",
+                "1%"
+            ],
+            [
+                "5470",
+                "1%"
+            ],
+            [
+                "5468",
+                "1%"
+            ],
+            [
+                "5469",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de raíz de floribundo",
+            "en": "Floramor Root Fragment",
+            "fr": "Fragment de Racine de Floribonde",
+            "pt": "Fragmento de Raiz de Floramor"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear una raíz de floribundo.",
+            "en": "Collect 100 of these fragments to create a Floramor Root.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Racine de Floribonde.",
+            "pt": "Reúna 100 fragmentos como este para criar uma Raiz de Floramor."
+        }
+    },
+    "31378": {
+        "gfxid": "68720153",
+        "drops": [
+            [
+                "2582",
+                "10%"
+            ],
+            [
+                "5803",
+                "10%"
+            ],
+            [
+                "2578",
+                "1%"
+            ],
+            [
+                "2579",
+                "1%"
+            ],
+            [
+                "2577",
+                "1%"
+            ],
+            [
+                "2580",
+                "1%"
+            ],
+            [
+                "2581",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento del collar de Lolzeolf",
+            "en": "Lolzewolf's Necklace Fragment",
+            "fr": "Fragment de Collier de Lolzewolf",
+            "pt": "Fragmento de Colar de Lolzewolf"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un collar de Lolzewolf.",
+            "en": "Collect 100 of these fragments to create a Lolzewolf's Necklace.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer un Collier de Lolzewolf.",
+            "pt": "Reúna 100 fragmentos como este para criar um Colar de Lolzewolf."
+        }
+    },
+    "31585": {
+        "gfxid": "68729047",
+        "drops": [
+            [
+                "5589",
+                "10%"
+            ],
+            [
+                "5589",
+                "10%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de Hoja de Toross",
+            "en": "Toross's Blade Fragment",
+            "fr": "Fragment de Lame de Toross",
+            "pt": "Fragmento de Lâmina de Toross"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 de estos fragmentos para crear una espada a dos manos Hoja de Toross.",
+            "en": "Collect 100 of these fragments to create a Toross's Blade two-handed sword.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une épée à deux mains Lame de Toross.",
+            "pt": "É preciso reunir 100 desses fragmentos para criar a espada de duas mãos Lâmina de Toross."
+        }
+    },
+    "32298": {
+        "gfxid": "68732298",
+        "drops": [
+            [
+                "5626",
+                "10%"
+            ],
+            [
+                "5625",
+                "1%"
+            ],
+            [
+                "5624",
+                "1%"
+            ],
+            [
+                "5623",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de corona de Kwoknan",
+            "en": "Kwakwa Hat Fragment",
+            "fr": "Fragment de Kwakwaffe",
+            "pt": "Fragmento de Chapéu de Kwakwa"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear una corona de Kwoknan.",
+            "en": "Collect 100 of these fragments to create a Kwakwa Hat.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Kwakwaffe.",
+            "pt": "Reúna 100 fragmentos como este para criar um Chapéu de Kwakwa."
+        }
+    },
+    "32299": {
+        "gfxid": "68732299",
+        "drops": [
+            [
+                "5632",
+                "10%"
+            ],
+            [
+                "5631",
+                "1%"
+            ],
+            [
+                "5629",
+                "1%"
+            ],
+            [
+                "5630",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de coraza de Kris",
+            "en": "Kris Breastplate Fragment",
+            "fr": "Fragment de Plastron de Kris",
+            "pt": "Fragmento de Peitoral de Kriss"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear una coraza de Kris.",
+            "en": "Collect 100 of these fragments to create a Kris Breastplate.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer un Plastron de Kris.",
+            "pt": "Reúna 100 fragmentos como este para criar um Peitoral de Kriss."
+        }
+    },
+    "32301": {
+        "gfxid": "68732301",
+        "drops": [
+            [
+                "5644",
+                "10%"
+            ],
+            [
+                "5642",
+                "1%"
+            ],
+            [
+                "5641",
+                "1%"
+            ],
+            [
+                "5643",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de zapatiñones",
+            "en": "Spore Boots Fragment",
+            "fr": "Fragment de Chaussons Pignons",
+            "pt": "Fragmento de Botas Espora"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear unos zapatiñones.",
+            "en": "Collect 100 of these fragments to create Spore Boots.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer des Chaussons Pignons.",
+            "pt": "Reúna 100 fragmentos como este para criar Botas Espora."
+        }
+    },
+    "32302": {
+        "gfxid": "68732302",
+        "drops": [
+            [
+                "5650",
+                "10%"
+            ],
+            [
+                "5649",
+                "1%"
+            ],
+            [
+                "5648",
+                "1%"
+            ],
+            [
+                "5647",
+                "1%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de hombreras de Wyze",
+            "en": "Wyze Epaulettes Fragment",
+            "fr": "Fragment d'Epaulettes de Wyze",
+            "pt": "Fragmento das Ombreiras de Wyze"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear unas hombreras de Wyze.",
+            "en": "Collect 100 of these fragments to create Wyze Epaulettes.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer des Epaulettes de Wyze.",
+            "pt": "Reúna 100 fragmentos como este para criar Ombreiras de Wyze."
+        }
+    },
+    "32343": {
+        "gfxid": "68732300",
+        "drops": [
+            [
+                "5718",
+                "10%"
+            ],
+            [
+                "5718",
+                "10%"
+            ],
+            [
+                "4194",
+                "1%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de anillo de Reiem",
+            "en": "Reiem Ring Fragment",
+            "fr": "Fragment d'Anneau de Reiem",
+            "pt": "Fragmento do Anel de Reiem"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear un anillo de Reiem.",
+            "en": "Collect 100 of these fragments to create a Reiem Ring.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer un Anneau de Reiem.",
+            "pt": "Reúna 100 fragmentos como este para criar um Anel de Reiem."
+        }
+    },
+    "32625": {
+        "gfxid": "68732300",
+        "drops": [
+            [
+                "5664",
+                "10%"
+            ],
+            [
+                "5664",
+                "10%"
+            ],
+            [
+                "5664",
+                "10%"
+            ],
+            [
+                "5664",
+                "10%"
+            ],
+            [
+                "5664",
+                "10%"
+            ],
+            [
+                "5664",
+                "10%"
+            ],
+            [
+                "5664",
+                "10%"
+            ],
+            [
+                "5664",
+                "10%"
+            ]
+        ],
+        "nombre": {
+            "es": "Fragmento de hopalanda de Nox",
+            "en": "Nox Greatcoat Fragment",
+            "fr": "Fragment de Houppelande de Nox",
+            "pt": "Fragmento de Toga de Nox"
+        },
+        "descripcion": {
+            "es": "Hay que reunir 100 fragmentos como este para crear una hopalanda de Nox.",
+            "en": "Collect 100 of these fragments to create a Nox Greatcoat.",
+            "fr": "Il faut réunir 100 de ces fragments pour créer une Houppelande de Nox.",
+            "pt": "Reúna 100 fragmentos como este para criar uma Toga de Nox."
+        }
+    }
+}

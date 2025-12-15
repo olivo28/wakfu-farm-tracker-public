@@ -1,0 +1,1112 @@
+{
+    "9723": {
+        "id": "recipe_relic_9723",
+        "result": {
+            "id": 9723,
+            "name": "Gelanillo"
+        },
+        "ingredients": [
+            {
+                "item_id": 17929,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "17543": {
+        "id": "recipe_relic_17543",
+        "result": {
+            "id": 17543,
+            "name": "Ortiz"
+        },
+        "ingredients": [
+            {
+                "item_id": 18003,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "17544": {
+        "id": "recipe_relic_17544",
+        "result": {
+            "id": 17544,
+            "name": "Solomonk"
+        },
+        "ingredients": [
+            {
+                "item_id": 18001,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "17546": {
+        "id": "recipe_relic_17546",
+        "result": {
+            "id": 17546,
+            "name": "Poderoso cinturón fulgurante"
+        },
+        "ingredients": [
+            {
+                "item_id": 18002,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "18380": {
+        "id": "recipe_relic_18380",
+        "result": {
+            "id": 18380,
+            "name": "Botas focas"
+        },
+        "ingredients": [
+            {
+                "item_id": 18382,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "18381": {
+        "id": "recipe_relic_18381",
+        "result": {
+            "id": 18381,
+            "name": "Hombreras de Dark Vlad"
+        },
+        "ingredients": [
+            {
+                "item_id": 18383,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "18388": {
+        "id": "recipe_relic_18388",
+        "result": {
+            "id": 18388,
+            "name": "Escudo Rano"
+        },
+        "ingredients": [
+            {
+                "item_id": 18400,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "18464": {
+        "id": "recipe_relic_18464",
+        "result": {
+            "id": 18464,
+            "name": "Talismán de Mihmol"
+        },
+        "ingredients": [
+            {
+                "item_id": 18688,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "18537": {
+        "id": "recipe_relic_18537",
+        "result": {
+            "id": 18537,
+            "name": "Devoralmas"
+        },
+        "ingredients": [
+            {
+                "item_id": 18647,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "18555": {
+        "id": "recipe_relic_18555",
+        "result": {
+            "id": 18555,
+            "name": "Llavero dorado"
+        },
+        "ingredients": [
+            {
+                "item_id": 18666,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "19062": {
+        "id": "recipe_relic_19062",
+        "result": {
+            "id": 19062,
+            "name": "Capazar"
+        },
+        "ingredients": [
+            {
+                "item_id": 19163,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "19146": {
+        "id": "recipe_relic_19146",
+        "result": {
+            "id": 19146,
+            "name": "Aguja de más allá de los tiempos"
+        },
+        "ingredients": [
+            {
+                "item_id": 19162,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "19746": {
+        "id": "recipe_relic_19746",
+        "result": {
+            "id": 19746,
+            "name": "Cinturón de los vientos"
+        },
+        "ingredients": [
+            {
+                "item_id": 19853,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "20151": {
+        "id": "recipe_relic_20151",
+        "result": {
+            "id": 20151,
+            "name": "Dagas de agresión"
+        },
+        "ingredients": [
+            {
+                "item_id": 20153,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "20957": {
+        "id": "recipe_relic_20957",
+        "result": {
+            "id": 20957,
+            "name": "Escudo ventiloso"
+        },
+        "ingredients": [
+            {
+                "item_id": 22577,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "21207": {
+        "id": "recipe_relic_21207",
+        "result": {
+            "id": 21207,
+            "name": "Correas sangrientas"
+        },
+        "ingredients": [
+            {
+                "item_id": 21370,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "21548": {
+        "id": "recipe_relic_21548",
+        "result": {
+            "id": 21548,
+            "name": "Kel'Dwa"
+        },
+        "ingredients": [
+            {
+                "item_id": 21696,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "21707": {
+        "id": "recipe_relic_21707",
+        "result": {
+            "id": 21707,
+            "name": "Mark VII"
+        },
+        "ingredients": [
+            {
+                "item_id": 22032,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "21868": {
+        "id": "recipe_relic_21868",
+        "result": {
+            "id": 21868,
+            "name": "Manto del Rey Brujo"
+        },
+        "ingredients": [
+            {
+                "item_id": 22086,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "23924": {
+        "id": "recipe_relic_23924",
+        "result": {
+            "id": 23924,
+            "name": "Amuleto Emental deluxe"
+        },
+        "ingredients": [
+            {
+                "item_id": 21821,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "23959": {
+        "id": "recipe_relic_23959",
+        "result": {
+            "id": 23959,
+            "name": "Botas ceremoniales del Amo de las Ratas"
+        },
+        "ingredients": [
+            {
+                "item_id": 23964,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "24309": {
+        "id": "recipe_relic_24309",
+        "result": {
+            "id": 24309,
+            "name": "Peluca de Gúltar"
+        },
+        "ingredients": [
+            {
+                "item_id": 24838,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "24329": {
+        "id": "recipe_relic_24329",
+        "result": {
+            "id": 24329,
+            "name": "Vacío"
+        },
+        "ingredients": [
+            {
+                "item_id": 24839,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "24331": {
+        "id": "recipe_relic_24331",
+        "result": {
+            "id": 24331,
+            "name": "Hombreras STIM"
+        },
+        "ingredients": [
+            {
+                "item_id": 24840,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "24725": {
+        "id": "recipe_relic_24725",
+        "result": {
+            "id": 24725,
+            "name": "Sulik"
+        },
+        "ingredients": [
+            {
+                "item_id": 24841,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "24737": {
+        "id": "recipe_relic_24737",
+        "result": {
+            "id": 24737,
+            "name": "Rod Gers"
+        },
+        "ingredients": [
+            {
+                "item_id": 24842,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "24790": {
+        "id": "recipe_relic_24790",
+        "result": {
+            "id": 24790,
+            "name": "Poup Korn"
+        },
+        "ingredients": [
+            {
+                "item_id": 24789,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "25073": {
+        "id": "recipe_relic_25073",
+        "result": {
+            "id": 25073,
+            "name": "Memento mori"
+        },
+        "ingredients": [
+            {
+                "item_id": 25093,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "25076": {
+        "id": "recipe_relic_25076",
+        "result": {
+            "id": 25076,
+            "name": "Ugahlureta"
+        },
+        "ingredients": [
+            {
+                "item_id": 25094,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "26498": {
+        "id": "recipe_relic_26498",
+        "result": {
+            "id": 26498,
+            "name": "Sombrero de Roble Blando"
+        },
+        "ingredients": [
+            {
+                "item_id": 26590,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "26500": {
+        "id": "recipe_relic_26500",
+        "result": {
+            "id": 26500,
+            "name": "Sombrero de Gúltar"
+        },
+        "ingredients": [
+            {
+                "item_id": 26678,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "26502": {
+        "id": "recipe_relic_26502",
+        "result": {
+            "id": 26502,
+            "name": "La Pastosa"
+        },
+        "ingredients": [
+            {
+                "item_id": 26589,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "26504": {
+        "id": "recipe_relic_26504",
+        "result": {
+            "id": 26504,
+            "name": "Sello fulgurante"
+        },
+        "ingredients": [
+            {
+                "item_id": 26591,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "26506": {
+        "id": "recipe_relic_26506",
+        "result": {
+            "id": 26506,
+            "name": "Amuleto del Kam Asutra"
+        },
+        "ingredients": [
+            {
+                "item_id": 26592,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "26508": {
+        "id": "recipe_relic_26508",
+        "result": {
+            "id": 26508,
+            "name": "Cinturón Rasgabolario del Rasgabola"
+        },
+        "ingredients": [
+            {
+                "item_id": 26588,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "27026": {
+        "id": "recipe_relic_27026",
+        "result": {
+            "id": 27026,
+            "name": "Cinturón Chafero"
+        },
+        "ingredients": [
+            {
+                "item_id": 27078,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "27030": {
+        "id": "recipe_relic_27030",
+        "result": {
+            "id": 27030,
+            "name": "Velo de tinta"
+        },
+        "ingredients": [
+            {
+                "item_id": 27079,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "27034": {
+        "id": "recipe_relic_27034",
+        "result": {
+            "id": 27034,
+            "name": "Botas Plastao"
+        },
+        "ingredients": [
+            {
+                "item_id": 27080,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "27038": {
+        "id": "recipe_relic_27038",
+        "result": {
+            "id": 27038,
+            "name": "Preferombreras"
+        },
+        "ingredients": [
+            {
+                "item_id": 27081,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "27354": {
+        "id": "recipe_relic_27354",
+        "result": {
+            "id": 27354,
+            "name": "Galones Fred"
+        },
+        "ingredients": [
+            {
+                "item_id": 27526,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "27356": {
+        "id": "recipe_relic_27356",
+        "result": {
+            "id": 27356,
+            "name": "Botas de persecución"
+        },
+        "ingredients": [
+            {
+                "item_id": 27527,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "27358": {
+        "id": "recipe_relic_27358",
+        "result": {
+            "id": 27358,
+            "name": "Caperforada"
+        },
+        "ingredients": [
+            {
+                "item_id": 27528,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "27816": {
+        "id": "recipe_relic_27816",
+        "result": {
+            "id": 27816,
+            "name": "Escudo del capitán Amakna"
+        },
+        "ingredients": [
+            {
+                "item_id": 27984,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "27817": {
+        "id": "recipe_relic_27817",
+        "result": {
+            "id": 27817,
+            "name": "Botas de Kovak"
+        },
+        "ingredients": [
+            {
+                "item_id": 27985,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "27818": {
+        "id": "recipe_relic_27818",
+        "result": {
+            "id": 27818,
+            "name": "Hombreras de liquen"
+        },
+        "ingredients": [
+            {
+                "item_id": 27986,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "27819": {
+        "id": "recipe_relic_27819",
+        "result": {
+            "id": 27819,
+            "name": "Casco de guerrero zoth"
+        },
+        "ingredients": [
+            {
+                "item_id": 27987,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "28089": {
+        "id": "recipe_relic_28089",
+        "result": {
+            "id": 28089,
+            "name": "Chaqueta bonita"
+        },
+        "ingredients": [
+            {
+                "item_id": 28098,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "28090": {
+        "id": "recipe_relic_28090",
+        "result": {
+            "id": 28090,
+            "name": "Verdadero cinturón de potencia"
+        },
+        "ingredients": [
+            {
+                "item_id": 28099,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "28323": {
+        "id": "recipe_relic_28323",
+        "result": {
+            "id": 28323,
+            "name": "Sombrero de Trankitronko"
+        },
+        "ingredients": [
+            {
+                "item_id": 28324,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "28326": {
+        "id": "recipe_relic_28326",
+        "result": {
+            "id": 28326,
+            "name": "Capa De Mirable"
+        },
+        "ingredients": [
+            {
+                "item_id": 28327,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "28329": {
+        "id": "recipe_relic_28329",
+        "result": {
+            "id": 28329,
+            "name": "Último anillo"
+        },
+        "ingredients": [
+            {
+                "item_id": 28330,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "29058": {
+        "id": "recipe_relic_29058",
+        "result": {
+            "id": 29058,
+            "name": "Dantgul"
+        },
+        "ingredients": [
+            {
+                "item_id": 29044,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "29120": {
+        "id": "recipe_relic_29120",
+        "result": {
+            "id": 29120,
+            "name": "Amuleto del espejismo"
+        },
+        "ingredients": [
+            {
+                "item_id": 29045,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "29182": {
+        "id": "recipe_relic_29182",
+        "result": {
+            "id": 29182,
+            "name": "Coraza de Béber"
+        },
+        "ingredients": [
+            {
+                "item_id": 29046,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "29244": {
+        "id": "recipe_relic_29244",
+        "result": {
+            "id": 29244,
+            "name": "Galones de Orf \t"
+        },
+        "ingredients": [
+            {
+                "item_id": 29047,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "29306": {
+        "id": "recipe_relic_29306",
+        "result": {
+            "id": 29306,
+            "name": "Capa nō"
+        },
+        "ingredients": [
+            {
+                "item_id": 29048,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "30147": {
+        "id": "recipe_relic_30147",
+        "result": {
+            "id": 30147,
+            "name": "Botas de Jr."
+        },
+        "ingredients": [
+            {
+                "item_id": 30652,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "30227": {
+        "id": "recipe_relic_30227",
+        "result": {
+            "id": 30227,
+            "name": "Espada del Caballero de Hielo"
+        },
+        "ingredients": [
+            {
+                "item_id": 30649,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "30353": {
+        "id": "recipe_relic_30353",
+        "result": {
+            "id": 30353,
+            "name": "Botas de Koko"
+        },
+        "ingredients": [
+            {
+                "item_id": 30650,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "30393": {
+        "id": "recipe_relic_30393",
+        "result": {
+            "id": 30393,
+            "name": "Coraza de Sine"
+        },
+        "ingredients": [
+            {
+                "item_id": 30651,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "30779": {
+        "id": "recipe_relic_30779",
+        "result": {
+            "id": 30779,
+            "name": "Cinturón de Ghast"
+        },
+        "ingredients": [
+            {
+                "item_id": 30653,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "30872": {
+        "id": "recipe_relic_30872",
+        "result": {
+            "id": 30872,
+            "name": "Sábana cónica"
+        },
+        "ingredients": [
+            {
+                "item_id": 31013,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "31068": {
+        "id": "recipe_relic_31068",
+        "result": {
+            "id": 31068,
+            "name": "Raíz de floribundo"
+        },
+        "ingredients": [
+            {
+                "item_id": 31377,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "31310": {
+        "id": "recipe_relic_31310",
+        "result": {
+            "id": 31310,
+            "name": "Collar de Lolzewolf"
+        },
+        "ingredients": [
+            {
+                "item_id": 31378,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "31319": {
+        "id": "recipe_relic_31319",
+        "result": {
+            "id": 31319,
+            "name": "Capa de Charon"
+        },
+        "ingredients": [
+            {
+                "item_id": 31379,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "31396": {
+        "id": "recipe_relic_31396",
+        "result": {
+            "id": 31396,
+            "name": "Cinturón frrrito"
+        },
+        "ingredients": [
+            {
+                "item_id": 31376,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "31523": {
+        "id": "recipe_relic_31523",
+        "result": {
+            "id": 31523,
+            "name": "Hoja de Toross"
+        },
+        "ingredients": [
+            {
+                "item_id": 31585,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "32078": {
+        "id": "recipe_relic_32078",
+        "result": {
+            "id": 32078,
+            "name": "Corona de Kwoknan"
+        },
+        "ingredients": [
+            {
+                "item_id": 32298,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "32088": {
+        "id": "recipe_relic_32088",
+        "result": {
+            "id": 32088,
+            "name": "Coraza de Kris"
+        },
+        "ingredients": [
+            {
+                "item_id": 32299,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "32098": {
+        "id": "recipe_relic_32098",
+        "result": {
+            "id": 32098,
+            "name": "Cinturón de Akro"
+        },
+        "ingredients": [
+            {
+                "item_id": 32300,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "32108": {
+        "id": "recipe_relic_32108",
+        "result": {
+            "id": 32108,
+            "name": "Hombreras de Wyze"
+        },
+        "ingredients": [
+            {
+                "item_id": 32302,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "32118": {
+        "id": "recipe_relic_32118",
+        "result": {
+            "id": 32118,
+            "name": "Zapatiñones"
+        },
+        "ingredients": [
+            {
+                "item_id": 32301,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "32326": {
+        "id": "recipe_relic_32326",
+        "result": {
+            "id": 32326,
+            "name": "Anillo de Reiem"
+        },
+        "ingredients": [
+            {
+                "item_id": 32343,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    },
+    "32501": {
+        "id": "recipe_relic_32501",
+        "result": {
+            "id": 32501,
+            "name": "Hopalanda de Nox"
+        },
+        "ingredients": [
+            {
+                "item_id": 32625,
+                "quantity": 100
+            }
+        ],
+        "job": null,
+        "level": 0
+    }
+}
