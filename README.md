@@ -1,235 +1,259 @@
-# Wakfu Farm Tracker — Manual de uso (ES / EN / FR / PT)
+# 📘 Wakfu Tracker — User Manual / Manual de Uso
 
-## Índice
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/badge/version-1.0.7-blue.svg)](https://github.com/olivo28/wakfu-farm-tracker)
 
-- [Español (ES)](#es)
-- [English (EN)](#en)
-- [Français (FR)](#fr)
-- [Português (PT)](#pt)
+**Version:** `1.0.7` | **Platforms:** Windows / Linux / Mobile
+
+---
+
+## 🌍 Language / Idioma
+
+- [🇪🇸 Español (ES)](#es)
+- [🇬🇧 English (EN)](#en)
+- [🇫🇷 Français (FR)](#fr)
+- [🇵🇹 Português (PT)](#pt)
 
 ---
 
 <a name="es"></a>
-## Español (ES)
+## 🇪🇸 Español (ES)
 
-### ¿Qué es?
-Wakfu Farm Tracker es una aplicación de escritorio para ayudar a jugadores de Wakfu a rastrear recursos, recetas y progresos de farm/oficios. 
-**Ahora incluye un instalador profesional** que configura la aplicación, crea accesos directos y permite una fácil desinstalación.
+### 💡 ¿Qué es?
+**Wakfu Tracker** es una herramienta "companion" multiplataforma diseñada para optimizar tu experiencia de juego en Wakfu. No es solo una lista de tareas; es un ecosistema conectado entre tu PC y tu Móvil que rastrea recursos, recetas y oficios en tiempo real.
 
-### Qué hace (Actualizado)
-- Escanea archivos de log del juego y detecta eventos (objetos obtenidos/consumidos, recetas realizadas).
-- **Rastreo Inteligente de Recursos:** Mantiene una lista de **Recursos Necesarios (Auto)**, calculando dinámicamente el total de materiales base que te faltan de todas las recetas activas y sincronizando el progreso de tu inventario.
-- **Sincronización Bidireccional:** El progreso anotado en la lista de recursos se refleja automáticamente en la receta que lo requiere, y viceversa.
-- Mantiene una lista de trackers (tarjetas) con recetas y recursos, calculando cantidades necesarias y seguimiento de ítems.
-- Muestra detalles de ítems (icono, rareza, efectos y descripción) usando los datos del motor de datos.
-- Permite búsqueda rápida de ítems y añadir trackers desde resultados.
-- Soporta múltiples idiomas (ES, EN, FR, PT) y selección rápida desde la interfaz.
-- **Chequeo de Versión:** Guarda localmente la versión de la aplicación para buscar actualizaciones periódicas.
+**Novedad v1.0.7:** Ahora incluye un instalador profesional, sincronización real en la nube y una aplicación móvil totalmente funcional.
 
-### Uso (rápido)
-1. **Instalación:** Ejecuta el archivo `Setup.exe`.
-   - Selecciona tu idioma.
-   - Elige el tipo de instalación: "Solo para mí" (recomendado) o "Todos los usuarios".
-   - El instalador copiará los archivos y creará accesos directos en el **Escritorio** y el **Menú Inicio**.
-2. Abre la aplicación desde el nuevo icono en tu escritorio.
-3. En la barra superior selecciona el idioma si es necesario.
-4. **Configuración (⚙️):** Configura la ruta de tus logs (`logs/wakfu.log`), el inicio automático y activa el modo **Recursos Necesarios (Auto)**.
-5. Usa el buscador inferior para localizar un ítem y pulsa `Buscar` para agregar un tracker.
-6. El programa leerá los logs del juego automáticamente.
+### 🚀 Funcionalidades Principales
 
-### Desinstalación
-Actualmente, la aplicación no cuenta con un desinstalador nativo de Windows (unins000.exe).
-Para desinstalarla, **ejecuta el archivo `uninstall.bat`** que se encuentra dentro de la carpeta de instalación (o haz clic derecho en el acceso directo -> "Abrir ubicación del archivo"). Este script eliminará la aplicación, los accesos directos y limpiará el registro automáticamente.
+*   **☁️ Sincronización Cloud (Sync Alert + Pull):** Tu progreso en el PC se refleja instantáneamente en tu móvil y viceversa. Olvida las transferencias manuales; todo viaja por sockets en tiempo real.
+*   **📱 App Móvil Dedicada:** Una interfaz compacta y táctil diseñada para llevar tu lista de farmeo al supermercado o al sofá.
+*   **🔔 Notificaciones Estilo Steam:** Alertas visuales elegantes y no intrusivas en tu escritorio (con animaciones Slide In/Out) cuando completas una receta o alcanzas la meta de recursos.
+*   **📝 Monitoreo de Logs Inteligente:**
+    *   Detecta automáticamente ítems obtenidos y consumidos.
+    *   Diferencia entre perder materiales (por craft) y fabricar ítems, evitando conteos dobles.
+*   **📊 Rastreo de Recursos (Auto):** Calcula dinámicamente los materiales base (hierro, madera, etc.) necesarios para *todas* tus recetas activas combinadas.
+*   **🛡️ Protección de Datos:** Lógica "Anti-Zombie" y "Anti-Rebote" para evitar errores de conteo o conflictos de fecha al sincronizar.
 
-### Planes / Roadmap (detalle)
+### 📖 Guía de Uso Rápido
 
-Corto plazo (próxima versión):
-- **Actualizaciones (CRÍTICO): Implementación completa del `UpdateManager.ts`** para realizar la comprobación de versión y gestionar la descarga automática de nuevas versiones.
-- **Desinstalador Nativo:** Crear un ejecutable de desinstalación real para reemplazar el script `.bat`.
-- macOS / Linux: preparar empaquetados (DMG, PKG, AppImage).
-- Datos: optimizar el cache local, soportar actualizaciones incrementales desde el CDN y modo offline total.
+1.  **Instalación:**
+    *   Ejecuta `Setup.exe`.
+    *   Elige "Solo para mí" (recomendado). La aplicación se copiará a tu carpeta de usuario y creará accesos directos automáticamente.
+2.  **Primeros Pasos (PC):**
+    *   Abre la aplicación.
+    *   Ve a **Configuración (⚙️)**: Verifica la ruta de `wakfu.log` y selecciona tu idioma.
+    *   **Login:** Conecta tu cuenta de Discord para habilitar la sincronización en la nube.
+3.  **Vincular Móvil:**
+    *   Instala la APK en tu Android.
+    *   Inicia sesión con la misma cuenta de Discord. ¡Listo! Tus datos se fusionarán automáticamente.
+4.  **Añadir Trackers:**
+    *   Usa el buscador inferior para encontrar ítems (ej: "Gema tosca").
+    *   Pulsa el botón `(+)` o el `ojo` para rastrear.
+5.  **Jugar:**
+    *   El programa leerá los logs. Si recolectas hierro, la barra subirá sola. Si crafteas, los recursos se descontarán y la receta aumentará.
 
-Medio plazo:
-- Sincronización opcional: diseñar un sistema de sync cifrado (end-to-end) y backups en la nube; importar/exportar listas en JSON/CSV.
-- Integraciones: permitir importar listas y plantillas desde fuentes comunitarias.
-- Rendimiento: optimizaciones de memoria y CPU al construir snapshots grandes.
+### 🗑️ Desinstalación
+Al ser una instalación ligera (copia de archivos), simplemente ejecuta el archivo `uninstall.bat` ubicado en la carpeta de instalación (Click derecho en el icono del escritorio -> Abrir ubicación del archivo) para borrar los archivos y los accesos directos.
 
-### Licencia
+### 🗺️ Roadmap / Planes
 
-**MIT License**
+*   **Corto Plazo:** Implementación completa de `UpdateManager.ts` para actualizaciones automáticas "over-the-air".
+*   **Medio Plazo:**
+    *   Integración de **Firebase (FCM)** para notificaciones Push en el móvil (recibir alertas de crafteo completado en tu teléfono).
+    *   **Background Sync:** Sincronización en segundo plano en móvil, permitiendo que la app se actualice incluso estando "cerrada".
+    *   Backups encriptados end-to-end.
+*   **Largo Plazo (Wakfu Hub):**
+    *   Convertir la aplicación en un **Hub de Herramientas** integral.
+    *   **Combat Meter:** Medidor de daño y estadísticas en tiempo real.
+    *   **Daily Tasks:** Gestor de tareas diarias (Mazmorras, Moduladas, Almanax, etc.).
+    *   **Alertas de Misiones:** Notificaciones automáticas de misiones ambientales/competitivas.
+    *   **Chat Tracker:** Monitoreo del chat con filtros Regex o palabras clave específicas.
+    *   **Buscador de Grupos (LFG):** Sistema avanzado para organizar partidas.
+        *   Crear salas para mazmorras específicas.
+        *   Listado público para buscar grupos.
+        *   Notificación automática al líder cuando el grupo esté lleno.
+        *   **Gestión de Invitaciones:** Los usuarios configurarán su perfil (Nombre de personaje/Servidor) para que el líder sepa exactamente a quién invitar al juego.
 
-Copyright (c) 2025 Antikux
+### ☕ Apoya el Proyecto
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: the above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+Si la herramienta te ayuda a farmear más rápido, considera invitarme un café:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-Aviso legal corto
-Esta herramienta procesa y muestra información obtenida del cliente/juego y de fuentes públicas. El autor no se hace responsable de su uso ni de daños derivados del software. Usa el ejecutable bajo tu responsabilidad.
+*   **Ko-Fi:** [ko-fi.com/olivo28](https://ko-fi.com/olivo28)
+*   **Binance Pay ID:** `196153443`
+*   **USDT (BEP20):** `0x041bedc9c0aab1955552a6a0c4a1bfa44276cabe`
 
 ---
 
 <a name="en"></a>
-## English (EN)
+## 🇬🇧 English (EN)
 
-### What is it?
-Wakfu Farm Tracker is a desktop application to help Wakfu players track resources, recipes, and farming progress. 
-**Now features a professional installer** that handles setup, shortcuts, and uninstallation.
+### 💡 What is it?
+**Wakfu Tracker** is a cross-platform companion tool designed to optimize your Wakfu gameplay. It's not just a to-do list; it's a connected ecosystem between your PC and Mobile that tracks resources, recipes, and professions in real-time.
 
-### What it does (Updated)
-- Watches the game's log files and detects events (items gained/used, recipes crafted).
-- **Smart Resource Tracking:** Maintains a list of **Required Resources (Auto)**, dynamically calculating the total base materials needed from all active recipes and syncing your inventory progress.
-- **Bidirectional Sync:** Progress noted in the resource list is automatically reflected in the requiring recipe, and vice-versa.
-- Keeps a list of trackers (cards) for recipes and resources.
-- Shows item details (icon, rarity, effects, and description).
-- Supports multiple languages (ES, EN, FR, PT).
-- **Version Check:** Locally stores the application version to check for periodic updates.
+**New in v1.0.7:** Now includes a professional installer, real cloud synchronization, and a fully functional mobile app.
 
-### Quick usage
-1. **Installation:** Run the `Setup.exe` file.
-   - Select your language.
-   - Choose installation type: "Only for me" (recommended) or "All users".
-   - The installer will copy files and create shortcuts on the **Desktop** and **Start Menu**.
-2. Launch the app from the new shortcut.
-3. **Settings (⚙️):** Configure your log path, auto-start, and activate the **Required Resources (Auto)** mode.
-4. Use the bottom search to find an item and click `Search` to add a tracker.
+### 🚀 Key Features
 
-### Uninstallation
-Currently, the application does not have a native Windows uninstaller (unins000.exe).
-To uninstall, **run the `uninstall.bat` file** located in the installation folder (or right-click the shortcut -> "Open file location"). This script will automatically remove the application, shortcuts, and clean the registry.
+*   **☁️ Cloud Sync (Sync Alert + Pull):** Your PC progress is instantly reflected on your mobile and vice versa. Forget manual transfers; everything travels via real-time sockets.
+*   **📱 Dedicated Mobile App:** A compact, touch-optimized interface designed to take your farming list to the grocery store or the couch.
+*   **🔔 Steam-style Notifications:** Elegant, non-intrusive visual alerts on your desktop (with Slide In/Out animations) when you complete a recipe or reach a resource goal.
+*   **📝 Smart Log Monitoring:**
+    *   Automatically detects items gained and consumed.
+    *   Smartly differentiates between losing materials (via crafting) and crafting items, preventing double counting.
+*   **📊 Resource Tracking (Auto):** Dynamically calculates the base materials (iron, wood, etc.) needed for *all* your active recipes combined.
+*   **🛡️ Data Protection:** "Anti-Zombie" and "Anti-Rebounce" logic to prevent counting errors or date conflicts during sync.
 
-### Plans / TODO (detailed)
+### 📖 Quick Start Guide
 
-Short term (next release):
-- **Updates (CRITICAL): Full implementation of `UpdateManager.ts`** for version checking and auto-updating.
-- **Native Uninstaller:** Create a real uninstaller executable to replace the `.bat` script.
-- macOS / Linux: Prepare native packages (DMG, PKG, AppImage).
-- Data: Harden local caching, support incremental CDN updates, and offline mode.
+1.  **Installation:**
+    *   Run `Setup.exe`.
+    *   Choose "Only for me" (recommended). The app will be copied to your user folder and shortcuts created automatically.
+2.  **First Steps (PC):**
+    *   Open the app.
+    *   Go to **Settings (⚙️)**: Verify your `wakfu.log` path and select your language.
+    *   **Login:** Connect your Discord account to enable cloud synchronization.
+3.  **Link Mobile:**
+    *   Install the APK on your Android.
+    *   Log in with the same Discord account. Done! Your data will merge automatically.
+4.  **Add Trackers:**
+    *   Use the bottom search bar to find items (e.g., "Rough Gem").
+    *   Click the `(+)` button or the `eye` icon to track.
+5.  **Play:**
+    *   The program reads the logs. If you harvest iron, the bar goes up. If you craft, resources are deducted, and the recipe count increases.
 
-Medium term:
-- Optional sync: End-to-end encrypted cloud backup; JSON/CSV import/export.
-- Integrations: Import community lists/templates.
-- Performance: Reduce memory/CPU usage.
+### 🗑️ Uninstallation
+Since this is a lightweight installation (file copy), simply run the `uninstall.bat` file located in the installation folder (Right-click desktop icon -> Open file location) to remove the files and shortcuts.
 
-### License
+### 🗺️ Roadmap
 
-**MIT License**
+*   **Short Term:** Full implementation of `UpdateManager.ts` for automatic over-the-air updates.
+*   **Medium Term:**
+    *   **Firebase (FCM)** integration for mobile Push Notifications.
+    *   **Background Sync:** Background synchronization on mobile, allowing the app to update even when "closed".
+    *   End-to-end encrypted backups.
+*   **Long Term (Wakfu Hub):**
+    *   Transform the app into an all-in-one **Tool Hub**.
+    *   **Combat Meter:** Real-time damage and stats tracker.
+    *   **Daily Tasks:** Manager for Dungeons, Modulox, Almanax, etc.
+    *   **Quest Alerts:** Automatic notifications for environmental/competitive quests.
+    *   **Chat Tracker:** Chat monitoring with specific keywords or Regex filters.
+    *   **Group Finder (LFG):** Advanced party organizing system.
+        *   Create lobbies for specific dungeons.
+        *   Public list for finding groups.
+        *   Automatic "Group Full" notifications for the leader.
+        *   **Invite Management:** Users will configure their profile (Character Name/Server) so the leader knows exactly who to invite in-game.
 
-Copyright (c) 2024 Antikux
+### ☕ Support the Project
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: the above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+If this tool helps you farm faster, consider buying me a coffee:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-Short legal notice
-This tool processes and displays information obtained from the game client and public sources. The author is not liable for any misuse or damages. Use the executable at your own risk.
+*   **Ko-Fi:** [ko-fi.com/olivo28](https://ko-fi.com/olivo28)
+*   **Binance Pay ID:** `196153443`
+*   **USDT (BEP20):** `0x041bedc9c0aab1955552a6a0c4a1bfa44276cabe`
 
 ---
 
 <a name="fr"></a>
-## Français (FR)
+## 🇫🇷 Français (FR)
 
-### Qu'est-ce que c'est ?
-Wakfu Farm Tracker est une application de bureau aidant les joueurs de Wakfu à suivre ressources, recettes et progressions.
-**Dispose désormais d'un installateur professionnel** qui gère la configuration, les raccourcis et la désinstallation.
+### 💡 Qu'est-ce que c'est ?
+**Wakfu Tracker** est un outil compagnon multiplateforme conçu pour optimiser votre expérience de jeu sur Wakfu. Ce n'est pas seulement une liste de tâches ; c'est un écosystème connecté entre votre PC et votre mobile qui suit les ressources, les recettes et les métiers en temps réel.
 
-### Ce que fait l'application (Mis à jour)
-- Surveille les fichiers de log du jeu et détecte les événements.
-- **Suivi Intelligent des Ressources :** Maintient une liste de **Ressources Nécessaires (Auto)**, calculant dynamiquement le total des matériaux de base manquants.
-- **Synchronisation Bidirectionnelle :** La progression notée dans la liste de ressources est automatiquement reflétée dans la recette.
-- Garde une liste de trackers (cartes) pour recettes et ressources.
-- Affiche les détails des objets (icône, rareté, effets).
-- Supporte plusieurs langues (ES, EN, FR, PT).
-- **Vérification de Version :** Vérifie les mises à jour périodiques.
+**Nouveauté v1.0.7 :** Inclut désormais un installateur professionnel, une véritable synchronisation cloud et une application mobile entièrement fonctionnelle.
 
-### Utilisation rapide
-1. **Installation :** Lancez le fichier `Setup.exe`.
-   - Sélectionnez votre langue.
-   - Choisissez le type d'installation : "Seulement pour moi" (recommandé) ou "Tous les utilisateurs".
-   - L'installateur créera des raccourcis sur le **Bureau** et dans le **Menu Démarrer**.
-2. Lancez l'application depuis le nouveau raccourci.
-3. **Configuration (⚙️) :** Configurez le chemin des logs et activez le mode **Ressources Nécessaires (Auto)**.
-4. Utilisez la recherche pour ajouter un tracker.
+### 🚀 Fonctionnalités Clés
 
-### Désinstallation
-Actuellement, l'application ne dispose pas d'un désinstallateur Windows natif.
-Pour désinstaller, **exécutez le fichier `uninstall.bat`** situé dans le dossier d'installation (ou faites un clic droit sur le raccourci -> "Ouvrir l'emplacement du fichier"). Ce script supprimera automatiquement l'application, les raccourcis et nettoiera le registre.
+*   **☁️ Cloud Sync (Sync Alert + Pull) :** Votre progression sur PC est instantanément reflétée sur votre mobile et vice versa.
+*   **📱 App Mobile Dédiée :** Une interface compacte et tactile conçue pour emporter votre liste de farm partout.
+*   **🔔 Notifications style Steam :** Des alertes visuelles élégantes et non intrusives sur votre bureau (avec animations) lorsque vous terminez une recette.
+*   **📝 Surveillance Intelligente des Logs :**
+    *   Détecte automatiquement les objets obtenus et consommés.
+    *   Différencie la perte de matériaux (par craft) de la fabrication d'objets, évitant le double comptage.
+*   **📊 Suivi des Ressources (Auto) :** Calcule dynamiquement les matériaux de base nécessaires pour *toutes* vos recettes actives combinées.
 
-### Plans / TODO (détaillé)
+### 📖 Guide Rapide
 
-Court terme (prochaine version) :
-- **Mises à jour (CRITIQUE) : Implémentation de `UpdateManager.ts`** pour les mises à jour automatiques.
-- **Désinstallateur Natif :** Créer un véritable exécutable de désinstallation.
-- macOS / Linux : Préparer des paquets natifs.
-- Données : Renforcer le cache local et le mode hors-ligne.
+1.  **Installation :** Exécutez `Setup.exe`. Choisissez "Seulement pour moi". L'application est copiée localement.
+2.  **PC :** Ouvrez l'app, configurez le chemin des logs dans **Paramètres (⚙️)** et connectez-vous avec Discord.
+3.  **Mobile :** Installez l'APK, connectez-vous avec Discord. La synchronisation est automatique.
+4.  **Utilisation :** Cherchez des objets en bas et ajoutez-les. Le programme mettra à jour les quantités automatiquement en lisant les logs du jeu.
 
-Moyen terme :
-- Synchronisation : Sauvegarde cloud chiffrée ; import/export JSON/CSV.
-- Intégrations : Listes communautaires.
+### 🗑️ Désinstallation
+Exécutez simplement le fichier `uninstall.bat` situé dans le dossier d'installation pour supprimer les fichiers et les raccourcis.
 
-### Licence
+### 🗺️ Roadmap / Avenir
 
-**MIT License**
+*   **Court Terme :** Mises à jour automatiques.
+*   **Moyen Terme :**
+    *   Intégration **Firebase** pour les notifications push sur mobile.
+    *   **Background Sync :** Synchronisation en arrière-plan sur mobile.
+*   **Long Terme (Wakfu Hub) :**
+    *   Conversion en un **Hub d'Outils** complet.
+    *   **Combat Meter :** Suivi des dégâts en temps réel.
+    *   **Tâches Quotidiennes :** Gestion des donjons, modulés, etc.
+    *   **Chat Tracker :** Surveillance du chat avec mots-clés ou Regex.
+    *   **Recherche de Groupe (LFG) :** Système avancé pour organiser des groupes.
+        *   Créer des salons pour des donjons spécifiques.
+        *   Liste publique pour trouver des groupes.
+        *   Notification "Groupe Complet" pour le chef.
+        *   **Gestion des invitations :** Les utilisateurs configureront leur profil (Nom du perso/Serveur) pour faciliter les invitations en jeu.
 
-Copyright (c) 2024 Antikux
+### ☕ Soutenir le projet
 
-Ce logiciel est fourni « tel quel », sans garantie d'aucune sorte, expresse ou implicite, y compris, mais sans s'y limiter, les garanties de qualité marchande, d'adéquation à un usage particulier et d'absence de contrefaçon. En aucun cas, les auteurs ou titulaires du droit d'auteur ne seront responsables de toute réclamation, dommage ou autre responsabilité, que ce soit dans une action contractuelle, délictuelle ou autre, découlant de, hors de ou en connexion avec le logiciel ou l'utilisation ou d'autres transactions dans le logiciel.
-
-**Avis Légal Court :**
-Cet outil traite et affiche des informations obtenues à partir du client du jeu et de sources publiques. L'auteur n'est pas responsable de toute mauvaise utilisation ou de tout dommage. Utilisez l'exécutable à vos risques et périls.
-
+*   **Ko-Fi :** [ko-fi.com/olivo28](https://ko-fi.com/olivo28)
+*   **Binance Pay ID :** `196153443`
 
 ---
 
 <a name="pt"></a>
-## Português (PT)
+## 🇵🇹 Português (PT)
 
-### O que é?
-Wakfu Farm Tracker é uma aplicação de desktop para ajudar jogadores de Wakfu a rastrear recursos e receitas.
-**Agora inclui um instalador profissional** que gerencia configuração, atalhos e desinstalação.
+### 💡 O que é?
+**Wakfu Tracker** é uma ferramenta "companion" multiplataforma projetada para otimizar sua jogabilidade no Wakfu. É um ecossistema conectado entre seu PC e Celular que rastreia recursos, receitas e profissões em tempo real.
 
-### O que faz (Atualizado)
-- Monitora arquivos de log do jogo e detecta eventos.
-- **Rastreamento Inteligente de Recursos:** Mantém uma lista de **Recursos Necessários (Auto)**, calculando dinamicamente o total de materiais base necessários.
-- **Sincronização Bidirecional:** O progresso anotado na lista de recursos é automaticamente refletido na receita.
-- Mantém lista de trackers (cartões).
-- Mostra detalhes de itens.
-- Suporta múltiplos idiomas (ES, EN, FR, PT).
-- **Verificação de Versão:** Verifica atualizações periodicamente.
+**Novidade v1.0.7:** Agora inclui um instalador profissional, sincronização real na nuvem e um aplicativo móvel totalmente funcional.
 
-### Uso rápido
-1. **Instalação:** Execute o arquivo `Setup.exe`.
-   - Selecione o idioma.
-   - Escolha o tipo de instalação: "Apenas para mim" (recomendado) ou "Todos os usuários".
-   - O instalador criará atalhos na **Área de Trabalho** e no **Menu Iniciar**.
-2. Abra a aplicação pelo novo atalho.
-3. **Configuração (⚙️):** Configure o caminho dos logs e ative o modo **Recursos Necessários (Auto)**.
-4. Use a busca para adicionar um tracker.
+### 🚀 Funcionalidades Principais
 
-### Desinstalação
-Atualmente, a aplicação não possui um desinstalador nativo do Windows.
-Para desinstalar, **execute o arquivo `uninstall.bat`** localizado na pasta de instalação (ou clique com o botão direito no atalho -> "Abrir local do arquivo"). Este script removerá automaticamente a aplicação, os atalhos e limpará o registro.
+*   **☁️ Sincronização Cloud (Sync Alert + Pull):** Seu progresso no PC é refletido instantaneamente no celular e vice-versa.
+*   **📱 App Mobile Dedicado:** Interface compacta e tátil para levar sua lista de farm para qualquer lugar.
+*   **🔔 Notificações Estilo Steam:** Alertas visuais elegantes na área de trabalho quando você completa uma receita.
+*   **📝 Monitoramento Inteligente de Logs:** Detecta itens obtidos/consumidos e evita contagem dupla ao craftar.
+*   **📊 Rastreamento de Recursos (Auto):** Calcula dinamicamente os materiais base necessários para *todas* as suas receitas ativas.
 
-### Planos / Roadmap (detalhado)
+### 📖 Guia Rápido
 
-Curto prazo (próxima versão):
-- **Atualizações (CRÍTICO): Implementação do `UpdateManager.ts`** para atualizações automáticas.
-- **Desinstalador Nativo:** Criar um executável de desinstalação real.
-- macOS / Linux : Pacotes nativos.
-- Dados: Cache local e modo offline.
+1.  **Instalação:** Execute o `Setup.exe`. Escolha "Apenas para mim". A aplicação será copiada e configurada automaticamente.
+2.  **PC:** Abra o app, configure o caminho dos logs em **Configurações (⚙️)** e faça login com o Discord.
+3.  **Mobile:** Instale o APK, faça login com o Discord. A sincronização é automática.
+4.  **Uso:** Busque itens na barra inferior e adicione-os. O programa atualizará as quantidades automaticamente lendo os logs do jogo.
 
-Médio prazo:
-- Sincronização: Backup em nuvem criptografado; import/export JSON/CSV.
-- Integrações: Listas comunitárias.
+### 🗑️ Desinstalação
+Basta executar o arquivo `uninstall.bat` localizado na pasta de instalação para remover os arquivos e atalhos.
 
-### Licença
+### 🗺️ Roadmap / Futuro
 
-**MIT License**
+*   **Curto Prazo:** Atualizações automáticas.
+*   **Médio Prazo:**
+    *   Integração **Firebase** para notificações push no celular.
+    *   **Background Sync:** Sincronização em segundo plano no celular.
+*   **Longo Prazo (Wakfu Hub):**
+    *   Transformar o app em um **Hub de Ferramentas**.
+    *   **Combat Meter:** Medidor de dano em tempo real.
+    *   **Tarefas Diárias:** Gerenciador de Calabouços, Moduladas, etc.
+    *   **Chat Tracker:** Monitoramento de chat com palavras-chave ou Regex.
+    *   **Localizador de Grupos (LFG):** Sistema avançado de organização de grupos.
+        *   Criar salas para calabouços específicos.
+        *   Lista pública para encontrar grupos.
+        *   Notificação automática de "Grupo Cheio" para o líder.
+        *   **Gestão de Convites:** Os usuários configurarão seu perfil (Nome do personagem/Servidor) para facilitar o convite dentro do jogo.
 
-Copyright (c) 2024 Antikux
+### ☕ Apoie o projeto
 
-Este software é fornecido "no estado em que se encontra", sem garantia de qualquer tipo, expressa ou implícita, incluindo, mas não se limitando às garantias de comercialização, adequação a uma finalidade específica e não violação. Em hipótese alguma os autores ou detentores de direitos autorais serão responsáveis por qualquer reclamação, danos ou outra responsabilidade, seja em uma ação de contrato, ato ilícito ou de outra forma, decorrente de, fora de ou em conexão com o software ou o uso ou outras negociações no software.
+*   **Ko-Fi:** [ko-fi.com/olivo28](https://ko-fi.com/olivo28)
+*   **Binance Pay ID:** `196153443`
 
-**Aviso Legal Curto:**
-Esta ferramenta processa e exibe informações obtidas no cliente do jogo e em fontes públicas. O autor não se responsabiliza por qualquer uso indevido ou danos. Utilize o executável por sua conta e risco.
-   
+---
+
+**Legal Notice:** This tool processes information obtained from the game client and public sources. The author is not liable for any misuse. Use at your own risk.
