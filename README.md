@@ -22,7 +22,7 @@
 ### 💡 ¿Qué es?
 **Wakfu Tracker** es una herramienta "companion" multiplataforma diseñada para optimizar tu experiencia de juego en Wakfu. No es solo una lista de tareas; es un ecosistema conectado entre tu PC y tu Móvil que rastrea recursos, recetas y oficios en tiempo real.
 
-**Novedad v1.0.7w:** Ahora incluye un sistema de auto-actualización inteligente, sincronización real en la nube impulsada por una API dedicada y una aplicación móvil totalmente funcional.
+**Novedad v1.1.0w:** Esta versión introduce una **inteligencia de inventario avanzada**. Ahora el sistema detecta conflictos de rareza (nombres duplicados), permite elegir entre múltiples recetas para un mismo ítem y utiliza una lógica de "crafteo en cascada" para mantener tus cuentas perfectas.
 
 ### 🏗️ Arquitectura del Proyecto
 El sistema se compone de tres pilares conectados:
@@ -32,16 +32,17 @@ El sistema se compone de tres pilares conectados:
 
 ### ✨ Características Principales
 
-- **🔄 Auto-Actualización (OTA):** (NUEVO) Sistema inteligente que detecta nuevas versiones al instante (vía Webhook) y permite actualizar sin salir de la app.
+- **🛡️ Resolución de Conflictos de Rareza:** (NUEVO) Sistema inteligente que detecta cuando el juego entrega un ítem con nombre ambiguo (ej. *Equipo Raro vs Mítico*) y te permite elegir visualmente la versión correcta.
+- **📜 Selector Multi-Receta:** (NUEVO) Para ítems que se pueden fabricar de varias formas (ej. *Cuero Eterno*), ahora puedes intercambiar la receta activa con un solo clic.
+- **🧮 Lógica de Crafteo Inteligente:**
+    - **Crafteo en Cascada:** Al crear grandes lotes, la cantidad se distribuye automáticamente entre todas las tarjetas activas del mismo ítem.
+    - **Cálculo "Auto" Dinámico:** La lista de recursos automáticos ahora calcula solo lo que **te falta** en tiempo real, ignorando lo que ya tienes en inventario.
+- **🔄 Auto-Actualización Blindada:** Sistema OTA robusto que actualiza la aplicación sin bloqueos de archivos ni errores de permisos.
 - **☁️ Sincronización Cloud:** Tu progreso en el PC se refleja instantáneamente en tu móvil y viceversa.
-- **🔍 Búsqueda Inteligente de Ítems**: Sistema de búsqueda avanzado con filtrado por rareza, tipo y utilidad.
-- **📊 Rastreo de Recursos Automático**: Calcula dinámicamente los materiales base necesarios para todas tus recetas activas.
-- **📝 Monitoreo de Logs**: Detecta eventos del juego en tiempo real (ítems obtenidos/consumidos, recetas craftadas) evitando conteos dobles.
-- **🌍 Soporte Multiidioma**: Interfaz completa en Español, Inglés, Francés y Portugués.
-- **💾 Persistencia Local**: Guarda tu progreso automáticamente usando AsyncStorage/Electron Store.
-- **🎨 Interfaz Moderna**: Diseño intuitivo con soporte para temas, notificaciones estilo Steam y visualización de rareza.
-- **📦 Detalles Completos de Ítems**: Visualiza iconos, efectos, descripciones y fuentes de obtención.
-- **🔧 Sistema de Recetas Custom**: Soporte para reliquias y recetas especiales no oficiales.
+- **⚡ Controles Rápidos:** Botones de `[+]` y `[-]` en las tarjetas para ajustes rápidos de cantidad.
+- **📝 Monitoreo de Logs:** Detecta eventos del juego en tiempo real (ítems obtenidos/consumidos, recetas craftadas) evitando conteos dobles.
+- **🌍 Soporte Multiidioma:** Interfaz completa en Español, Inglés, Francés y Portugués.
+- **📦 Detalles Completos de Ítems:** Visualiza iconos, efectos, descripciones, niveles y fuentes de obtención.
 
 ### 🔒 Privacidad y Seguridad
 *   **Datos Locales:** La información de tu inventario se guarda localmente en tu dispositivo.
@@ -69,7 +70,7 @@ Ejecuta el archivo `uninstall.bat` ubicado en la carpeta de instalación.
 
 ### 🗺️ Roadmap / Planes
 
-*   **Corto Plazo:** Optimización del sistema de WebSocket.
+*   **Corto Plazo:** Optimización del sistema de WebSocket y refinamiento de la UI móvil.
 *   **Medio Plazo:**
     *   Integración de **Firebase (FCM)** para notificaciones Push en el móvil.
     *   **Background Sync:** Sincronización en segundo plano en móvil.
@@ -79,7 +80,6 @@ Ejecuta el archivo `uninstall.bat` ubicado en la carpeta de instalación.
     *   **Combat Meter:** Medidor de daño y estadísticas en tiempo real.
     *   **Daily Tasks:** Gestor de tareas diarias (Mazmorras, Moduladas, Almanax, etc.).
     *   **Chat Tracker:** Monitoreo del chat con filtros Regex.
-    *   **Buscador de Grupos (LFG):** Sistema avanzado para organizar partidas.
 
 ### 🙏 Agradecimentos
 
@@ -117,7 +117,7 @@ EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O 
 ### 💡 What is it?
 **Wakfu Tracker** is a cross-platform companion tool designed to optimize your Wakfu gameplay. It is a connected ecosystem between your PC and Mobile that tracks resources, recipes, and professions in real-time.
 
-**New in v1.0.7w:** Now includes an intelligent auto-update system, real cloud synchronization powered by a dedicated API, and a fully functional mobile app.
+**New in v1.1.0w:** This version introduces **advanced inventory intelligence**. The system now detects rarity conflicts (duplicate names), allows choosing between multiple recipes for a single item, and uses "cascading craft" logic to keep your counts perfect.
 
 ### 🏗️ Project Architecture
 The system consists of three connected pillars:
@@ -127,16 +127,17 @@ The system consists of three connected pillars:
 
 ### ✨ Key Features
 
-- **🔄 Auto-Update (OTA):** (NEW) Intelligent system that instantly detects new versions (via Webhook) allowing updates without leaving the app.
+- **🛡️ Rarity Conflict Resolution:** (NEW) Smart system that detects when the game drops an item with an ambiguous name (e.g., *Rare vs Mythical Equipment*) and lets you visually select the correct version.
+- **📜 Multi-Recipe Selector:** (NEW) For items that can be crafted in multiple ways (e.g., *Eternal Leather*), you can now swap the active recipe with a single click.
+- **🧮 Smart Crafting Logic:**
+    - **Cascading Craft:** When creating large batches, the quantity is automatically distributed among all active cards for the same item.
+    - **Dynamic "Auto" Calculation:** The automatic resources list now calculates only what is **missing** in real-time, ignoring what you already have in inventory.
+- **🔄 Bulletproof Auto-Update:** Robust OTA system that updates the app without file locks or permission errors.
 - **☁️ Cloud Sync:** Instant progress reflection between PC and mobile via real-time sockets.
-- **🔍 Smart Item Search**: Advanced search system with filtering by rarity, type, and utility.
-- **📊 Automatic Resource Tracking**: Dynamically calculates base materials needed for all active recipes.
-- **📝 Log Monitoring**: Detects game events in real-time (items obtained/consumed) preventing double counting.
-- **🌍 Multi-language Support**: Full interface in Spanish, English, French, and Portuguese.
-- **💾 Local Persistence**: Automatically saves your progress using AsyncStorage/Electron Store.
-- **🎨 Modern Interface**: Intuitive design with theme support, Steam-style notifications, and item rarity visualization.
-- **📦 Complete Item Details**: View icons, effects, descriptions, and sources.
-- **🔧 Custom Recipe System**: Support for relics and unofficial special recipes.
+- **⚡ Quick Controls:** `[+]` and `[-]` buttons on cards for fast quantity adjustments.
+- **📝 Log Monitoring:** Detects game events in real-time preventing double counting.
+- **🌍 Multi-language Support:** Full interface in Spanish, English, French, and Portuguese.
+- **📦 Complete Item Details:** View icons, effects, descriptions, levels, and sources.
 
 ### 🔒 Privacy & Security
 *   **Local Data:** Inventory data is stored locally on your device.
@@ -163,7 +164,7 @@ Run the `uninstall.bat` file located in the installation folder.
 
 ### 🗺️ Roadmap
 
-*   **Short Term:** WebSocket optimization.
+*   **Short Term:** WebSocket optimization and mobile UI refinement.
 *   **Medium Term:**
     *   **Firebase (FCM)** integration for mobile Push Notifications.
     *   **Background Sync:** Background synchronization on mobile.
@@ -173,7 +174,6 @@ Run the `uninstall.bat` file located in the installation folder.
     *   **Combat Meter:** Real-time damage stats.
     *   **Daily Tasks:** Manager for Dungeons, Modulox, etc.
     *   **Chat Tracker:** Chat monitoring with Regex.
-    *   **Group Finder (LFG):** Advanced party organizing system.
 
 ### 🙏 Acknowledgments
 
@@ -210,7 +210,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ### 💡 Qu'est-ce que c'est ?
 **Wakfu Tracker** est un outil compagnon multiplateforme conçu pour optimiser votre expérience de jeu sur Wakfu. C'est un écosystème connecté entre votre PC et votre mobile qui suit les ressources et les recettes en temps réel.
 
-**Nouveauté v1.0.7w :** Inclut désormais un système de mise à jour automatique intelligent, une synchronisation cloud réelle et une application mobile complète.
+**Nouveauté v1.1.0w :** Cette version introduit une **intelligence d'inventaire avancée**. Le système détecte désormais les conflits de rareté (noms en double), permet de choisir entre plusieurs recettes pour un même objet et utilise une logique "d'artisanat en cascade" pour garder vos comptes parfaits.
 
 ### 🏗️ Architecture du Projet
 Le système repose sur trois piliers :
@@ -220,16 +220,17 @@ Le système repose sur trois piliers :
 
 ### ✨ Fonctionnalités Principales
 
-- **🔄 Mise à Jour Automatique (OTA) :** (NOUVEAU) Système intelligent qui détecte les nouvelles versions (via Webhook) et permet la mise à jour sans quitter l'app.
+- **🛡️ Résolution de Conflits de Rareté :** (NOUVEAU) Système intelligent qui détecte lorsque le jeu donne un objet au nom ambigu (ex. *Équipement Rare vs Mythique*) et vous permet de choisir visuellement la bonne version.
+- **📜 Sélecteur Multi-Recettes :** (NOUVEAU) Pour les objets pouvant être fabriqués de plusieurs manières (ex. *Cuir Éternel*), vous pouvez désormais changer la recette active en un clic.
+- **🧮 Logique d'Artisanat Intelligente :**
+    - **Artisanat en Cascade :** Lors de la création de grands lots, la quantité est automatiquement répartie entre toutes les cartes actives du même objet.
+    - **Calcul "Auto" Dynamique :** La liste des ressources automatiques ne calcule désormais que ce qui **manque** en temps réel, ignorant ce que vous avez déjà en inventaire.
+- **🔄 Mise à Jour Automatique Blindée :** Système OTA robuste qui met à jour l'application sans blocage de fichiers ni erreur de permission.
 - **☁️ Cloud Sync :** Votre progression voyage instantanément entre PC et mobile.
-- **🔍 Recherche Intelligente d'Objets**: Système de recherche avancé avec filtrage.
-- **📊 Suivi Automatique des Ressources**: Calcule dynamiquement les matériaux de base nécessaires.
-- **📝 Surveillance des Logs**: Détecte les événements du jeu en temps réel, évitant le double comptage.
-- **🌍 Support Multilingue**: Interface complète en Espagnol, Anglais, Français et Portugais.
-- **💾 Persistance Locale**: Sauvegarde automatiquement votre progression.
-- **🎨 Interface Moderne**: Design intuitif, notifications style Steam et visualisation de la rareté.
-- **📦 Détails Complets des Objets**: Visualisez icônes, effets, descriptions et sources.
-- **🔧 Système de Recettes Custom**: Support pour reliques et recettes spéciales.
+- **⚡ Contrôles Rapides :** Boutons `[+]` et `[-]` sur les cartes pour des ajustements rapides de quantité.
+- **📝 Surveillance des Logs :** Détecte les événements du jeu en temps réel, évitant le double comptage.
+- **🌍 Support Multilingue :** Interface complète en Espagnol, Anglais, Français et Portugais.
+- **📦 Détails Complets des Objets :** Visualisez icônes, effets, descriptions, niveaux et sources.
 
 ### 🔒 Confidentialité et Sécurité
 *   **Données Locales :** Les données d'inventaire sont stockées localement.
@@ -256,7 +257,7 @@ Exécutez le fichier `uninstall.bat` dans le dossier d'installation.
 
 ### 🗺️ Roadmap / Avenir
 
-*   **Court Terme :** Optimisation des WebSockets.
+*   **Court Terme :** Optimisation des WebSockets et raffinement UI mobile.
 *   **Moyen Terme :**
     *   Intégration **Firebase** pour notifications push.
     *   **Background Sync :** Synchronisation en arrière-plan.
@@ -264,7 +265,7 @@ Exécutez le fichier `uninstall.bat` dans le dossier d'installation.
     *   Conversion en un **Hub d'Outils** complet.
     *   **Combat Meter :** Suivi des dégâts.
     *   **Tâches Quotidiennes :** Gestion des donjons, etc.
-    *   **Recherche de Groupe (LFG) :** Système avancé pour organiser des groupes.
+    *   **Chat Tracker :** Surveillance du chat avec filtres Regex.
 
 ### 🙏 Remerciements
 
@@ -297,7 +298,7 @@ L'autorisation est accordée, gratuitement, à toute personne obtenant une copie
 ### 💡 O que é?
 **Wakfu Tracker** é uma ferramenta "companion" multiplataforma projetada para otimizar sua jogabilidade no Wakfu. É um ecossistema conectado entre seu PC e Celular que rastreia recursos e receitas em tempo real.
 
-**Novidade v1.0.7w:** Agora inclui um sistema de atualização automática inteligente, sincronização real na nuvem e um aplicativo móvel completo.
+**Novidade v1.1.0w:** Esta versão introduz **inteligência de inventário avançada**. O sistema agora detecta conflitos de raridade (nomes duplicados), permite escolher entre várias receitas para um mesmo item e usa lógica de "crafting em cascata" para manter suas contas perfeitas.
 
 ### 🏗️ Arquitetura do Projeto
 O sistema é composto por três pilares conectados:
@@ -307,16 +308,17 @@ O sistema é composto por três pilares conectados:
 
 ### ✨ Funcionalidades Principais
 
-- **🔄 Atualização Automática (OTA):** (NOVO) Sistema inteligente que detecta novas versões instantaneamente (via Webhook) e permite atualizar sem sair do app.
+- **🛡️ Resolução de Conflitos de Raridade:** (NOVO) Sistema inteligente que detecta quando o jogo dropa um item com nome ambíguo (ex. *Equipamento Raro vs Mítico*) e permite escolher visualmente a versão correta.
+- **📜 Seletor Multi-Receita:** (NOVO) Para itens que podem ser fabricados de várias formas (ex. *Couro Eterno*), agora você pode trocar a receita ativa com um clique.
+- **🧮 Lógica de Crafting Inteligente:**
+    - **Crafting em Cascata:** Ao criar grandes lotes, a quantidade é distribuída automaticamente entre todos os cartões ativos do mesmo item.
+    - **Cálculo "Auto" Dinâmico:** A lista de recursos automáticos agora calcula apenas o que **falta** em tempo real, ignorando o que você já tem no inventário.
+- **🔄 Atualização Automática Blindada:** Sistema OTA robusto que atualiza o aplicativo sem bloqueios de arquivos ou erros de permissão.
 - **☁️ Sincronização Cloud:** Seu progresso viaja instantaneamente entre PC e celular.
-- **🔍 Busca Inteligente de Itens**: Sistema de busca avançado com filtragem.
-- **📊 Rastreamento Automático de Recursos**: Calcula dinamicamente os materiais base necessários.
-- **📝 Monitoramento de Logs**: Detecta eventos do jogo em tempo real e evita contagem dupla ao craftar.
-- **🌍 Suporte Multilíngue**: Interface completa em Espanhol, Inglês, Francés e Português.
-- **💾 Persistência Local**: Salva seu progresso automaticamente.
-- **🎨 Interface Moderna**: Design intuitivo, notificações estilo Steam e visualização de raridade.
-- **📦 Detalhes Completos de Itens**: Visualize ícones, efeitos, descrições e fontes.
-- **🔧 Sistema de Receitas Custom**: Suporte para relíquias e receitas especiais.
+- **⚡ Controles Rápidos:** Botões `[+]` e `[-]` nos cartões para ajustes rápidos de quantidade.
+- **📝 Monitoramento de Logs:** Detecta eventos do jogo em tempo real, evitando contagem dupla.
+- **🌍 Suporte Multilíngue**: Interface completa em Espanhol, Inglês, Francês e Português.
+- **📦 Detalhes Completos de Itens**: Visualize ícones, efeitos, descrições, níveis e fontes.
 
 ### 🔒 Privacidade e Segurança
 *   **Dados Locais:** Informações salvas localmente.
@@ -343,7 +345,7 @@ Execute o arquivo `uninstall.bat` na pasta de instalação.
 
 ### 🗺️ Roadmap / Futuro
 
-*   **Curto Prazo:** Otimização de WebSocket.
+*   **Curto Prazo:** Otimização de WebSocket e refinamento de UI mobile.
 *   **Médio Prazo:**
     *   Integração **Firebase** para notificações push.
     *   **Background Sync:** Sincronização em segundo plano no celular.
@@ -351,7 +353,7 @@ Execute o arquivo `uninstall.bat` na pasta de instalação.
     *   Transformar o app em um **Hub de Ferramentas**.
     *   **Combat Meter:** Medidor de dano.
     *   **Tarefas Diárias:** Gerenciador de Calabouços, etc.
-    *   **Localizador de Grupos (LFG):** Sistema avançado de organização de grupos.
+    *   **Chat Tracker:** Monitoramento de chat com filtros Regex.
 
 ### 🙏 Agradecimentos
 
