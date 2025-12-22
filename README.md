@@ -1,9 +1,9 @@
 # 📘 Wakfu Tracker — User Manual / Manual de Uso
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-1.0.9w-blue.svg)](https://github.com/olivo28/wakfu-farm-tracker)
+[![Version](https://img.shields.io/badge/version-1.1.0w-blue.svg)](https://github.com/olivo28/wakfu-farm-tracker)
 
-**Version:** `1.0.9w` | **Platforms:** Windows / Linux / Mobile
+**Version:** `1.1.0w` | **Platforms:** Windows / Linux / Mobile
 
 ---
 
